@@ -5,6 +5,8 @@
        are left alone. */ -}}
 {{- $dest := .Destination -}}
 {{- if and (strings.HasPrefix $dest "/") (not (strings.HasPrefix $dest "//")) -}}
-  {{- $dest = $dest | relURL -}}
+  {{- /* Strip leading slash so relURL joins with the baseURL subpath
+         (relURL leaves rooted paths unchanged otherwise). */ -}}
+  {{- $dest = strings.TrimPrefix "/" $dest | relURL -}}
 {{- end -}}
 <img src="{{ $dest | safeURL }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy">
