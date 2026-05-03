@@ -24,6 +24,7 @@
           throw new Error('vis-network not loaded');
         }
         loading.remove();
+        populateA11yList(payload);
         render(root, payload);
       })
       .catch(function (err) {
@@ -32,12 +33,28 @@
       });
   }
 
+  function populateA11yList(payload) {
+    var list = document.getElementById('graph-links');
+    if (!list) return;
+    var frag = document.createDocumentFragment();
+    payload.nodes.forEach(function (n) {
+      if (!n.url) return;
+      var li = document.createElement('li');
+      var a = document.createElement('a');
+      a.href = n.url;
+      a.textContent = n.label + ' (' + n.group + ')';
+      li.appendChild(a);
+      frag.appendChild(li);
+    });
+    list.appendChild(frag);
+  }
+
   function render(root, payload) {
     var isSmall = window.matchMedia('(max-width: 640px)').matches;
     var groupStyles = {
       category: { color: { background: '#3b82f6', border: '#1d4ed8' }, font: { color: '#ffffff', size: isSmall ? 13 : 16 }, shape: 'dot' },
       tag:      { color: { background: '#14b8a6', border: '#0f766e' }, font: { color: '#ffffff', size: isSmall ? 10 : 12 }, shape: 'dot' },
-      post:     { color: { background: '#a78bfa', border: '#7c3aed' }, font: { color: '#1f2937', size: isSmall ? 0 : 11 }, shape: 'dot' }
+      post:     { color: { background: '#a78bfa', border: '#7c3aed' }, font: { color: '#ffffff', size: isSmall ? 0 : 11 }, shape: 'dot' }
     };
 
     var nodes = payload.nodes.map(function (n) {

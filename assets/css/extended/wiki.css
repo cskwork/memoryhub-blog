@@ -2,16 +2,11 @@
 
 /* Break the wiki + graph blocks out of PaperMod's centered 720px column
    so they fill the viewport while the post list keeps its readable
-   narrow column. The full-bleed technique works at every screen size:
-   on phones the section is exactly viewport-wide with edge padding;
-   on desktop it expands up to a sane max width. */
+   narrow column. We use the "margin escape" form (instead of 100vw)
+   to avoid horizontal scrollbar when a vertical scrollbar is present. */
 .home-wide {
-  position: relative;
-  left: 50%;
-  right: 50%;
-  width: 100vw;
-  margin-left: -50vw;
-  margin-right: -50vw;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
   padding-inline: clamp(16px, 4vw, 80px);
   box-sizing: border-box;
 }
@@ -179,7 +174,7 @@
   border-radius: var(--radius);
   position: relative;
   overflow: hidden;
-  touch-action: pan-x pan-y pinch-zoom;
+  touch-action: none;
 }
 
 #graph .graph-loading {
@@ -194,6 +189,29 @@
 
 .dark #graph {
   background: #1f1f23;
+}
+
+.graph-sr-list {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.graph-sr-list a:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  clip: auto;
+  white-space: normal;
+  background: var(--entry);
+  padding: 4px 8px;
+  outline: 2px solid var(--primary);
 }
 
 /* Tablet: show 2-column wiki grid even when the auto-fill thinks otherwise. */

@@ -72,7 +72,8 @@
       <span class="legend legend-post">{{ if eq $lang "ko" }}글{{ else }}Post{{ end }}</span>
     </div>
   </header>
-  <div id="graph" data-graph="{{ $graphPath }}"></div>
+  <div id="graph" data-graph="{{ $graphPath }}" aria-hidden="true"></div>
+  <ul id="graph-links" class="graph-sr-list" aria-label="{{ if eq $lang `ko` }}그래프 노드 링크 목록{{ else }}Graph node link list{{ end }}"></ul>
   <noscript>
     <p>{{ if eq $lang "ko" }}그래프는 JavaScript가 필요합니다.{{ else }}The graph requires JavaScript.{{ end }}</p>
   </noscript>
@@ -93,7 +94,7 @@
     {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false -}}
     {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
     <header class="entry-header">
-      <h2 class="entry-hint-parent">{{ .Title }}</h2>
+      <h3 class="entry-hint-parent">{{ .Title }}</h3>
     </header>
     {{- if (ne (.Param "hideSummary") true) }}
     <div class="entry-content">
