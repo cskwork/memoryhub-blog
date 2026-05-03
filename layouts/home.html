@@ -29,20 +29,21 @@
       {{- $sorted = $sorted | append (dict "name" $name "count" (len $taxonomy.Pages) "pages" $taxonomy.Pages) -}}
     {{- end -}}
     {{- range first 12 (sort $sorted "count" "desc") }}
-      {{- $catPage := site.GetPage (printf "/categories/%s" .name) -}}
+      {{- $entry := . -}}
+      {{- $catPage := site.GetPage (printf "/categories/%s" $entry.name) -}}
       <article class="wiki-card">
         <header>
           <h3>
-            {{- with $catPage -}}
-              <a href="{{ .Permalink }}">{{ $.name | default .Title }}</a>
+            {{- if $catPage -}}
+              <a href="{{ $catPage.Permalink }}">{{ $entry.name }}</a>
             {{- else -}}
-              {{ .name }}
+              {{ $entry.name }}
             {{- end -}}
           </h3>
-          <span class="wiki-card-count">{{ .count }}</span>
+          <span class="wiki-card-count">{{ $entry.count }}</span>
         </header>
         <ul>
-          {{- range first 5 (sort .pages "Date" "desc") }}
+          {{- range first 5 (sort $entry.pages "Date" "desc") }}
           <li>
             <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
             <time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time>
