@@ -5,6 +5,8 @@ slug: "759-CI-LAW-Building-Effective-Agents"
 original_url: "https://memoryhub.tistory.com/759"
 tistory_id: 759
 draft: false
+categories: ["Life"]
+tags: ["CI Laws"]
 ---
 
 ## Top 10 Laws of Effective AI Agents

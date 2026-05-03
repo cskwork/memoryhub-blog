@@ -5,6 +5,8 @@ slug: "707-LightRAG-vs-RagAnything-Technical-Framework-Comparison"
 original_url: "https://memoryhub.tistory.com/707"
 tistory_id: 707
 draft: false
+categories: ["Dev Database"]
+tags: ["RAG"]
 ---
 
 LightRAG emerges as the **definitive choice for text-only RAG applications**, delivering superior performance, developer experience, and specialized text processing capabilities. RagAnything serves as a complementary multimodal extension rather than a competing framework, built specifically on LightRAG's foundation to handle diverse document formats.

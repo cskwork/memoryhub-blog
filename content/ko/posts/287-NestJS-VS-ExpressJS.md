@@ -5,6 +5,8 @@ slug: "287-NestJS-VS-ExpressJS"
 original_url: "https://memoryhub.tistory.com/287"
 tistory_id: 287
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["NestJS"]
 ---
 
 *In this response, we'll compare NestJS and ExpressJS, two popular Node.js frameworks, focusing on their architectures, features, and use cases to help you understand which one might be better suited for your projects.*

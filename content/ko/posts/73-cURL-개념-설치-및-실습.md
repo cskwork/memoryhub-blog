@@ -5,6 +5,13 @@ slug: "73-cURL-개념-설치-및-실습"
 original_url: "https://memoryhub.tistory.com/73"
 tistory_id: 73
 draft: false
+categories: ["데브 옵스"]
+tags: ["Curl"]
+  hidden: false
+cover:
+  image: "/images/73-cURL-개념-설치-및-실습/img.png"
+  relative: false
+  hidden: false
 ---
 
 ## 개념

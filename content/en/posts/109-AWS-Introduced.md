@@ -5,6 +5,7 @@ slug: "109-AWS-Introduced"
 original_url: "https://memoryhub.tistory.com/109"
 tistory_id: 109
 draft: false
+categories: ["Dev AWS"]
 ---
 
 *AWS, or Amazon Web Services, is like a toolbox full of various tools that help businesses build and run their digital operations on the internet, offering services from storage and computing power to machine learning and artificial intelligence.*

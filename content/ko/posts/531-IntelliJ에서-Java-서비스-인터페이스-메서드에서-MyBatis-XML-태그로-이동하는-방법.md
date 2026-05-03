@@ -5,6 +5,8 @@ slug: "531-IntelliJ에서-Java-서비스-인터페이스-메서드에서-MyBatis
 original_url: "https://memoryhub.tistory.com/531"
 tistory_id: 531
 draft: false
+categories: ["데브 유틸"]
+tags: ["Intellij"]
 ---
 
 IntelliJ IDEA에서 Java 서비스 인터페이스 메서드에서 매핑된 MyBatis XML 태그로 쉽게 이동할 수 있는 여러 방법이 있습니다. 가장 효과적인 방법은 MyBatis 플러그인 사용이며, 이를 통해 메서드와 XML 태그 간 양방향 탐색이 가능합니다.

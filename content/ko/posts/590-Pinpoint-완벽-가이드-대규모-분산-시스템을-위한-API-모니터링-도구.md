@@ -5,6 +5,13 @@ slug: "590-Pinpoint-완벽-가이드-대규모-분산-시스템을-위한-API-�
 original_url: "https://memoryhub.tistory.com/590"
 tistory_id: 590
 draft: false
+categories: ["데브 옵스"]
+tags: ["Server Monitoring"]
+  hidden: false
+cover:
+  image: "/images/590-Pinpoint-완벽-가이드-대규모-분산-시스템을-위한-API-모니터링-도구/img.png"
+  relative: false
+  hidden: false
 ---
 
 *여러분은 마이크로서비스 아키텍처에서 API 호출이 어떻게 흘러가는지 추적해본 적 있으신가요? 수십 개의 서비스가 서로 통신하는 복잡한 환경에서 어떤 API 호출이 지연되고 있는지, 어디서 오류가 발생하는지 파악하는 것은 매우 어려운 과제입니다. 오늘은 이런 문제를 해결해주는 핵심 도구, Pinpoint에 대해 알아보겠습니다!*

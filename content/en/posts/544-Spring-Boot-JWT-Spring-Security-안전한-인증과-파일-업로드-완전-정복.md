@@ -5,6 +5,8 @@ slug: "544-Spring-Boot-JWT-Spring-Security-안전한-인증과-파일-업로드-
 original_url: "https://memoryhub.tistory.com/544"
 tistory_id: 544
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring Security"]
 ---
 
 Hello! In modern web applications and API development, **JWT (JSON Web Token)**, a stateless authentication method, has become almost a standard due to its scalability and flexibility in microservices architecture (MSA) environments. In this post, I'll show you in detail through actual code how to effectively integrate the powerful security framework **Spring Security** with **JWT** in a **Spring Boot** environment, and how to implement secure file uploads for authenticated users only.

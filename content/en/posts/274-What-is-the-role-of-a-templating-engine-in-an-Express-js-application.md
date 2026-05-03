@@ -5,6 +5,8 @@ slug: "274-What-is-the-role-of-a-templating-engine-in-an-Express-js-application"
 original_url: "https://memoryhub.tistory.com/274"
 tistory_id: 274
 draft: false
+categories: ["Dev Framework"]
+tags: ["ExpressJS"]
 ---
 
 *In an Express.js application, a templating engine generates HTML dynamically, allowing you to embed variables and logic within your HTML pages for dynamic content rendering.*

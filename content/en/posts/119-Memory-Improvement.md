@@ -5,6 +5,8 @@ slug: "119-Memory-Improvement"
 original_url: "https://memoryhub.tistory.com/119"
 tistory_id: 119
 draft: false
+categories: ["Life"]
+tags: ["Self Development"]
 ---
 
 *Improving memory involves understanding how the brain processes and retains information, and using techniques and habits to enhance these processes.*

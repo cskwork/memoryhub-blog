@@ -5,6 +5,8 @@ slug: "112-MongoDB-Introduced"
 original_url: "https://memoryhub.tistory.com/112"
 tistory_id: 112
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["MongoDB"]
 ---
 
 *MongoDB is a NoSQL database that stores data in flexible, JSON-like documents, making it different from traditional relational databases.*

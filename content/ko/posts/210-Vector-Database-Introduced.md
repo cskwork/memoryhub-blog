@@ -5,6 +5,8 @@ slug: "210-Vector-Database-Introduced"
 original_url: "https://memoryhub.tistory.com/210"
 tistory_id: 210
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["VectorDB"]
 ---
 
 *We will explore the concept of vector databases, breaking down the core concepts and providing clear analogies to enhance understanding.*

@@ -5,6 +5,8 @@ slug: "952-Syntriever-GPT-4-출력만으로-검색-모델-18-6-향상시킨-방�
 original_url: "https://memoryhub.tistory.com/952"
 tistory_id: 952
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 ```

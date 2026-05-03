@@ -5,6 +5,8 @@ slug: "494-Google-Calendar-MCP-서버-코드-상세-분석"
 original_url: "https://memoryhub.tistory.com/494"
 tistory_id: 494
 draft: false
+categories: ["Dev Util"]
+tags: ["Google Integration"]
 ---
 
 This code implements a Node.js server based on Model Context Protocol (MCP) that enables large language models (LLMs) to interact directly with the Google Calendar API. Through complex OAuth2 authentication handling and standardized tool interfaces, it allows AI systems to safely manage user calendars.

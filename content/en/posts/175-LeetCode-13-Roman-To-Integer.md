@@ -5,6 +5,8 @@ slug: "175-LeetCode-13-Roman-To-Integer"
 original_url: "https://memoryhub.tistory.com/175"
 tistory_id: 175
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Leetcode"]
 ---
 
 *To convert a Roman numeral to an integer in Python, we'll use a dictionary to map Roman symbols to their integer values and process the string from left to right while handling the special subtraction cases.*

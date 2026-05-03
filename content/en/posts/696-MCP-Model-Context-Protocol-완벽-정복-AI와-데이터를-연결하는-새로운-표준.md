@@ -5,6 +5,8 @@ slug: "696-MCP-Model-Context-Protocol-완벽-정복-AI와-데이터를-연결하
 original_url: "https://memoryhub.tistory.com/696"
 tistory_id: 696
 draft: false
+categories: ["Dev Library"]
+tags: ["MCP"]
 ---
 
 ```

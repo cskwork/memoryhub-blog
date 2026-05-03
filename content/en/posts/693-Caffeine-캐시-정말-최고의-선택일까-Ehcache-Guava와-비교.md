@@ -5,6 +5,8 @@ slug: "693-Caffeine-캐시-정말-최고의-선택일까-Ehcache-Guava와-비교
 original_url: "https://memoryhub.tistory.com/693"
 tistory_id: 693
 draft: false
+categories: ["Dev Library"]
+tags: ["Caching"]
 ---
 
 ```

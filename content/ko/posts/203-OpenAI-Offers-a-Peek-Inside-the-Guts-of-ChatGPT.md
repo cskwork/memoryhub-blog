@@ -5,6 +5,8 @@ slug: "203-OpenAI-Offers-a-Peek-Inside-the-Guts-of-ChatGPT"
 original_url: "https://memoryhub.tistory.com/203"
 tistory_id: 203
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
 ---
 
 *The article provides a comprehensive overview of the inner workings of ChatGPT, focusing on its architecture, training, and ethical implications.*

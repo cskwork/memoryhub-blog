@@ -5,6 +5,8 @@ slug: "742-OpenAI-GPT-OSS-공개"
 original_url: "https://memoryhub.tistory.com/742"
 tistory_id: 742
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 Exploring the New Standard in Open-Weight Language Models with Two Models: 120B and 20B  

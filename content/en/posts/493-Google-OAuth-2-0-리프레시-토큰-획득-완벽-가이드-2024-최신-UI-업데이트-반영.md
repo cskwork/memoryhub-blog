@@ -5,6 +5,8 @@ slug: "493-Google-OAuth-2-0-리프레시-토큰-획득-완벽-가이드-2024-최
 original_url: "https://memoryhub.tistory.com/493"
 tistory_id: 493
 draft: false
+categories: ["Dev Util"]
+tags: ["Google Integration"]
 ---
 
 Hello everyone! Today, let's explore refresh tokens—essential for long-term stable use of Google APIs. Especially, I'll explain based on the 2024 updated Google Cloud Console's latest UI.

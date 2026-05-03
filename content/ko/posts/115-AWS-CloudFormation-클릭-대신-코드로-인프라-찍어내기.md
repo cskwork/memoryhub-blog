@@ -5,6 +5,8 @@ slug: "115-AWS-CloudFormation-클릭-대신-코드로-인프라-찍어내기"
 original_url: "https://memoryhub.tistory.com/115"
 tistory_id: 115
 draft: false
+categories: ["Dev AWS"]
+tags: ["Cloud Formation"]
 ---
 
 ```

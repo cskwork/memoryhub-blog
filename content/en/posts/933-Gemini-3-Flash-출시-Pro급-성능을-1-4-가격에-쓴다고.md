@@ -5,6 +5,8 @@ slug: "933-Gemini-3-Flash-출시-Pro급-성능을-1-4-가격에-쓴다고"
 original_url: "https://memoryhub.tistory.com/933"
 tistory_id: 933
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 ```

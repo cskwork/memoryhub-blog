@@ -5,6 +5,8 @@ slug: "159-Network-Subnet-Introduced"
 original_url: "https://memoryhub.tistory.com/159"
 tistory_id: 159
 draft: false
+categories: ["데브 컨셉"]
+tags: ["이론 문서"]
 ---
 
 *A subnet, or subnetwork, is a segmented piece of a larger network that isolates specific groups of devices to improve performance and enhance security.*

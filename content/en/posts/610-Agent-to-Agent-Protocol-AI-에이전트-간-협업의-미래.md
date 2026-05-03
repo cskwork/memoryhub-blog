@@ -5,6 +5,8 @@ slug: "610-Agent-to-Agent-Protocol-AI-에이전트-간-협업의-미래"
 original_url: "https://memoryhub.tistory.com/610"
 tistory_id: 610
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 Have you heard that Google has developed a protocol that allows AI agents to communicate and collaborate with each other? Just like people can communicate through interpreters even if they speak different languages, AI agents can now communicate in a standardized way!

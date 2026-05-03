@@ -5,6 +5,8 @@ slug: "273-How-would-you-send-a-JSON-response-in-Express-js"
 original_url: "https://memoryhub.tistory.com/273"
 tistory_id: 273
 draft: false
+categories: ["Dev Framework"]
+tags: ["ExpressJS"]
 ---
 
 *To send a JSON response in Express.js, you can use the `res.json()` method, which sends a JSON response with the appropriate `Content-Type` header.*

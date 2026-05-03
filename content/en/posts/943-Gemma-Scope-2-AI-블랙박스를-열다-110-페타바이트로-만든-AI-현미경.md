@@ -5,6 +5,8 @@ slug: "943-Gemma-Scope-2-AI-블랙박스를-열다-110-페타바이트로-만든
 original_url: "https://memoryhub.tistory.com/943"
 tistory_id: 943
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 ```

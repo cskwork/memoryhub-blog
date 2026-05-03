@@ -5,6 +5,8 @@ slug: "448-AICC-AI-Contact-Center-사례로-ACID-원칙-완전-정복하기"
 original_url: "https://memoryhub.tistory.com/448"
 tistory_id: 448
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Info Processing Cert"]
 ---
 
 Hello! Today, I'll tell you how to apply ACID principles of databases to AICC (AI Contact Center).

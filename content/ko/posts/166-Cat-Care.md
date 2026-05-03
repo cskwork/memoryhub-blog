@@ -5,6 +5,7 @@ slug: "166-Cat-Care"
 original_url: "https://memoryhub.tistory.com/166"
 tistory_id: 166
 draft: false
+categories: ["생활"]
 ---
 
 *Raising a cat well involves understanding their unique needs and behaviors, creating a stimulating environment, and providing proper care and nutrition.*

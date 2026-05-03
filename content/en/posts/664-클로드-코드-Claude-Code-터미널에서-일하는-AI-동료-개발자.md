@@ -5,6 +5,8 @@ slug: "664-클로드-코드-Claude-Code-터미널에서-일하는-AI-동료-개�
 original_url: "https://memoryhub.tistory.com/664"
 tistory_id: 664
 draft: false
+categories: ["Dev Language"]
+tags: ["Vibe Coding"]
 ---
 
 Have you ever gotten tired of frantically switching between IDE, terminal, and browser while coding? Have you imagined having a junior developer colleague who understands your entire project and smoothly handles all the grunt work? Anthropic's 'Claude Code' that I'll introduce today plays exactly that role[2].

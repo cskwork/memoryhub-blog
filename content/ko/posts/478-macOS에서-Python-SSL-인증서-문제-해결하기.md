@@ -5,6 +5,8 @@ slug: "478-macOS에서-Python-SSL-인증서-문제-해결하기"
 original_url: "https://memoryhub.tistory.com/478"
 tistory_id: 478
 draft: false
+categories: ["데브 언어"]
+tags: ["Python"]
 ---
 
 ## 문제 상황: NLTK 데이터 다운로드 실패

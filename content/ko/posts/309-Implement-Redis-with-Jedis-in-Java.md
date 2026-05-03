@@ -5,6 +5,8 @@ slug: "309-Implement-Redis-with-Jedis-in-Java"
 original_url: "https://memoryhub.tistory.com/309"
 tistory_id: 309
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["Redis"]
 ---
 
 ---

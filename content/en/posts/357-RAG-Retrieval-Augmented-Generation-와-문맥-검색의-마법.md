@@ -5,6 +5,8 @@ slug: "357-RAG-Retrieval-Augmented-Generation-와-문맥-검색의-마법"
 original_url: "https://memoryhub.tistory.com/357"
 tistory_id: 357
 draft: false
+categories: ["Dev Database"]
+tags: ["RAG"]
 ---
 
 Hello! Today, we'll explore RAG and contextual retrieval, methods that help AI find and understand information more intelligently.

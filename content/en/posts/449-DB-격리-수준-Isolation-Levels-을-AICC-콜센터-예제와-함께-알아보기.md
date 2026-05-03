@@ -5,6 +5,8 @@ slug: "449-DB-격리-수준-Isolation-Levels-을-AICC-콜센터-예제와-함께
 original_url: "https://memoryhub.tistory.com/449"
 tistory_id: 449
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Software Architecture"]
 ---
 
 Today, let's explore the isolation levels of database transactions. In AICC call center systems, **multiple customers access simultaneously**, and **multiple consultants handle chats, calls, and consultations concurrently**. How **transaction isolation levels** are applied is crucial for safely guaranteeing this **concurrency (Concurrency)**.

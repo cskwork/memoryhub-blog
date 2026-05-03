@@ -5,6 +5,8 @@ slug: "587-SSE-Server-Sent-Events-서버에서-클라이언트로의-실시간-�
 original_url: "https://memoryhub.tistory.com/587"
 tistory_id: 587
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["Architecture"]
 ---
 
 *여러분은 실시간으로 주식 가격이 업데이트되거나 알림이 자동으로 표시되는 웹사이트를 본 적이 있나요? 새로고침 없이 어떻게 작동하는지 궁금하셨나요? 오늘은 그 비밀 중 하나인 SSE에 대해 알아보겠습니다!*

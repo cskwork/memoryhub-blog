@@ -5,6 +5,8 @@ slug: "402-STT-Speech-to-Text-데이터-음성을-텍스트로-변환하는-마�
 original_url: "https://memoryhub.tistory.com/402"
 tistory_id: 402
 draft: false
+categories: ["데브 컨셉"]
+tags: ["TA 사업"]
 ---
 
 안녕하세요! 오늘은 AI 음성 인식의 핵심인 STT 데이터에 대해 자세히 알아보겠습니다.

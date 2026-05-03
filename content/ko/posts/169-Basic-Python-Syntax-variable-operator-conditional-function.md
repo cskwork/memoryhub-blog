@@ -5,6 +5,8 @@ slug: "169-Basic-Python-Syntax-variable-operator-conditional-function"
 original_url: "https://memoryhub.tistory.com/169"
 tistory_id: 169
 draft: false
+categories: ["데브 언어"]
+tags: ["Python"]
 ---
 
 *We'll explore the fundamental syntax of Python, using analogies to relate programming concepts to real-world experiences.*

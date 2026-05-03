@@ -1,0 +1,10 @@
+{{- /* Image render hook.
+       Rewrites root-relative /images/... destinations to honor the site
+       baseURL (so they resolve correctly when the site is served from a
+       subpath like /memoryhub-blog/). External and already-prefixed URLs
+       are left alone. */ -}}
+{{- $dest := .Destination -}}
+{{- if and (strings.HasPrefix $dest "/") (not (strings.HasPrefix $dest "//")) -}}
+  {{- $dest = $dest | relURL -}}
+{{- end -}}
+<img src="{{ $dest | safeURL }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy">

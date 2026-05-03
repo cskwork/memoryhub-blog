@@ -5,6 +5,8 @@ slug: "19-매우-기초적인-회원가입시-공백-검증-Validation"
 original_url: "https://memoryhub.tistory.com/19"
 tistory_id: 19
 draft: false
+categories: ["데브 유틸"]
+tags: ["기본 게시판"]
 ---
 
 > 회원가입 .jsp 파일에 추가해야한다. 

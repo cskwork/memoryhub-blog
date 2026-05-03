@@ -5,6 +5,8 @@ slug: "60-Docker-CheatSheet"
 original_url: "https://memoryhub.tistory.com/60"
 tistory_id: 60
 draft: false
+categories: ["Dev Ops"]
+tags: ["Docker"]
 ---
 
 ```

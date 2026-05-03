@@ -5,6 +5,8 @@ slug: "198-MERN-with-payment"
 original_url: "https://memoryhub.tistory.com/198"
 tistory_id: 198
 draft: false
+categories: ["데브 유틸"]
+tags: ["결제 연동"]
 ---
 
 *Integrating a payment system into a MERN stack application involves setting up a payment gateway (like Stripe or PayPal) to handle transactions securely.*

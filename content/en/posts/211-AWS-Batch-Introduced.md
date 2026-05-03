@@ -5,6 +5,7 @@ slug: "211-AWS-Batch-Introduced"
 original_url: "https://memoryhub.tistory.com/211"
 tistory_id: 211
 draft: false
+categories: ["Dev AWS"]
 ---
 
 *AWS Batch is a cloud-based service that allows you to efficiently run batch computing jobs of any scale using Amazon Web Services.*

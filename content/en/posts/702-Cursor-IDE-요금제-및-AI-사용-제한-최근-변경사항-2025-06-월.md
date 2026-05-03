@@ -5,6 +5,8 @@ slug: "702-Cursor-IDE-요금제-및-AI-사용-제한-최근-변경사항-2025-06
 original_url: "https://memoryhub.tistory.com/702"
 tistory_id: 702
 draft: false
+categories: ["Dev Util"]
+tags: ["Agentic Coding"]
 ---
 
 Cursor IDE completely restructured its personal pricing plan in mid-2025, introducing new premium tiers and modifying how AI usage is measured for existing plans. Key changes include the new "Ultra" subscription tier and the transition of the Pro plan from fixed monthly request allocations to "unlimited with rate limiting" model. Below is a detailed breakdown of updates with focus on AI usage limits and rate limiting rules across Free (Hobby), Pro, and Ultra tiers.

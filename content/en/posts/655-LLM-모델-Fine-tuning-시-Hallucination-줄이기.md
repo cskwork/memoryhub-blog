@@ -5,6 +5,8 @@ slug: "655-LLM-모델-Fine-tuning-시-Hallucination-줄이기"
 original_url: "https://memoryhub.tistory.com/655"
 tistory_id: 655
 draft: false
+categories: ["Dev Library"]
+tags: ["Fine-Tuning"]
 ---
 
 Have you ever had a strange experience when training a model? When content that definitely isn't in the training data is generated plausibly by the model? Like a student who doesn't know the test answer making something up and pretending to know! 🎭

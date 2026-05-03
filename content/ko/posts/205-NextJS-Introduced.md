@@ -5,6 +5,8 @@ slug: "205-NextJS-Introduced"
 original_url: "https://memoryhub.tistory.com/205"
 tistory_id: 205
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["NextJS"]
 ---
 
 *Next.js is a powerful framework for building React applications, offering features like server-side rendering, static site generation, and more.*

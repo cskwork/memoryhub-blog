@@ -5,6 +5,8 @@ slug: "289-Create-a-backend-app-using-Express-js-that-parses-an-Excel-document-a
 original_url: "https://memoryhub.tistory.com/289"
 tistory_id: 289
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["ExpressJS"]
 ---
 
 *To create a backend app using Express.js that parses an Excel document and stores the data into a MySQL database hosted on AWS, you need to break down the task into several steps involving setting up the server, parsing the Excel file, and interacting with the MySQL database. Let's walk through each step with technical details and analogies.*

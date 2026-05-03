@@ -5,6 +5,8 @@ slug: "758-n8n-로컬에서-Google-연동-시-invalid_client-에러-해결"
 original_url: "https://memoryhub.tistory.com/758"
 tistory_id: 758
 draft: false
+categories: ["Dev Util"]
+tags: ["Agents"]
 ---
 
 When trying to integrate **n8n ↔ Google (Drive/Docs/Sheets)** locally, the callback usually comes back fine but fails at the token exchange step with an error like:

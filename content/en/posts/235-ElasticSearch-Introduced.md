@@ -5,6 +5,13 @@ slug: "235-ElasticSearch-Introduced"
 original_url: "https://memoryhub.tistory.com/235"
 tistory_id: 235
 draft: false
+categories: ["Dev AWS"]
+tags: ["ElasticSearch"]
+  hidden: false
+cover:
+  image: "/images/235-ElasticSearch-Introduced/img.png"
+  relative: false
+  hidden: false
 ---
 
 *ElasticSearch is a distributed search engine that can quickly find information within large datasets, similar to how you might find a book in a vast library using an advanced catalog system.*

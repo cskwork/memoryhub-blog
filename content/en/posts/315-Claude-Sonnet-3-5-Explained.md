@@ -5,6 +5,8 @@ slug: "315-Claude-Sonnet-3-5-Explained"
 original_url: "https://memoryhub.tistory.com/315"
 tistory_id: 315
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 *Claude 3.5 Sonnet is like a highly advanced digital brain, capable of processing and generating human-like text with remarkable speed and accuracy.*

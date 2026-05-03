@@ -5,6 +5,8 @@ slug: "648-Claude-Code_-에이전트-코딩을-위한-모범-사례"
 original_url: "https://memoryhub.tistory.com/648"
 tistory_id: 648
 draft: false
+categories: ["Dev Language"]
+tags: ["Vibe Coding"]
 ---
 
 Claude Code developed by Anthropic is a command-line (CLI) based agentic coding tool[1]. Through this tool, developers can write, edit, and debug code with natural language commands, and automate workflows through integration with development tools like Git[4][8][14]. Claude Code adopts a flexible, low-level design that doesn't force specific workflows, providing users with a powerful and secure coding environment that can be freely customized to their environment[1][10]. However, this flexibility may require some learning for developers using it for the first time[1].

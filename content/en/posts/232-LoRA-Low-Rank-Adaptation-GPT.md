@@ -5,6 +5,8 @@ slug: "232-LoRA-Low-Rank-Adaptation-GPT"
 original_url: "https://memoryhub.tistory.com/232"
 tistory_id: 232
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 *LoRA (Low-Rank Adaptation) is a technique used to fine-tune large language models like GPT efficiently, by only modifying a small set of parameters instead of the entire model.*

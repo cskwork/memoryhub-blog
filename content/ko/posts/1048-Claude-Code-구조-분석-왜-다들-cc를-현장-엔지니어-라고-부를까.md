@@ -5,6 +5,12 @@ slug: "1048-Claude-Code-구조-분석-왜-다들-cc를-현장-엔지니어-라�
 original_url: "https://memoryhub.tistory.com/1048"
 tistory_id: 1048
 draft: false
+  hidden: false
+cover:
+  image: "/images/1048-Claude-Code-구조-분석-왜-다들-cc를-현장-엔지니어-라고-부를까/OIP-a4f2bc3b.png"
+  alt: "Enabling Claude Code to work more autonomously \\ Anthropic"
+  relative: false
+  hidden: false
 ---
 
 [![Enabling Claude Code to work more autonomously \ Anthropic](/images/1048-Claude-Code-구조-분석-왜-다들-cc를-현장-엔지니어-라고-부를까/OIP-a4f2bc3b.png)](https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously?utm_source=chatgpt.com)

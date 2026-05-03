@@ -5,6 +5,8 @@ slug: "48-Linux_-Kill-Process-of-Specific-Port"
 original_url: "https://memoryhub.tistory.com/48"
 tistory_id: 48
 draft: false
+categories: ["데브 옵스"]
+tags: ["Linux"]
 ---
 
 Checking active listening ports and killing a process on a specific port.

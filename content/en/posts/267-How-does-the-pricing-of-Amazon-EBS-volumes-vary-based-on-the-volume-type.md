@@ -5,6 +5,8 @@ slug: "267-How-does-the-pricing-of-Amazon-EBS-volumes-vary-based-on-the-volume-t
 original_url: "https://memoryhub.tistory.com/267"
 tistory_id: 267
 draft: false
+categories: ["Dev AWS"]
+tags: ["EC2"]
 ---
 
 *Amazon EBS pricing varies based on the volume type, which impacts cost due to differences in performance and storage characteristics.*

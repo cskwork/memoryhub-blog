@@ -5,6 +5,8 @@ slug: "305-Redis-인메모리-데이터-저장소의-강력함"
 original_url: "https://memoryhub.tistory.com/305"
 tistory_id: 305
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["Redis"]
 ---
 
 Redis는 고성능 인메모리 데이터 저장소로, 다양한 데이터 구조를 지원하며 캐싱, 세션 관리, 실시간 분석 등에 활용됩니다. 디스크 기반 데이터베이스보다 최대 100배 빠른 속도로 데이터를 처리하며, 영속성 옵션을 통해 데이터 안정성도 보장합니다.

@@ -5,6 +5,8 @@ slug: "959-Claude-Code-창시자가-클로드를-사용하는-방법"
 original_url: "https://memoryhub.tistory.com/959"
 tistory_id: 959
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Claude"]
 ---
 
 2026년 1월 초, Claude Code의 창시자인 Boris Cherny가 긴 스레드에서 자신의 일상적인 설정을 공유했습니다. 그는 이를 "vanilla"라고 부르지만,   

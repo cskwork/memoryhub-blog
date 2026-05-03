@@ -5,6 +5,8 @@ slug: "743-OpenAI-오픈-모델-gpt-oss-내-PC에서-돌아가는-추론형-LLM"
 original_url: "https://memoryhub.tistory.com/743"
 tistory_id: 743
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
 ---
 
 요즘 “회사 데이터는 밖으로 못 나가고, 그래도 GPT급 추론은 하고 싶다”는 요구 진짜 많죠. 그래서 \*\*OpenAI의 오픈 웨이트 추론 모델 `gpt-oss`(120b/20b)\*\*가 화제입니다. 라이선스 자유롭고(아파치 2.0), 에이전트 작업에 맞춰 설계됐고, 심지어 **완전한 생각의 흐름(Chain-of-Thought, CoT)에 접근**도 됩니다. 이 글에서 **왜 나왔고, 뭐가 다르고, 어떻게 돌리면 되는지** 쉽고 빠르게 정리합니다. ([OpenAI](https://openai.com/ko-KR/open-models/ "OpenAI의 오픈 모델 | OpenAI"))

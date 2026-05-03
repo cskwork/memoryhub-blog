@@ -5,6 +5,8 @@ slug: "165-Organizing-Life"
 original_url: "https://memoryhub.tistory.com/165"
 tistory_id: 165
 draft: false
+categories: ["Life"]
+tags: ["Self Development"]
 ---
 
 *To organize your life effectively, consider it like managing a well-designed project with clear goals, efficient resource use, and strategic time management.*

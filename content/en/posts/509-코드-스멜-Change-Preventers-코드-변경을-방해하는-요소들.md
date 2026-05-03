@@ -5,6 +5,8 @@ slug: "509-코드-스멜-Change-Preventers-코드-변경을-방해하는-요소�
 original_url: "https://memoryhub.tistory.com/509"
 tistory_id: 509
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Clean Code"]
 ---
 
 Have you ever tried to fix code, thinking you only needed to change one place, but ended up having to modify multiple locations? Or have you experienced having to understand an entire class just to make a simple change because it was doing too much?

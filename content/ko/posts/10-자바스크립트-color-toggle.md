@@ -5,6 +5,13 @@ slug: "10-자바스크립트-color-toggle"
 original_url: "https://memoryhub.tistory.com/10"
 tistory_id: 10
 draft: false
+categories: ["데브 유틸"]
+tags: ["자바스크립트 놀기"]
+  hidden: false
+cover:
+  image: "/images/10-자바스크립트-color-toggle/colortoggle.jpg"
+  relative: false
+  hidden: false
 ---
 
 > 백그라운드 색깔 변경하기--> 나중에 더 이미지 또는 css 배경 바꾸는데 응용할 수 있다.

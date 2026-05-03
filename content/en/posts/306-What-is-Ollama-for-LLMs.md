@@ -5,6 +5,8 @@ slug: "306-What-is-Ollama-for-LLMs"
 original_url: "https://memoryhub.tistory.com/306"
 tistory_id: 306
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 *Imagine a friendly, customizable AI assistant living on your computer, ready to help with tasks using advanced language skills. That's Ollama - a tool that brings powerful language models to your local machine, like having a personal genius-in-a-box.*

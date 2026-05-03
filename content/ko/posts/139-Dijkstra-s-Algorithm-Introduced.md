@@ -5,6 +5,8 @@ slug: "139-Dijkstra-s-Algorithm-Introduced"
 original_url: "https://memoryhub.tistory.com/139"
 tistory_id: 139
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["DS And Algorithm"]
 ---
 
 *Dijkstra's Algorithm is a method for finding the shortest path between nodes in a graph, akin to navigating the shortest route between cities on a map.*

@@ -5,6 +5,8 @@ slug: "224-Getting-Emotional-Stability"
 original_url: "https://memoryhub.tistory.com/224"
 tistory_id: 224
 draft: false
+categories: ["Life"]
+tags: ["Mental Health"]
 ---
 
 *We'll explore how to acquire emotional stability using analogies and step-by-step explanations.*

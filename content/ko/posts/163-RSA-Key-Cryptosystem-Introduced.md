@@ -5,6 +5,8 @@ slug: "163-RSA-Key-Cryptosystem-Introduced"
 original_url: "https://memoryhub.tistory.com/163"
 tistory_id: 163
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Web Security"]
 ---
 
 *In this response, we will delve into what RSA is, explaining its core principles and functionality using analogies and technical details to make the concept clear and understandable.*

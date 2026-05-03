@@ -5,6 +5,8 @@ slug: "145-Data-Structures-Introduced"
 original_url: "https://memoryhub.tistory.com/145"
 tistory_id: 145
 draft: false
+categories: ["Dev Library"]
+tags: ["DS And Algorithm"]
 ---
 
 *Data structures are organized ways to store, manage, and retrieve data efficiently, enabling various operations such as insertion, deletion, and traversal to be performed optimally.*

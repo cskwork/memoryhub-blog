@@ -5,4 +5,6 @@ slug: "200-Binary-Search-Tree-Introduced"
 original_url: "https://memoryhub.tistory.com/200"
 tistory_id: 200
 draft: false
+categories: ["Dev Library"]
+tags: ["DS And Algorithm"]
 ---

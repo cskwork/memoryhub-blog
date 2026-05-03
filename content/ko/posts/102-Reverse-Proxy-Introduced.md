@@ -5,6 +5,8 @@ slug: "102-Reverse-Proxy-Introduced"
 original_url: "https://memoryhub.tistory.com/102"
 tistory_id: 102
 draft: false
+categories: ["데브 옵스"]
+tags: ["Nginx"]
 ---
 
 *A reverse proxy is a server that sits between client devices and backend servers, forwarding client requests to appropriate servers and then returning the server's response to the client, enhancing load balancing, security, and performance.*

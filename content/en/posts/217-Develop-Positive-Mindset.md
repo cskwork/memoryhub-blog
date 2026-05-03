@@ -5,6 +5,8 @@ slug: "217-Develop-Positive-Mindset"
 original_url: "https://memoryhub.tistory.com/217"
 tistory_id: 217
 draft: false
+categories: ["Life"]
+tags: ["Mental Health"]
 ---
 
 *Developing a positive mindset involves reshaping your thought patterns, practicing gratitude, engaging in positive self-talk, and surrounding yourself with positivity. This approach can enhance your overall well-being and outlook on life.*

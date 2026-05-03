@@ -5,6 +5,8 @@ slug: "146-Naive-Bayes-model-Introduced"
 original_url: "https://memoryhub.tistory.com/146"
 tistory_id: 146
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Machine Learning"]
 ---
 
 *The Naive Bayes model is a probabilistic machine learning algorithm used for classification tasks. It is based on Bayes' Theorem, assuming strong independence (naive) among features.*

@@ -5,6 +5,8 @@ slug: "396-행위의-국소성-Locality-of-Behavior-코드-가독성과-유지�
 original_url: "https://memoryhub.tistory.com/396"
 tistory_id: 396
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Design Pattern"]
 ---
 
 여러분은 소프트웨어 개발에서 코드를 이해하기 위해 여러 파일을 왔다 갔다 하며 시간을 허비한 경험이 있으신가요? 프로그램의 동작 방식을 파악하기 위해 수많은 파일들을 열어보고, 그 관계를 머릿속에서 조합해야 했던 경험은 개발자라면 누구나 한 번쯤 겪었을 것입니다. 이러한 문제를 해결하기 위한 중요한 원칙이 바로 '행위의 국소성'입니다.

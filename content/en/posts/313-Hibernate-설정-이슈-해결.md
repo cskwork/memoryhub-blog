@@ -5,6 +5,7 @@ slug: "313-Hibernate-설정-이슈-해결"
 original_url: "https://memoryhub.tistory.com/313"
 tistory_id: 313
 draft: false
+categories: ["Dev Ops"]
 ---
 
 **PrefixPhysicalNamingStrategy**: A strategy used by Hibernate that automatically modifies database table and column names. It's primarily used to attach specific characters or words before table names.

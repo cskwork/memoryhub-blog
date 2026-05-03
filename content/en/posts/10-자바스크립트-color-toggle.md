@@ -5,6 +5,13 @@ slug: "10-자바스크립트-color-toggle"
 original_url: "https://memoryhub.tistory.com/10"
 tistory_id: 10
 draft: false
+categories: ["Dev Util"]
+tags: ["JavaScript Play"]
+  hidden: false
+cover:
+  image: "/images/10-자바스크립트-color-toggle/colortoggle.jpg"
+  relative: false
+  hidden: false
 ---
 
 > Changing background color --> Later this can be applied to changing images or CSS backgrounds.

@@ -5,6 +5,8 @@ slug: "197-How-does-the-non-blocking-I-O-model-in-Node-js-improve-performance"
 original_url: "https://memoryhub.tistory.com/197"
 tistory_id: 197
 draft: false
+categories: ["데브 옵스"]
+tags: ["Node"]
 ---
 
 *The non-blocking I/O model in Node.js improves performance by allowing multiple operations to be handled concurrently without waiting for each operation to complete before starting the next one.*

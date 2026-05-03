@@ -5,6 +5,13 @@ slug: "51-Quartz-And-Spring-Batch-ERD-설명"
 original_url: "https://memoryhub.tistory.com/51"
 tistory_id: 51
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring Batch"]
+  hidden: false
+cover:
+  image: "/images/51-Quartz-And-Spring-Batch-ERD-설명/img.png"
+  relative: false
+  hidden: false
 ---
 
 ### ? Quartz를 이용한 분산 처리와 Spring Batch 기본 테이블 ERD 설명 ?

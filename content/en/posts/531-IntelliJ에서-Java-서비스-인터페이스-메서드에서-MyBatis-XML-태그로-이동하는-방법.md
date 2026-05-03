@@ -5,6 +5,8 @@ slug: "531-IntelliJ에서-Java-서비스-인터페이스-메서드에서-MyBatis
 original_url: "https://memoryhub.tistory.com/531"
 tistory_id: 531
 draft: false
+categories: ["Dev Util"]
+tags: ["Intellij"]
 ---
 
 In IntelliJ IDEA, there are several ways to easily navigate from Java service interface methods to mapped MyBatis XML tags. The most effective method is using the MyBatis plugin, which allows bidirectional navigation between methods and XML tags.

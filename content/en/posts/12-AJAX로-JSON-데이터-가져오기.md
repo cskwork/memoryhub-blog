@@ -5,6 +5,13 @@ slug: "12-AJAX로-JSON-데이터-가져오기"
 original_url: "https://memoryhub.tistory.com/12"
 tistory_id: 12
 draft: false
+categories: ["Dev Util"]
+tags: ["JavaScript Play"]
+  hidden: false
+cover:
+  image: "/images/12-AJAX로-JSON-데이터-가져오기/JsonAjax.jpg"
+  relative: false
+  hidden: false
 ---
 
 > Source code for fetching JSON data using AJAX

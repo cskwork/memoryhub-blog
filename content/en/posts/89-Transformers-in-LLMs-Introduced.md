@@ -5,6 +5,13 @@ slug: "89-Transformers-in-LLMs-Introduced"
 original_url: "https://memoryhub.tistory.com/89"
 tistory_id: 89
 draft: false
+categories: ["Dev Library"]
+tags: ["Machine Learning"]
+  hidden: false
+cover:
+  image: "/images/89-Transformers-in-LLMs-Introduced/img.png"
+  relative: false
+  hidden: false
 ---
 
 *Transformers in Large Language Models (LLMs) work by processing text through layers that handle both the sequential nature of language and long-range dependencies using self-attention mechanisms.*

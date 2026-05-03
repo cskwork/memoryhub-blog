@@ -5,6 +5,7 @@ slug: "2-Collection-Framework-정리"
 original_url: "https://memoryhub.tistory.com/2"
 tistory_id: 2
 draft: false
+categories: ["Dev Ops"]
 ---
 
 Array

@@ -5,6 +5,8 @@ slug: "726-Google-Gen-AI-Toolbox-MCP-왜-개발자들이-열광하나요"
 original_url: "https://memoryhub.tistory.com/726"
 tistory_id: 726
 draft: false
+categories: ["Dev Library"]
+tags: ["MCP"]
 ---
 
 ```

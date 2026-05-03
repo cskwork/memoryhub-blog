@@ -5,6 +5,8 @@ slug: "610-Agent-to-Agent-Protocol-AI-에이전트-간-협업의-미래"
 original_url: "https://memoryhub.tistory.com/610"
 tistory_id: 610
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
 ---
 
 구글이 AI 에이전트들이 서로 대화하고 협업할 수 있는 프로토콜을 개발했다는 소식, 들어보셨나요? 마치 사람들이 서로 다른 언어를 사용하더라도 통역사를 통해 소통하듯이, 이제 AI 에이전트들도 표준화된 방식으로 소통할 수 있게 되었습니다!## 등장 배경

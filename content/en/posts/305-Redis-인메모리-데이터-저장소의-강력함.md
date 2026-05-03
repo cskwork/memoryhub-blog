@@ -5,6 +5,8 @@ slug: "305-Redis-인메모리-데이터-저장소의-강력함"
 original_url: "https://memoryhub.tistory.com/305"
 tistory_id: 305
 draft: false
+categories: ["Dev Database"]
+tags: ["Redis"]
 ---
 
 Redis is a high-performance in-memory data store that supports various data structures and is used for caching, session management, and real-time analytics. It processes data up to 100 times faster than disk-based databases, and guarantees data stability through persistence options.

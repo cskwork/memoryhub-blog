@@ -5,6 +5,8 @@ slug: "708-Gemini-CLI-출시-터미널이-AI-비서로-무료-일일-1000회-사
 original_url: "https://memoryhub.tistory.com/708"
 tistory_id: 708
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
 ---
 
 ```

@@ -5,6 +5,13 @@ slug: "544-Spring-Boot-JWT-Spring-Security-안전한-인증과-파일-업로드-
 original_url: "https://memoryhub.tistory.com/544"
 tistory_id: 544
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring Security"]
+  hidden: false
+cover:
+  image: "/images/544-Spring-Boot-JWT-Spring-Security-안전한-인증과-파일-업로드-완전-정복/img.png"
+  relative: false
+  hidden: false
 ---
 
 안녕하세요! 최신 웹 애플리케이션과 API 개발에서 상태 비저장(Stateless) 인증 방식인 **JWT(JSON Web Token)**는 확장성과 마이크로서비스 아키텍처(MSA) 환경에서의 유연성 덕분에 거의 표준처럼 자리 잡았죠. 이번 포스팅에서는 강력한 보안 프레임워크인 **Spring Security**와 **JWT**를 어떻게 **Spring Boot** 환경에서 효과적으로 통합하는지, 그리고 인증된 사용자만 **파일을 안전하게 업로드**하도록 구현하는 방법까지, 실제 코드를 통해 자세히 살펴보겠습니다. ?

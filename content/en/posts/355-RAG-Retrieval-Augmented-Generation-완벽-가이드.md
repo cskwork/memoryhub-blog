@@ -5,6 +5,8 @@ slug: "355-RAG-Retrieval-Augmented-Generation-완벽-가이드"
 original_url: "https://memoryhub.tistory.com/355"
 tistory_id: 355
 draft: false
+categories: ["Dev Database"]
+tags: ["RAG"]
 ---
 
 Hello! Today we'll dive deep into RAG (Retrieval-Augmented Generation), which has been a hot topic in recent LLM applications.

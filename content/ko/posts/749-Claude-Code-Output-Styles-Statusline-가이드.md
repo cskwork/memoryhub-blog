@@ -5,6 +5,13 @@ slug: "749-Claude-Code-Output-Styles-Statusline-가이드"
 original_url: "https://memoryhub.tistory.com/749"
 tistory_id: 749
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Claude"]
+  hidden: false
+cover:
+  image: "/images/749-Claude-Code-Output-Styles-Statusline-가이드/img.png"
+  relative: false
+  hidden: false
 ---
 
 안녕하세요! 오늘은 많은 개발자분들이 궁금해하는 **Claude Code Output Styles(출력 스타일)** 과 **Statusline(상태 표시줄)** 기능에 대해 정리해 보겠습니다.

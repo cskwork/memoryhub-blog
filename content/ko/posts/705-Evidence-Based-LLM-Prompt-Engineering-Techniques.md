@@ -5,6 +5,8 @@ slug: "705-Evidence-Based-LLM-Prompt-Engineering-Techniques"
 original_url: "https://memoryhub.tistory.com/705"
 tistory_id: 705
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Prompting"]
 ---
 
 **Chain-of-thought prompting and few-shot learning emerge as the most empirically validated techniques**, with chain-of-thought showing up to 47% performance improvements on complex reasoning tasks and few-shot prompting delivering 20-50% accuracy gains on classification problems. Recent meta-analyses of 1,565 research papers reveal that automated prompt optimization now outperforms human prompt engineers, while advanced techniques like tree-of-thoughts and multi-agent prompting represent the cutting edge of performance enhancement.

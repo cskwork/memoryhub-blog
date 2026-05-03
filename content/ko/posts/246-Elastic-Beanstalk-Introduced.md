@@ -5,6 +5,8 @@ slug: "246-Elastic-Beanstalk-Introduced"
 original_url: "https://memoryhub.tistory.com/246"
 tistory_id: 246
 draft: false
+categories: ["Dev AWS"]
+tags: ["Elastic BeanStalk"]
 ---
 
 *Elastic Beanstalk is like a magic box that takes your code and automatically prepares it to run in the cloud, handling all the setup and scaling so you don't have to.*

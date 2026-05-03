@@ -5,6 +5,8 @@ slug: "473-PostgreSQL-인증-오류-해결-가이드_-Mac에서-비밀번호-재
 original_url: "https://memoryhub.tistory.com/473"
 tistory_id: 473
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["PostgreSQL"]
 ---
 
 ## 문제 소개

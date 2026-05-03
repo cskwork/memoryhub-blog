@@ -5,6 +5,8 @@ slug: "680-Claude-Code로-개발-생산성-극대화하기_-실전-활용-가이
 original_url: "https://memoryhub.tistory.com/680"
 tistory_id: 680
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Claude"]
 ---
 
 개발자들의 일상은 반복적이고 시간이 많이 소요되는 작업들로 가득합니다. 코드 리팩토링, 버그 수정, 테스트 작성, 문서화... 이런 작업들을 AI가 대신해준다면 어떨까요? Anthropic의 **Claude Code**는 바로 이런 꿈을 현실로 만들어주는 혁신적인 도구입니다.

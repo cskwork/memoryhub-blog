@@ -5,6 +5,8 @@ slug: "741-TEI-vs-Ollama-vs-OpenAI-임베딩-완전-비교-무료인데-성능-�
 original_url: "https://memoryhub.tistory.com/741"
 tistory_id: 741
 draft: false
+categories: ["Dev Library"]
+tags: ["Machine Learning"]
 ---
 
 ```

@@ -5,6 +5,8 @@ slug: "137-Hugging-Face-Introduced"
 original_url: "https://memoryhub.tistory.com/137"
 tistory_id: 137
 draft: false
+categories: ["Dev Library"]
+tags: ["Machine Learning"]
 ---
 
 *Hugging Face is a company and open-source community that provides powerful tools for natural language processing (NLP) and machine learning, focusing primarily on transformer models.*

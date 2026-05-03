@@ -5,6 +5,8 @@ slug: "725-Graphiti가-13-4k-스타를-받은-이유-AI의-기억-이-이렇게-
 original_url: "https://memoryhub.tistory.com/725"
 tistory_id: 725
 draft: false
+categories: ["Dev Database"]
+tags: ["RAG"]
 ---
 
 ```

@@ -5,6 +5,8 @@ slug: "627-Model-Context-Protocol-MCP-나만의-AI-도구-서버-만들기-완�
 original_url: "https://memoryhub.tistory.com/627"
 tistory_id: 627
 draft: false
+categories: ["Dev Library"]
+tags: ["MCP"]
 ---
 
 Imagine if AI chatbots could read files, query databases, and call APIs. This is exactly the magic that **Model Context Protocol (MCP)** enables! Today, we'll explore how to build your own MCP server from A to Z.

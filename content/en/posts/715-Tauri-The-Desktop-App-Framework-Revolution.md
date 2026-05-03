@@ -5,6 +5,8 @@ slug: "715-Tauri-The-Desktop-App-Framework-Revolution"
 original_url: "https://memoryhub.tistory.com/715"
 tistory_id: 715
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 **Tauri represents a paradigm shift in cross-platform application development, delivering 90-97% smaller bundle sizes than Electron while maintaining web technology familiarity through native system webviews and Rust backends.** This architectural innovation produces applications as small as 600KB-3MB compared to Electron's typical 85MB, with 50-80% lower memory usage and significantly faster startup times. The framework achieved a major milestone with Tauri 2.0's stable release in October 2024, adding production-ready mobile support for iOS and Android.

@@ -5,6 +5,7 @@ slug: "312-AutoCodeRover-Install-and-Use"
 original_url: "https://memoryhub.tistory.com/312"
 tistory_id: 312
 draft: false
+categories: ["데브 옵스"]
 ---
 
 *Here's a step-by-step guide on installing and running AutoCodeRover locally:*

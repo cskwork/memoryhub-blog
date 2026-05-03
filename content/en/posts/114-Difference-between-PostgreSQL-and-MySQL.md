@@ -5,6 +5,8 @@ slug: "114-Difference-between-PostgreSQL-and-MySQL"
 original_url: "https://memoryhub.tistory.com/114"
 tistory_id: 114
 draft: false
+categories: ["Dev Database"]
+tags: ["PostgreSQL"]
 ---
 
 *PostgreSQL and MySQL are both popular relational database management systems, but they differ in terms of features, performance, and use cases.*

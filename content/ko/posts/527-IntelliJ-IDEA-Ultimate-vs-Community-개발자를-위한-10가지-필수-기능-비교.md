@@ -5,6 +5,8 @@ slug: "527-IntelliJ-IDEA-Ultimate-vs-Community-개발자를-위한-10가지-필�
 original_url: "https://memoryhub.tistory.com/527"
 tistory_id: 527
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
 ---
 
 여러분은 개발을 시작할 때 어떤 도구를 선택하시나요? 자동차를 고를 때처럼, 개발 IDE도 목적에 맞는 것을 선택하는 것이 중요합니다. 오늘은 JetBrains의 IntelliJ IDEA Ultimate와 Community 버전의 차이점과 개발자들이 활용해야 할 10가지 필수 기능을 살펴보겠습니다.

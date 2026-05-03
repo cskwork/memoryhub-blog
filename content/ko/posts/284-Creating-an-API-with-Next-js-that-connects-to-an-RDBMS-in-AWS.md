@@ -5,6 +5,8 @@ slug: "284-Creating-an-API-with-Next-js-that-connects-to-an-RDBMS-in-AWS"
 original_url: "https://memoryhub.tistory.com/284"
 tistory_id: 284
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["NextJS"]
 ---
 
 *Creating an API with Next.js that connects to an RDBMS in AWS and is packaged to deploy on an AWS EC2 instance involves several steps, including setting up the project, connecting to the database, and deploying the application.*

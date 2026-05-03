@@ -5,6 +5,8 @@ slug: "96-ChatGPT-Introduced"
 original_url: "https://memoryhub.tistory.com/96"
 tistory_id: 96
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 *In this explanation, we will explore how to use ChatGPTs and GPTs, breaking down the core concepts and functionalities, and providing practical examples to ensure understanding.*

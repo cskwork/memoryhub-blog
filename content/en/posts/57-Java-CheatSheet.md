@@ -5,6 +5,8 @@ slug: "57-Java-CheatSheet"
 original_url: "https://memoryhub.tistory.com/57"
 tistory_id: 57
 draft: false
+categories: ["Dev Language"]
+tags: ["Java"]
 ---
 
 ### HELLO WORLD :ghost:

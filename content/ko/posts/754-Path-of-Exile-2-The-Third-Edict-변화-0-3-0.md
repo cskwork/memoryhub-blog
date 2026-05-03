@@ -5,6 +5,8 @@ slug: "754-Path-of-Exile-2-The-Third-Edict-변화-0-3-0"
 original_url: "https://memoryhub.tistory.com/754"
 tistory_id: 754
 draft: false
+categories: ["후기"]
+tags: ["게임"]
 ---
 
 > ⏰ 적용 시각: 한국시간 **8/30(토) 오전 5시**  

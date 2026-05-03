@@ -5,6 +5,8 @@ slug: "304-Simple-Redis-Implementation"
 original_url: "https://memoryhub.tistory.com/304"
 tistory_id: 304
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["Redis"]
 ---
 
 *Implementing a messaging system with Redis involves using its Pub/Sub feature, which allows for efficient and real-time message broadcasting and subscription.*

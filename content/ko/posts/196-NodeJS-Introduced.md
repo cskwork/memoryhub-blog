@@ -5,6 +5,8 @@ slug: "196-NodeJS-Introduced"
 original_url: "https://memoryhub.tistory.com/196"
 tistory_id: 196
 draft: false
+categories: ["데브 옵스"]
+tags: ["Node"]
 ---
 
 *Node.js is a runtime environment that allows you to run JavaScript code on the server side, outside of a web browser.*

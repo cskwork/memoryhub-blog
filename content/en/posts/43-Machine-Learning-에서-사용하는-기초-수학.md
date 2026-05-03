@@ -5,6 +5,8 @@ slug: "43-Machine-Learning-에서-사용하는-기초-수학"
 original_url: "https://memoryhub.tistory.com/43"
 tistory_id: 43
 draft: false
+categories: ["Dev Library"]
+tags: ["Machine Learning"]
 ---
 
 ML: Teaching computers to learn by studying data and statistics. (Analyzing data to predict results) [Python Machine Learning (w3schools.com)](https://www.w3schools.com/python/python_ml_getting_started.asp)

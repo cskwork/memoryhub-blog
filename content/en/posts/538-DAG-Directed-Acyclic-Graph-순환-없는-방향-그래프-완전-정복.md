@@ -5,6 +5,8 @@ slug: "538-DAG-Directed-Acyclic-Graph-순환-없는-방향-그래프-완전-정�
 original_url: "https://memoryhub.tistory.com/538"
 tistory_id: 538
 draft: false
+categories: ["Dev Database"]
+tags: ["Architecture"]
 ---
 
 Have you ever thought about organizing data or task sequences with the logic "I need to do this first, then that next"? That's exactly what a DAG, or **Directed Acyclic Graph**, elegantly structures into a logical form. In this article, I'll explain what DAG is, why we need it, and where it's used in an easy-to-understand way!

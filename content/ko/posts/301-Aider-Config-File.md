@@ -5,6 +5,8 @@ slug: "301-Aider-Config-File"
 original_url: "https://memoryhub.tistory.com/301"
 tistory_id: 301
 draft: false
+categories: ["데브 유틸"]
+tags: ["Aider"]
 ---
 
 [.aider.conf.yaml0.01MB](./file/.aider.conf.yaml)

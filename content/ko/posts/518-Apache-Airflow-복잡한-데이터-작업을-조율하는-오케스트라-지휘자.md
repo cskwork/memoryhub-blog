@@ -5,6 +5,8 @@ slug: "518-Apache-Airflow-복잡한-데이터-작업을-조율하는-오케스�
 original_url: "https://memoryhub.tistory.com/518"
 tistory_id: 518
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Apache"]
 ---
 
 안녕하세요! ? 데이터 엔지니어링, 머신러닝 파이프라인, ETL 작업 등등... 처리해야 할 작업 흐름이 점점 복잡해지고 있지 않나요? ? 마치 수많은 악기 연주자를 이끌어야 하는 오케스트라 지휘자처럼, 이 복잡한 작업들을 어떻게 조화롭게 관리하고 실행할 수 있을까요? 오늘은 바로 이 문제에 대한 멋진 해결책, **Apache Airflow**에 대해 쉽고 재미있게 알아보겠습니다!

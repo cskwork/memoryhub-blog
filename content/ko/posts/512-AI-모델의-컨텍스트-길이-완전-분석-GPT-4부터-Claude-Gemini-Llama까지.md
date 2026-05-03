@@ -5,6 +5,8 @@ slug: "512-AI-모델의-컨텍스트-길이-완전-분석-GPT-4부터-Claude-Gem
 original_url: "https://memoryhub.tistory.com/512"
 tistory_id: 512
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["GPT"]
 ---
 
 여러분은 AI 챗봇과 대화할 때 이전 대화를 얼마나 잘 기억하는지 의문을 가져본 적이 있나요? 혹은 긴 문서를 AI에게 분석해달라고 했는데 "너무 길어서 처리할 수 없어요"라는 답변을 받은 적은 없으신가요? 이것은 모두 AI 모델의 '컨텍스트 길이(Context Length)'와 관련이 있습니다. ?

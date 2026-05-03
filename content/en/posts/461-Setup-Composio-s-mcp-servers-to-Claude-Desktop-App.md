@@ -5,6 +5,7 @@ slug: "461-Setup-Composio-s-mcp-servers-to-Claude-Desktop-App"
 original_url: "https://memoryhub.tistory.com/461"
 tistory_id: 461
 draft: false
+categories: ["Dev Ops"]
 ---
 
 ### Overview

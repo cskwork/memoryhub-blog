@@ -5,6 +5,8 @@ slug: "577-IntelliJ-플러그인-업데이트-문제-해결하기-AccessDeniedEx
 original_url: "https://memoryhub.tistory.com/577"
 tistory_id: 577
 draft: false
+categories: ["Dev Util"]
+tags: ["Intellij"]
 ---
 
 Hello, developers! Have you ever encountered an 'AccessDeniedException' error when trying to update a plugin in IntelliJ? It's as frustrating as putting a key in your car and it won't start! Today, I'll show you how to solve this annoying problem once and for all.

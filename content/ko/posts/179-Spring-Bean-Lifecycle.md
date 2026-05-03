@@ -5,6 +5,8 @@ slug: "179-Spring-Bean-Lifecycle"
 original_url: "https://memoryhub.tistory.com/179"
 tistory_id: 179
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring"]
 ---
 
 *Spring's IoC container manages the lifecycle of beans by creating, configuring, and assembling them during application startup, and by managing their states and dependencies through the entire runtime.*

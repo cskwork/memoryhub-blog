@@ -5,6 +5,8 @@ slug: "369-Spring-Batch-Step-Status-배치-처리의-핵심-흐름-마스터하�
 original_url: "https://memoryhub.tistory.com/369"
 tistory_id: 369
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring Batch"]
 ---
 
 In enterprise environments requiring large-scale data processing and automated task execution, Spring Batch is an essential framework. Among its components, Step and Status are core elements that control the flow of batch operations. Without a proper understanding of these concepts, it's difficult to build complex batch applications.

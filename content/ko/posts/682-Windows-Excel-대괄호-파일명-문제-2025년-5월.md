@@ -5,6 +5,8 @@ slug: "682-Windows-Excel-대괄호-파일명-문제-2025년-5월"
 original_url: "https://memoryhub.tistory.com/682"
 tistory_id: 682
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
 ---
 
 Microsoft Office의 2025년 5월 보안 업데이트로 인해 대괄호가 포함된 Excel 파일명에서 심각한 문제가 발생하고 있습니다. 이는 단순한 버그가 아닌 Microsoft의 설계 결정과 최근 보안 강화 조치가 결합된 복합적 문제입니다.

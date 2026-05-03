@@ -5,6 +5,8 @@ slug: "471-Mac에서-Claude-Desktop의-Brave-Search-MCP-서버-문제-해결하�
 original_url: "https://memoryhub.tistory.com/471"
 tistory_id: 471
 draft: false
+categories: ["Dev Library"]
+tags: ["Claude"]
 ---
 
 Let me show you how to solve the problem of Claude Desktop application's Brave Search MCP server not working in Mac environment.

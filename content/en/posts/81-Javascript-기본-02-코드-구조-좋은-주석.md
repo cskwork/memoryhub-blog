@@ -5,6 +5,8 @@ slug: "81-Javascript-기본-02-코드-구조-좋은-주석"
 original_url: "https://memoryhub.tistory.com/81"
 tistory_id: 81
 draft: false
+categories: ["Dev Language"]
+tags: ["Javascript"]
 ---
 
 ## Summary

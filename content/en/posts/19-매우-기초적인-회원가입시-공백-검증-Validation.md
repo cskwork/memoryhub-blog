@@ -5,6 +5,8 @@ slug: "19-매우-기초적인-회원가입시-공백-검증-Validation"
 original_url: "https://memoryhub.tistory.com/19"
 tistory_id: 19
 draft: false
+categories: ["Dev Util"]
+tags: ["General Board"]
 ---
 
 > This should be added to your registration .jsp file.

@@ -5,6 +5,8 @@ slug: "108-Spring-Security-Introduced"
 original_url: "https://memoryhub.tistory.com/108"
 tistory_id: 108
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring"]
 ---
 
 *Spring Security is like a security guard for your web applications, ensuring that only authorized users can access certain parts and protecting against various threats.*

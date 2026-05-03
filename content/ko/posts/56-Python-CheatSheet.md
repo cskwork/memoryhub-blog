@@ -5,6 +5,8 @@ slug: "56-Python-CheatSheet"
 original_url: "https://memoryhub.tistory.com/56"
 tistory_id: 56
 draft: false
+categories: ["데브 언어"]
+tags: ["Python"]
 ---
 
 # Python

@@ -5,6 +5,8 @@ slug: "128-Singleton-Pattern-with-Java"
 original_url: "https://memoryhub.tistory.com/128"
 tistory_id: 128
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Design Pattern"]
 ---
 
 *The Singleton Pattern ensures a class has only one instance and provides a global point of access to that instance, like having a single captain of a ship who is the only one steering it.*

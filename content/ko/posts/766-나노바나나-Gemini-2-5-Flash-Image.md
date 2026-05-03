@@ -5,6 +5,13 @@ slug: "766-나노바나나-Gemini-2-5-Flash-Image"
 original_url: "https://memoryhub.tistory.com/766"
 tistory_id: 766
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
+  hidden: false
+cover:
+  image: "/images/766-나노바나나-Gemini-2-5-Flash-Image/img.png"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/766-나노바나나-Gemini-2-5-Flash-Image/img.png)

@@ -5,6 +5,8 @@ slug: "667-데이터-파이프라인의-뼈대-DAG-Directed-Acyclic-Graph"
 original_url: "https://memoryhub.tistory.com/667"
 tistory_id: 667
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Apache"]
 ---
 
 ```

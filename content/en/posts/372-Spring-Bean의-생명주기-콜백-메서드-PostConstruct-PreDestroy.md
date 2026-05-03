@@ -5,6 +5,8 @@ slug: "372-Spring-Bean의-생명주기-콜백-메서드-PostConstruct-PreDestroy
 original_url: "https://memoryhub.tistory.com/372"
 tistory_id: 372
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring"]
 ---
 
 Hello! Today, let's explore the callback methods that are executed when Spring Beans are initialized and destroyed.

@@ -5,6 +5,8 @@ slug: "699-한-줄의-코드가-인터넷을-무너뜨린-날-CrowdStrike-대참
 original_url: "https://memoryhub.tistory.com/699"
 tistory_id: 699
 draft: false
+categories: ["Life"]
+tags: ["Trends"]
 ---
 
 ```

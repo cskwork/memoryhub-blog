@@ -5,6 +5,8 @@ slug: "355-RAG-Retrieval-Augmented-Generation-완벽-가이드"
 original_url: "https://memoryhub.tistory.com/355"
 tistory_id: 355
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["RAG"]
 ---
 
 안녕하세요! 오늘은 최근 LLM 응용 분야에서 핫한 RAG(Retrieval-Augmented Generation)에 대해 자세히 알아보겠습니다.

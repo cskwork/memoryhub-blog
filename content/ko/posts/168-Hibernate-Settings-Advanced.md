@@ -5,6 +5,8 @@ slug: "168-Hibernate-Settings-Advanced"
 original_url: "https://memoryhub.tistory.com/168"
 tistory_id: 168
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring"]
 ---
 
 *Hibernate settings in a Spring Framework web application involve configuring database connection, dialect, and entity management settings to ensure efficient and optimized interaction with the database.*

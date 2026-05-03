@@ -5,6 +5,13 @@ slug: "17-구글로-CSS-작업하면-반드시-해야할-것"
 original_url: "https://memoryhub.tistory.com/17"
 tistory_id: 17
 draft: false
+categories: ["Dev Util"]
+tags: ["Settings"]
+  hidden: false
+cover:
+  image: "/images/17-구글로-CSS-작업하면-반드시-해야할-것/nocache.PNG"
+  relative: false
+  hidden: false
 ---
 
 When doing web development and working with CSS, sometimes page reloading doesn't reflect your changes no matter how many times you try.

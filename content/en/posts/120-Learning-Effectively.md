@@ -5,6 +5,8 @@ slug: "120-Learning-Effectively"
 original_url: "https://memoryhub.tistory.com/120"
 tistory_id: 120
 draft: false
+categories: ["Life"]
+tags: ["Self Development"]
 ---
 
 *Learning effectively involves understanding the big picture, mastering core concepts, and applying detailed strategies tailored to how your brain works best.*

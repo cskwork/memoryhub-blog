@@ -5,6 +5,8 @@ slug: "720-RAG-시스템-대결-LangConnect-Client-vs-Open-WebUI-문서-기반-A
 original_url: "https://memoryhub.tistory.com/720"
 tistory_id: 720
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["RAG"]
 ---
 
 ## 서론: AI가 문서를 읽고 답하는 시대

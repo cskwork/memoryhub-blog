@@ -5,6 +5,8 @@ slug: "16-기본-AJAX-문법"
 original_url: "https://memoryhub.tistory.com/16"
 tistory_id: 16
 draft: false
+categories: ["데브 유틸"]
+tags: ["자바스크립트 놀기"]
 ---
 
 > 기본 AJAX 문법 정리 및 예제

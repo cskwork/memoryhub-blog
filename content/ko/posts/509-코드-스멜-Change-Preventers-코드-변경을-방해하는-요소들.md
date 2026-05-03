@@ -5,6 +5,8 @@ slug: "509-코드-스멜-Change-Preventers-코드-변경을-방해하는-요소�
 original_url: "https://memoryhub.tistory.com/509"
 tistory_id: 509
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Clean Code"]
 ---
 
 코드를 수정하려고 했는데 한 군데만 바꾸면 될 줄 알았던 것이 여러 곳을 동시에 수정해야 하는 상황을 경험해 보셨나요? 혹은 하나의 클래스가 너무 많은 일을 담당해서 간단한 변경 하나를 위해 전체 클래스를 이해해야만 했던 경험이 있으신가요?

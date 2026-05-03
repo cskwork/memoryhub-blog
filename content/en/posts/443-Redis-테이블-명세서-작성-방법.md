@@ -5,6 +5,8 @@ slug: "443-Redis-테이블-명세서-작성-방법"
 original_url: "https://memoryhub.tistory.com/443"
 tistory_id: 443
 draft: false
+categories: ["Dev Database"]
+tags: ["Redis"]
 ---
 
 Today, let's explore **Redis table (or schema) specification writing methods** and several **examples**. Unlike typical relational databases (RDBMS), Redis doesn't have clear "table" or "schema" concepts. However, to **design Redis data structures systematically** and make them easy to understand and maintain, it's important to establish **guidelines similar to table specifications**.

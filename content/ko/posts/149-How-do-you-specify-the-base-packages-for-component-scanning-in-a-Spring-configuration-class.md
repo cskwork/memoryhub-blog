@@ -5,6 +5,8 @@ slug: "149-How-do-you-specify-the-base-packages-for-component-scanning-in-a-Spri
 original_url: "https://memoryhub.tistory.com/149"
 tistory_id: 149
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring"]
 ---
 
 *To specify the base packages for component scanning in a Spring configuration class, you use the `@ComponentScan` annotation with the `basePackages` attribute to indicate which packages should be scanned for components.*

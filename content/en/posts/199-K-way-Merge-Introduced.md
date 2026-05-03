@@ -5,4 +5,6 @@ slug: "199-K-way-Merge-Introduced"
 original_url: "https://memoryhub.tistory.com/199"
 tistory_id: 199
 draft: false
+categories: ["Dev Library"]
+tags: ["DS And Algorithm"]
 ---

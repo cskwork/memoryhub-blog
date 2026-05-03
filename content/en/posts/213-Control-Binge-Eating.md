@@ -5,6 +5,8 @@ slug: "213-Control-Binge-Eating"
 original_url: "https://memoryhub.tistory.com/213"
 tistory_id: 213
 draft: false
+categories: ["Life"]
+tags: ["Mental Health"]
 ---
 
 *Binge eating can be controlled by understanding its triggers, employing mindful eating practices, and using behavioral strategies to manage and reduce episodes.*

@@ -5,6 +5,8 @@ slug: "310-Implement-Redis-with-Lettuce-in-Java"
 original_url: "https://memoryhub.tistory.com/310"
 tistory_id: 310
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["Redis"]
 ---
 
 ---

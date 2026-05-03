@@ -5,6 +5,7 @@ slug: "248-Elastic-Container-Registry-Introduced"
 original_url: "https://memoryhub.tistory.com/248"
 tistory_id: 248
 draft: false
+categories: ["Dev AWS"]
 ---
 
 *Elastic Container Registry (ECR) is a managed AWS service that allows you to store, manage, and deploy Docker container images securely and at scale.*

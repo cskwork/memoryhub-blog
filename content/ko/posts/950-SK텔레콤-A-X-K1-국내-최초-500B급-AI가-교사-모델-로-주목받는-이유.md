@@ -5,6 +5,8 @@ slug: "950-SK텔레콤-A-X-K1-국내-최초-500B급-AI가-교사-모델-로-주�
 original_url: "https://memoryhub.tistory.com/950"
 tistory_id: 950
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
 ---
 
 ```

@@ -5,6 +5,8 @@ slug: "308-Can-you-explain-the-difference-between-app-use-and-app-get-in-Express
 original_url: "https://memoryhub.tistory.com/308"
 tistory_id: 308
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["ExpressJS"]
 ---
 
 ---

@@ -5,6 +5,8 @@ slug: "764-CI-Memory"
 original_url: "https://memoryhub.tistory.com/764"
 tistory_id: 764
 draft: false
+categories: ["생활"]
+tags: ["THE LAW OF CI"]
 ---
 
 ## Top 10 Laws of Memory Improvement

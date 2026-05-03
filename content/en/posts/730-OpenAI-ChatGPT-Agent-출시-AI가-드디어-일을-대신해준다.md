@@ -5,6 +5,8 @@ slug: "730-OpenAI-ChatGPT-Agent-출시-AI가-드디어-일을-대신해준다"
 original_url: "https://memoryhub.tistory.com/730"
 tistory_id: 730
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 ```

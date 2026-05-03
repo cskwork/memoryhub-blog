@@ -5,6 +5,8 @@ slug: "67-클래스-설계의-5가지-원칙-SOLID"
 original_url: "https://memoryhub.tistory.com/67"
 tistory_id: 67
 draft: false
+categories: ["데브 컨셉"]
+tags: ["정보처리기사"]
 ---
 
 ## GPT 설명

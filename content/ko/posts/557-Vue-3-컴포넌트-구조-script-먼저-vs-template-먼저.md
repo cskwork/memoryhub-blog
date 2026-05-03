@@ -5,6 +5,8 @@ slug: "557-Vue-3-컴포넌트-구조-script-먼저-vs-template-먼저"
 original_url: "https://memoryhub.tistory.com/557"
 tistory_id: 557
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["VueJS"]
 ---
 
 Vue.js로 컴포넌트를 만들다 보면 `.vue` 파일 안에서 `<template>`, `<script>`, `<style>` 블록들의 순서가 궁금할 때가 있죠? ? 어떤 사람은 `<template>`을 먼저 쓰고, 다른 사람은 `<script>`를 먼저 쓰기도 하는데요. 과연 이 순서에 특별한 의미가 있을까요? 또, Vue 3에서는 어떤 순서를 더 권장할까요? 함께 알아보아요! ?

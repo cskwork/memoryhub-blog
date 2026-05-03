@@ -5,6 +5,8 @@ slug: "538-DAG-Directed-Acyclic-Graph-순환-없는-방향-그래프-완전-정�
 original_url: "https://memoryhub.tistory.com/538"
 tistory_id: 538
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["Architecture"]
 ---
 
 혹시 데이터나 작업 순서를 정리할 때, "이건 먼저 해야 하고, 저건 그 다음에 해야 해!" 같은 생각 해본 적 있나요? 바로 그런 논리를 깔끔하게 구조화한 게 DAG, 즉 **순환 없는 방향 그래프(Directed Acyclic Graph)**예요 ? 이 글에서는 DAG가 뭔지, 왜 필요한지, 어디에 쓰이는지 쉽게 풀어볼게요!

@@ -5,6 +5,8 @@ slug: "369-Spring-Batch-Step-Status-배치-처리의-핵심-흐름-마스터하�
 original_url: "https://memoryhub.tistory.com/369"
 tistory_id: 369
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring Batch"]
 ---
 
 대규모 데이터 처리와 자동화된 작업 실행이 필요한 엔터프라이즈 환경에서 Spring Batch는 필수적인 프레임워크입니다. 그중에서도 Step과 Status는 배치 작업의 흐름을 제어하는 핵심 요소입니다. 이것을 제대로 이해하지 못한다면 복잡한 배치 애플리케이션을 구축하기 어렵습니다.

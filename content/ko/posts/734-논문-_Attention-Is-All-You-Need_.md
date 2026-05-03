@@ -5,6 +5,13 @@ slug: "734-논문-_Attention-Is-All-You-Need_"
 original_url: "https://memoryhub.tistory.com/734"
 tistory_id: 734
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Machine Learning"]
+  hidden: false
+cover:
+  image: "/images/734-논문-_Attention-Is-All-You-Need_/img.png"
+  relative: false
+  hidden: false
 ---
 
 이 글은 구글 브레인 팀이 발표한 2017년 논문 "Attention Is All You Need"[[1]](https://arxiv.org/html/1706.03762v7#:~:text=The%20dominant%20sequence%20transduction%20models,large%20and%20limited%20training%20data)를 이해할 수 있도록 쉽게 설명한 것이다. 이 논문에서는 번역 등 길이가 다른 두 개의 문장을 처리하는 **시퀀스** **변환** 문제를 푸는 새로운 방법을 제안한다.

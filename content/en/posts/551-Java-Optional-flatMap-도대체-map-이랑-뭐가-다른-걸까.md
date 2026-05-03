@@ -5,6 +5,8 @@ slug: "551-Java-Optional-flatMap-도대체-map-이랑-뭐가-다른-걸까"
 original_url: "https://memoryhub.tistory.com/551"
 tistory_id: 551
 draft: false
+categories: ["Dev Language"]
+tags: ["Java"]
 ---
 
 ```

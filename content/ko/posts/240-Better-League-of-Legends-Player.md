@@ -5,6 +5,8 @@ slug: "240-Better-League-of-Legends-Player"
 original_url: "https://memoryhub.tistory.com/240"
 tistory_id: 240
 draft: false
+categories: ["후기"]
+tags: ["게임"]
 ---
 
 *Becoming a better League of Legends (LoL) player involves understanding game mechanics, improving map awareness, and mastering different roles and champions, much like an athlete training in various aspects of their sport to excel overall.*

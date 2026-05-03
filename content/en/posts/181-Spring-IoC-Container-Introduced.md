@@ -5,6 +5,8 @@ slug: "181-Spring-IoC-Container-Introduced"
 original_url: "https://memoryhub.tistory.com/181"
 tistory_id: 181
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring"]
 ---
 
 *The Spring IoC (Inversion of Control) container is a powerful tool in the Spring Framework that handles the creation, configuration, and management of beans, thereby promoting loose coupling and flexibility in your applications.*

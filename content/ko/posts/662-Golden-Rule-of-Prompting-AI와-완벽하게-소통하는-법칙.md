@@ -5,6 +5,8 @@ slug: "662-Golden-Rule-of-Prompting-AI와-완벽하게-소통하는-법칙"
 original_url: "https://memoryhub.tistory.com/662"
 tistory_id: 662
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Prompting"]
 ---
 
 여러분, AI에게 뭔가를 부탁했는데 전혀 엉뚱한 답변을 받아본 적 있으신가요? ? 마치 새로 온 인턴에게 일을 시켰는데, 완전히 다른 걸 해온 것처럼 말이죠. 오늘은 이런 일이 왜 일어나는지, 그리고 어떻게 하면 AI와 완벽하게 소통할 수 있는지 알아보겠습니다!

@@ -5,6 +5,8 @@ slug: "627-Model-Context-Protocol-MCP-나만의-AI-도구-서버-만들기-완�
 original_url: "https://memoryhub.tistory.com/627"
 tistory_id: 627
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["MCP"]
 ---
 
 여러분, AI 챗봇이 파일을 읽고, 데이터베이스를 조회하고, API를 호출할 수 있다면 어떨까요? ? 바로 이런 마법같은 일을 가능하게 해주는 것이 \*\*Model Context Protocol (MCP)\*\*입니다! 오늘은 여러분만의 MCP 서버를 만드는 방법을 A부터 Z까지 알아보겠습니다.

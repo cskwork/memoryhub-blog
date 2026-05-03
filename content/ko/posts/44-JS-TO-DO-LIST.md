@@ -5,6 +5,13 @@ slug: "44-JS-TO-DO-LIST"
 original_url: "https://memoryhub.tistory.com/44"
 tistory_id: 44
 draft: false
+categories: ["데브 유틸"]
+tags: ["자바스크립트 놀기"]
+  hidden: false
+cover:
+  image: "/images/44-JS-TO-DO-LIST/img.jpg"
+  relative: false
+  hidden: false
 ---
 
 > JS 간단한 to-do List

@@ -5,6 +5,8 @@ slug: "451-IoC와-DI의-차이점-알아보기"
 original_url: "https://memoryhub.tistory.com/451"
 tistory_id: 451
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring"]
 ---
 
 오늘은 스프링(Spring) 프레임워크의 핵심 개념 중 하나인 **IoC(Inversion of Control)**와 **DI(Dependency Injection)**에 대해 알아보겠습니다. 이 두 개념은 스프링을 제대로 이해하기 위해 반드시 짚고 넘어가야 할 아주 중요한 토픽입니다.

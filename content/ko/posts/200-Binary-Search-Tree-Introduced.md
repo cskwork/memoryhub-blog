@@ -5,6 +5,8 @@ slug: "200-Binary-Search-Tree-Introduced"
 original_url: "https://memoryhub.tistory.com/200"
 tistory_id: 200
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["DS And Algorithm"]
 ---
 
 *In this explanation, we will delve into the concept of a Binary Search Tree (BST), starting with a big-picture analogy, followed by core concepts, a detailed walkthrough, an example, a conclusion, and a test to gauge understanding.*

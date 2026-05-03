@@ -5,6 +5,8 @@ slug: "91-Bootstrap-소개"
 original_url: "https://memoryhub.tistory.com/91"
 tistory_id: 91
 draft: false
+categories: ["Dev Framework"]
+tags: ["Bootstrap"]
 ---
 
 *Bootstrap is a powerful frontend framework that makes it easy to develop responsive and mobile-first websites, much like building a house with pre-designed tools and customizable components.*

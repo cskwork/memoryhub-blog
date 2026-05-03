@@ -5,6 +5,11 @@ slug: "71-A-Deeper-Inspection-Into-Compilation-And-Interpretation-Compiled"
 original_url: "https://memoryhub.tistory.com/71"
 tistory_id: 71
 draft: false
+  hidden: false
+cover:
+  image: "/images/71-A-Deeper-Inspection-Into-Compilation-And-Interpretation-Compiled/img.png"
+  relative: false
+  hidden: false
 ---
 
 ## 요약

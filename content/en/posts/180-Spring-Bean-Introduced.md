@@ -5,6 +5,8 @@ slug: "180-Spring-Bean-Introduced"
 original_url: "https://memoryhub.tistory.com/180"
 tistory_id: 180
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring"]
 ---
 
 *Spring Beans are the backbone of a Spring application, representing objects that are created and managed by the Spring IoC container, ensuring efficient dependency management and configuration.*

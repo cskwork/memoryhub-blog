@@ -5,6 +5,8 @@ slug: "147-Hibernate-Introduced"
 original_url: "https://memoryhub.tistory.com/147"
 tistory_id: 147
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring"]
 ---
 
 *Hibernate is a framework that simplifies the interaction between Java applications and relational databases by providing a powerful object-relational mapping (ORM) solution, making database operations more intuitive and less error-prone.*

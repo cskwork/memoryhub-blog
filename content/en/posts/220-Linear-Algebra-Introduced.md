@@ -5,6 +5,13 @@ slug: "220-Linear-Algebra-Introduced"
 original_url: "https://memoryhub.tistory.com/220"
 tistory_id: 220
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Mathematics"]
+  hidden: false
+cover:
+  image: "/images/220-Linear-Algebra-Introduced/img.png"
+  relative: false
+  hidden: false
 ---
 
 *Linear algebra is a branch of mathematics that deals with vectors, matrices, and systems of linear equations, enabling the understanding and manipulation of high-dimensional data.*

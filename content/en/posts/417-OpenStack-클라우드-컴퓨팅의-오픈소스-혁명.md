@@ -5,6 +5,8 @@ slug: "417-OpenStack-클라우드-컴퓨팅의-오픈소스-혁명"
 original_url: "https://memoryhub.tistory.com/417"
 tistory_id: 417
 draft: false
+categories: ["Dev Ops"]
+tags: ["OpenStack"]
 ---
 
 Have you ever been concerned about the cost burden and vendor lock-in when considering adopting cloud computing technology? What if there was an open-source cloud computing platform that you could freely configure and operate? That's OpenStack.

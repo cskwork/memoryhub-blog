@@ -5,6 +5,8 @@ slug: "259-Inner-Workings-on-how-GPTs-Learn"
 original_url: "https://memoryhub.tistory.com/259"
 tistory_id: 259
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 *Let's explore how sparse autoencoders help machines learn important features from data by focusing on the big picture and breaking down the core concepts with simple analogies.*

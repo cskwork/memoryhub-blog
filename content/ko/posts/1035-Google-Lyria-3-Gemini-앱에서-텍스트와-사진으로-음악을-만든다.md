@@ -5,6 +5,11 @@ slug: "1035-Google-Lyria-3-Gemini-앱에서-텍스트와-사진으로-음악을-
 original_url: "https://memoryhub.tistory.com/1035"
 tistory_id: 1035
 draft: false
+  hidden: false
+cover:
+  image: "/images/1035-Google-Lyria-3-Gemini-앱에서-텍스트와-사진으로-음악을-만든다/img.jpg"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/1035-Google-Lyria-3-Gemini-앱에서-텍스트와-사진으로-음악을-만든다/img.jpg)

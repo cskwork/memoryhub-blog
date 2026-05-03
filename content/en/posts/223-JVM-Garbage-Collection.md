@@ -5,6 +5,8 @@ slug: "223-JVM-Garbage-Collection"
 original_url: "https://memoryhub.tistory.com/223"
 tistory_id: 223
 draft: false
+categories: ["Dev Language"]
+tags: ["Java"]
 ---
 
 *The JVM manages memory automatically using a process called garbage collection, which identifies and disposes of objects that are no longer needed, thus freeing up memory.*

@@ -5,6 +5,8 @@ slug: "799-Microsoft-Entra에서-Outlook-API-인증-완벽-가이드-Single-vs-M
 original_url: "https://memoryhub.tistory.com/799"
 tistory_id: 799
 draft: false
+categories: ["Dev Util"]
+tags: ["Agents"]
 ---
 
 ```

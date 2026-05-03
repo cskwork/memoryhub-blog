@@ -5,6 +5,8 @@ slug: "158-Amazon-VPC-Introduced"
 original_url: "https://memoryhub.tistory.com/158"
 tistory_id: 158
 draft: false
+categories: ["Dev AWS"]
+tags: ["VPC"]
 ---
 
 *Amazon VPC (Virtual Private Cloud) allows you to create a logically isolated section of the AWS cloud where you can launch AWS resources in a virtual network that you define.*

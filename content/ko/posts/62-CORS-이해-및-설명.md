@@ -5,6 +5,8 @@ slug: "62-CORS-이해-및-설명"
 original_url: "https://memoryhub.tistory.com/62"
 tistory_id: 62
 draft: false
+categories: ["데브 컨셉"]
+tags: ["이론 문서"]
 ---
 
 ## CORS 정의

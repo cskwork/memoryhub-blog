@@ -5,6 +5,8 @@ slug: "153-Managing-Spring-Batch-Settings-in-application-properties"
 original_url: "https://memoryhub.tistory.com/153"
 tistory_id: 153
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring Batch"]
 ---
 
 Today, let’s explore how to configure **Spring Batch** through your `application.properties` file. Think of `application.properties` as the “control panel” for your entire application—it’s a powerful tool that lets you manage various configurations, including batch-specific settings, all in one place. By using this file effectively, you can adjust many aspects of your batch jobs without diving into the codebase.

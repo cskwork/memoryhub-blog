@@ -5,6 +5,8 @@ slug: "378-1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted"
 original_url: "https://memoryhub.tistory.com/378"
 tistory_id: 378
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Leetcode"]
 ---
 
 1. **요구사항 명확화**:

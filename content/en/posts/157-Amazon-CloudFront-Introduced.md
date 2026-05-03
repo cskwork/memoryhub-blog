@@ -5,6 +5,8 @@ slug: "157-Amazon-CloudFront-Introduced"
 original_url: "https://memoryhub.tistory.com/157"
 tistory_id: 157
 draft: false
+categories: ["Dev AWS"]
+tags: ["CloudFront"]
 ---
 
 *Amazon CloudFront is a content delivery network (CDN) service that accelerates the delivery of your web content to users across the globe by caching copies of your content at edge locations closer to them.*

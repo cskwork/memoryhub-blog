@@ -5,6 +5,13 @@ slug: "64-Javascript-Promise"
 original_url: "https://memoryhub.tistory.com/64"
 tistory_id: 64
 draft: false
+categories: ["Dev Language"]
+tags: ["Javascript"]
+  hidden: false
+cover:
+  image: "/images/64-Javascript-Promise/img.png"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/64-Javascript-Promise/img.png)

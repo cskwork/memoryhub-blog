@@ -5,6 +5,8 @@ slug: "92-VueJS-Introduced"
 original_url: "https://memoryhub.tistory.com/92"
 tistory_id: 92
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["VueJS"]
 ---
 
 *Vue.js is a progressive JavaScript framework for building user interfaces, designed to be incrementally adoptable, meaning you can use as much or as little of it as you want. Let's break it down step by step.*

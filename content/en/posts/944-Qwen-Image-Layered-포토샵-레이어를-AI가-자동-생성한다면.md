@@ -5,6 +5,8 @@ slug: "944-Qwen-Image-Layered-포토샵-레이어를-AI가-자동-생성한다�
 original_url: "https://memoryhub.tistory.com/944"
 tistory_id: 944
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 ```

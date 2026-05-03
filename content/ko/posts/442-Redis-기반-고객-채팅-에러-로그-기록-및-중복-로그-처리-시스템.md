@@ -5,6 +5,8 @@ slug: "442-Redis-기반-고객-채팅-에러-로그-기록-및-중복-로그-처
 original_url: "https://memoryhub.tistory.com/442"
 tistory_id: 442
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["Redis"]
 ---
 
 오늘은 **Redis**를 활용하여 운영 환경에 올라가는 고객 채팅 에러 로그를 효율적으로 기록하고, 중복 로그인 경우에는 기존 로그를 그대로 반환하는 방식의 시스템 명세서를 작성해보겠습니다!  

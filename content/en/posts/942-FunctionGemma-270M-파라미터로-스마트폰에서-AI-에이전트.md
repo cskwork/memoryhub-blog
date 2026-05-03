@@ -5,6 +5,8 @@ slug: "942-FunctionGemma-270M-파라미터로-스마트폰에서-AI-에이전트
 original_url: "https://memoryhub.tistory.com/942"
 tistory_id: 942
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 ```

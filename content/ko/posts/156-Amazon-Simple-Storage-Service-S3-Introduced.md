@@ -5,6 +5,8 @@ slug: "156-Amazon-Simple-Storage-Service-S3-Introduced"
 original_url: "https://memoryhub.tistory.com/156"
 tistory_id: 156
 draft: false
+categories: ["Dev AWS"]
+tags: ["S3"]
 ---
 
 *Amazon S3 is a scalable, high-speed, web-based cloud storage service designed for online backup and archiving of data and applications.*

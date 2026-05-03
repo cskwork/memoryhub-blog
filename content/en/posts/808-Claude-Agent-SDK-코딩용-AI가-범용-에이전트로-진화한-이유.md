@@ -5,6 +5,8 @@ slug: "808-Claude-Agent-SDK-코딩용-AI가-범용-에이전트로-진화한-이
 original_url: "https://memoryhub.tistory.com/808"
 tistory_id: 808
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 ```

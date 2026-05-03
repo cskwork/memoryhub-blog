@@ -5,6 +5,8 @@ slug: "184-Smart-Contract-Introduced"
 original_url: "https://memoryhub.tistory.com/184"
 tistory_id: 184
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Blockchain"]
 ---
 
 *Smart contracts are self-executing contracts with the terms of the agreement directly written into lines of code, making transactions automatic and trustless.*

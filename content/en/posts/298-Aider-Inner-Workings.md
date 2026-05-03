@@ -5,6 +5,8 @@ slug: "298-Aider-Inner-Workings"
 original_url: "https://memoryhub.tistory.com/298"
 tistory_id: 298
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 *Aider integrates tightly with GPT-3.5/GPT-4 to modify your code directly, using a combination of Python scripts, API interactions, and git operations.*

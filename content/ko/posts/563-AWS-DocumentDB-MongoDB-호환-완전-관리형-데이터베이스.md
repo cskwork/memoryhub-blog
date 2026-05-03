@@ -5,6 +5,8 @@ slug: "563-AWS-DocumentDB-MongoDB-호환-완전-관리형-데이터베이스"
 original_url: "https://memoryhub.tistory.com/563"
 tistory_id: 563
 draft: false
+categories: ["데브 컨셉"]
+tags: ["이론 문서"]
 ---
 
 안녕하세요! ? 오늘은 AWS의 강력한 NoSQL 데이터베이스 서비스 중 하나인 Amazon DocumentDB에 대해 알아보려고 해요. 혹시 MongoDB를 사용해 보셨거나, 유연하고 확장 가능한 데이터베이스가 필요하신가요? 그렇다면 DocumentDB가 좋은 선택지가 될 수 있습니다!

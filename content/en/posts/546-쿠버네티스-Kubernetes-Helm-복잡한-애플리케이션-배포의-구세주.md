@@ -5,6 +5,8 @@ slug: "546-쿠버네티스-Kubernetes-Helm-복잡한-애플리케이션-배포�
 original_url: "https://memoryhub.tistory.com/546"
 tistory_id: 546
 draft: false
+categories: ["Dev Ops"]
+tags: ["Kubernetes"]
 ---
 
 Kubernetes is truly a powerful and amazing tool! But doesn't managing and deploying multiple resources get headache-inducing with so many YAML files? It's like trying to assemble numerous LEGO pieces without instructions. That's exactly where **Helm** comes in! Helm will make your Kubernetes journey much easier and more enjoyable. Ready to explore the world of Helm?

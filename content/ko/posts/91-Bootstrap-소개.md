@@ -5,6 +5,8 @@ slug: "91-Bootstrap-소개"
 original_url: "https://memoryhub.tistory.com/91"
 tistory_id: 91
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Bootstrap"]
 ---
 
 *Bootstrap은 반응형 및 모바일 우선 웹사이트를 쉽게 개발할 수 있도록 도와주는 강력한 프론트엔드 프레임워크로, 미리 설계된 사용자 도구와 맞춤화 가능한 도구로 집을 짓는 것과 비슷합니다.*

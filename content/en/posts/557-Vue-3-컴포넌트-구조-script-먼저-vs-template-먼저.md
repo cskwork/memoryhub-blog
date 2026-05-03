@@ -5,6 +5,8 @@ slug: "557-Vue-3-컴포넌트-구조-script-먼저-vs-template-먼저"
 original_url: "https://memoryhub.tistory.com/557"
 tistory_id: 557
 draft: false
+categories: ["Dev Framework"]
+tags: ["VueJS"]
 ---
 
 When creating components in Vue.js, you sometimes wonder about the order of `<template>`, `<script>`, and `<style>` blocks within a `.vue` file. Some people write `<template>` first, while others write `<script>` first. Does this order have any special meaning? And what order does Vue 3 recommend? Let's find out together!

@@ -5,6 +5,8 @@ slug: "97-ChatGPT-소개"
 original_url: "https://memoryhub.tistory.com/97"
 tistory_id: 97
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["GPT"]
 ---
 
 *ChatGPT와 GPTs를 사용하는 방법을 설명하고, 핵심 개념과 기능을 다루며, 실용적인 예제를 통해 이해를 도울 것입니다.*

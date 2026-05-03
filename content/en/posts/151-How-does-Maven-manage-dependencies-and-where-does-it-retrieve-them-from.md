@@ -5,6 +5,8 @@ slug: "151-How-does-Maven-manage-dependencies-and-where-does-it-retrieve-them-fr
 original_url: "https://memoryhub.tistory.com/151"
 tistory_id: 151
 draft: false
+categories: ["Dev Ops"]
+tags: ["Maven"]
 ---
 
 *Maven manages dependencies by defining them in the POM file and retrieving them from repositories, which can be local or remote.*

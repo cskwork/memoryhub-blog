@@ -5,6 +5,8 @@ slug: "932-Theory-of-Mind-프롬프팅-AI가-나-를-이해하게-만드는-법"
 original_url: "https://memoryhub.tistory.com/932"
 tistory_id: 932
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 ```

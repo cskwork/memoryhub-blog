@@ -5,6 +5,8 @@ slug: "182-Temperature-and-Tokens-in-GPT-parameter"
 original_url: "https://memoryhub.tistory.com/182"
 tistory_id: 182
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 *Temperature controls randomness in GPT responses, while tokens are the basic units of text processing.*

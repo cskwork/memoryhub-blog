@@ -5,6 +5,8 @@ slug: "427-o1-모델의-학습-Learning-시스템-AI의-지속적-성능-향상-
 original_url: "https://memoryhub.tistory.com/427"
 tistory_id: 427
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 ## What is Learning?

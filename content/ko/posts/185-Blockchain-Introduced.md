@@ -5,6 +5,8 @@ slug: "185-Blockchain-Introduced"
 original_url: "https://memoryhub.tistory.com/185"
 tistory_id: 185
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Blockchain"]
 ---
 
 *Blockchain technology is a decentralized digital ledger that records transactions across many computers in a way that the registered transactions cannot be altered retroactively.*

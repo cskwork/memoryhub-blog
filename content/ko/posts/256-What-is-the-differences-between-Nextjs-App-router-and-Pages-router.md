@@ -5,6 +5,8 @@ slug: "256-What-is-the-differences-between-Nextjs-App-router-and-Pages-router"
 original_url: "https://memoryhub.tistory.com/256"
 tistory_id: 256
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["NextJS"]
 ---
 
 *Next.js provides two routing systems: the App Router and the Pages Router. The App Router leverages the newer React Server Components and offers more granular data fetching and layout control, while the Pages Router follows a more traditional, file-based routing system.*

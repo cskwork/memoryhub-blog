@@ -5,6 +5,8 @@ slug: "367-Spring-스케줄링"
 original_url: "https://memoryhub.tistory.com/367"
 tistory_id: 367
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring"]
 ---
 
 안녕하세요! 오늘은 Spring에서 반복 작업을 자동화하는 Spring 스케줄링 대해 알아보겠습니다.

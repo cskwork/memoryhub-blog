@@ -5,6 +5,8 @@ slug: "408-Stable-Diffusion-모델-3대장-분석-Base-Refiner-LoRA-파헤치기
 original_url: "https://memoryhub.tistory.com/408"
 tistory_id: 408
 draft: false
+categories: ["데브 유틸"]
+tags: ["Stable Diffusion"]
 ---
 
 ```

@@ -5,6 +5,8 @@ slug: "55-Nginx-CheatSheet"
 original_url: "https://memoryhub.tistory.com/55"
 tistory_id: 55
 draft: false
+categories: ["데브 옵스"]
+tags: ["Nginx"]
 ---
 
 ```

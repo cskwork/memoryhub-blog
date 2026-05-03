@@ -5,6 +5,8 @@ slug: "192-Stripe-and-Java-Integration-Guide"
 original_url: "https://memoryhub.tistory.com/192"
 tistory_id: 192
 draft: false
+categories: ["Dev Database"]
+tags: ["Oracle Database"]
 ---
 
 *Integrating a payment system like Stripe into a backend service involves setting up Stripe in your project, creating payment endpoints, and handling payment events securely.*

@@ -5,6 +5,8 @@ slug: "121-Factory-Pattern-with-Java"
 original_url: "https://memoryhub.tistory.com/121"
 tistory_id: 121
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Design Pattern"]
 ---
 
 *The factory pattern in Java is like a factory in real life where you create different products (objects) without specifying the exact class of the object that will be created.*

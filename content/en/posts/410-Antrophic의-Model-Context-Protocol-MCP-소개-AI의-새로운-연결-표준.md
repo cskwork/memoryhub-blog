@@ -5,6 +5,11 @@ slug: "410-Antrophic의-Model-Context-Protocol-MCP-소개-AI의-새로운-연결
 original_url: "https://memoryhub.tistory.com/410"
 tistory_id: 410
 draft: false
+  hidden: false
+cover:
+  image: "/images/410-Antrophic의-Model-Context-Protocol-MCP-소개-AI의-새로운-연결-표준/img.png"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/410-Antrophic의-Model-Context-Protocol-MCP-소개-AI의-새로운-연결-표준/img.png)

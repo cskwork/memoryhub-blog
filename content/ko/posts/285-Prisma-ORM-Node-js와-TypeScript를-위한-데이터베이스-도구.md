@@ -5,6 +5,8 @@ slug: "285-Prisma-ORM-Node-js와-TypeScript를-위한-데이터베이스-도구"
 original_url: "https://memoryhub.tistory.com/285"
 tistory_id: 285
 draft: false
+categories: ["데브 옵스"]
+tags: ["Node"]
 ---
 
 ```

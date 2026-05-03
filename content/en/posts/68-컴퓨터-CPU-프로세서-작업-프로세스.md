@@ -5,6 +5,13 @@ slug: "68-컴퓨터-CPU-프로세서-작업-프로세스"
 original_url: "https://memoryhub.tistory.com/68"
 tistory_id: 68
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Info Processing Cert"]
+  hidden: false
+cover:
+  image: "/images/68-컴퓨터-CPU-프로세서-작업-프로세스/img.png"
+  relative: false
+  hidden: false
 ---
 
 ## Computer CPU (Processor) Task Process

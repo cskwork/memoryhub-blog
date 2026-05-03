@@ -5,6 +5,8 @@ slug: "702-Cursor-IDE-요금제-및-AI-사용-제한-최근-변경사항-2025-06
 original_url: "https://memoryhub.tistory.com/702"
 tistory_id: 702
 draft: false
+categories: ["데브 유틸"]
+tags: ["Agentic Coding"]
 ---
 
 Cursor IDE는 2025년 중반에 개인 요금제를 전면 개편하여 새로운 고급 요금제를 도입하고 기존 요금제의 AI 사용량 측정 방식을 수정했습니다. 주요 변경사항으로는 새로운 "Ultra" 구독 등급과 Pro 요금제가 고정 월간 요청 할당량에서 "사용률 제한이 있는 무제한" 모델로 전환된 것이 포함됩니다. 아래는 무료(Hobby), Pro, Ultra 요금제 전반의 AI 사용 제한 및 속도 제한 규칙에 중점을 둔 상세한 업데이트 내용입니다.

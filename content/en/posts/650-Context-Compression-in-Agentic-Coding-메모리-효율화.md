@@ -5,6 +5,8 @@ slug: "650-Context-Compression-in-Agentic-Coding-메모리-효율화"
 original_url: "https://memoryhub.tistory.com/650"
 tistory_id: 650
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 Have you ever experienced using an AI coding tool and thought "Wait, why is it generating completely wrong code all of a sudden?" Just like we lose important information while reading long meeting notes, AI also gets lost in too much information. Today, let's explore an innovative technology that solves this problem: Context Compression!

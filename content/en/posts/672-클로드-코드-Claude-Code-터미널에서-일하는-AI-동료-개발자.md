@@ -5,6 +5,8 @@ slug: "672-클로드-코드-Claude-Code-터미널에서-일하는-AI-동료-개�
 original_url: "https://memoryhub.tistory.com/672"
 tistory_id: 672
 draft: false
+categories: ["Dev Language"]
+tags: ["Vibe Coding"]
 ---
 
 You seem to have a lot of interest in AI tools and their practical applications[10].

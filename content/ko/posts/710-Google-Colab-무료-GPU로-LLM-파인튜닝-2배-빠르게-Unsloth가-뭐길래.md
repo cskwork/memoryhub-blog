@@ -5,6 +5,8 @@ slug: "710-Google-Colab-무료-GPU로-LLM-파인튜닝-2배-빠르게-Unsloth가
 original_url: "https://memoryhub.tistory.com/710"
 tistory_id: 710
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Fine-Tuning"]
 ---
 
 ```

@@ -5,6 +5,8 @@ slug: "49-Linux_-파일-및-디렉터리-관리"
 original_url: "https://memoryhub.tistory.com/49"
 tistory_id: 49
 draft: false
+categories: ["데브 옵스"]
+tags: ["Linux"]
 ---
 
 특정 확장자로 파일을 찾고, 파일 내 문자열을 검색하며, 파일을 합치고 정렬하고, 파일 및 디렉터리 권한을 변경하고, 디렉터리를 복사하는 방법을 설명합니다.

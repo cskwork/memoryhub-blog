@@ -5,6 +5,8 @@ slug: "282-Firewalld에서-포트-구성-방법"
 original_url: "https://memoryhub.tistory.com/282"
 tistory_id: 282
 draft: false
+categories: ["Dev Ops"]
+tags: ["Firewalld"]
 ---
 
 ### **Opening Ports**

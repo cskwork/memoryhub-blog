@@ -5,6 +5,8 @@ slug: "177-Ehcache-Introduced"
 original_url: "https://memoryhub.tistory.com/177"
 tistory_id: 177
 draft: false
+categories: ["Dev Library"]
+tags: ["Caching"]
 ---
 
 *Ehcache is a robust, standards-based caching solution for Java applications, designed to improve performance by reducing the frequency and latency of accessing data.*

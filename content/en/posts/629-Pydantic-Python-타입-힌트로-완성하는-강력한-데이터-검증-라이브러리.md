@@ -5,6 +5,8 @@ slug: "629-Pydantic-Python-타입-힌트로-완성하는-강력한-데이터-검
 original_url: "https://memoryhub.tistory.com/629"
 tistory_id: 629
 draft: false
+categories: ["Dev Language"]
+tags: ["Python"]
 ---
 
 Have you experienced these situations in your Python project? 🤔

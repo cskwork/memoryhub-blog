@@ -5,6 +5,8 @@ slug: "956-Poetiq-AI-모델-훈련-없이-ARC-AGI-2-세계-1위-달성한-비결
 original_url: "https://memoryhub.tistory.com/956"
 tistory_id: 956
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 ```

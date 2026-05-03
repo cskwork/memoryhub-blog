@@ -5,6 +5,7 @@ slug: "782-Q-Developer-Transform-엔터프라이즈-마이그레이션이-이렇
 original_url: "https://memoryhub.tistory.com/782"
 tistory_id: 782
 draft: false
+categories: ["Dev AWS"]
 ---
 
 ```

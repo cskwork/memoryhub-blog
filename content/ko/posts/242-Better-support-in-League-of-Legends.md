@@ -5,6 +5,8 @@ slug: "242-Better-support-in-League-of-Legends"
 original_url: "https://memoryhub.tistory.com/242"
 tistory_id: 242
 draft: false
+categories: ["후기"]
+tags: ["게임"]
 ---
 
 *To become a better support in League of Legends, you need to master vision control, understand your ADC's playstyle, provide effective crowd control, and make impactful roams, much like a skilled coordinator who ensures the team operates smoothly and effectively.*

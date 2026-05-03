@@ -5,6 +5,8 @@ slug: "216-Preventive-strategy-for-maintaining-work-life-balance"
 original_url: "https://memoryhub.tistory.com/216"
 tistory_id: 216
 draft: false
+categories: ["생활"]
+tags: ["마음 건강"]
 ---
 
 *Preventive strategy for maintaining work-life balance involves setting clear boundaries between work and personal time to ensure that both areas receive adequate attention and neither encroaches upon the other.*

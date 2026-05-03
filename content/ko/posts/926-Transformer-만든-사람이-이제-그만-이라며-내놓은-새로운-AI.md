@@ -5,6 +5,8 @@ slug: "926-Transformer-만든-사람이-이제-그만-이라며-내놓은-새로
 original_url: "https://memoryhub.tistory.com/926"
 tistory_id: 926
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
 ---
 
 ```

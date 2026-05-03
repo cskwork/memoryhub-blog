@@ -5,6 +5,8 @@ slug: "188-SHA-Introduced"
 original_url: "https://memoryhub.tistory.com/188"
 tistory_id: 188
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Web Security"]
 ---
 
 *SHA (Secure Hash Algorithm) is a family of cryptographic hash functions designed to securely process data into a fixed-size output that appears random.*

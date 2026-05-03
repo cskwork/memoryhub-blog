@@ -5,6 +5,8 @@ slug: "174-Python-Loop-String"
 original_url: "https://memoryhub.tistory.com/174"
 tistory_id: 174
 draft: false
+categories: ["Dev Language"]
+tags: ["Python"]
 ---
 
 *Let's explore how to loop through each character in a string in Python, using different methods to iterate over the characters.*

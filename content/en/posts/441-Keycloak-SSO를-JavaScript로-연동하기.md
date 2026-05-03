@@ -5,6 +5,8 @@ slug: "441-Keycloak-SSO를-JavaScript로-연동하기"
 original_url: "https://memoryhub.tistory.com/441"
 tistory_id: 441
 draft: false
+categories: ["Dev Ops"]
+tags: ["SSO"]
 ---
 
 Today, let's explore how to integrate **Keycloak** with **SSO (Single Sign-On)** in JavaScript applications. Keycloak is an open-source authentication and authorization server that can be used to quickly build SSO functionality based on OAuth 2.0 and OpenID Connect standards.

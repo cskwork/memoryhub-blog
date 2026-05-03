@@ -5,6 +5,8 @@ slug: "650-Context-Compression-in-Agentic-Coding-메모리-효율화"
 original_url: "https://memoryhub.tistory.com/650"
 tistory_id: 650
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["GPT"]
 ---
 
 여러분은 AI 코딩 도구를 사용하면서 "어? 왜 갑자기 엉뚱한 코드를 생성하지?"라고 느낀 적이 있나요? 마치 우리가 긴 회의록을 읽다가 중요한 부분을 놓치는 것처럼, AI도 너무 많은 정보 속에서 길을 잃곤 합니다. 오늘은 이런 문제를 해결하는 혁신적인 기술, Context Compression에 대해 알아보겠습니다!

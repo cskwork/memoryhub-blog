@@ -5,6 +5,8 @@ slug: "372-Spring-Bean의-생명주기-콜백-메서드-PostConstruct-PreDestroy
 original_url: "https://memoryhub.tistory.com/372"
 tistory_id: 372
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring"]
 ---
 
 안녕하세요! 오늘은 Spring Bean의 초기화와 소멸 시점에 실행되는 콜백 메서드에 대해 알아보겠습니다.

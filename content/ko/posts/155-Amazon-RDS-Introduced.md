@@ -5,6 +5,8 @@ slug: "155-Amazon-RDS-Introduced"
 original_url: "https://memoryhub.tistory.com/155"
 tistory_id: 155
 draft: false
+categories: ["Dev AWS"]
+tags: ["RDS"]
 ---
 
 *Amazon RDS is a managed relational database service that simplifies database setup, operation, and scaling in the cloud.*

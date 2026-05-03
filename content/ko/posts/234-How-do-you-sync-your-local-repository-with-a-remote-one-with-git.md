@@ -5,6 +5,8 @@ slug: "234-How-do-you-sync-your-local-repository-with-a-remote-one-with-git"
 original_url: "https://memoryhub.tistory.com/234"
 tistory_id: 234
 draft: false
+categories: ["데브 옵스"]
+tags: ["Git"]
 ---
 
 *To sync your local repository with a remote one using Git, you'll perform a series of steps that include fetching changes, merging updates, and possibly resolving conflicts, akin to updating your personal copy of a shared document with the latest edits made by others.*

@@ -5,6 +5,11 @@ slug: "1034-Claude-Code-to-Figma-코드와-디자인-사이의-일방통행이-�
 original_url: "https://memoryhub.tistory.com/1034"
 tistory_id: 1034
 draft: false
+  hidden: false
+cover:
+  image: "/images/1034-Claude-Code-to-Figma-코드와-디자인-사이의-일방통행이-끝났다/img.png"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/1034-Claude-Code-to-Figma-코드와-디자인-사이의-일방통행이-끝났다/img.png)

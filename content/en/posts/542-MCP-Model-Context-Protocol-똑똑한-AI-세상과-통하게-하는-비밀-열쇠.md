@@ -5,6 +5,13 @@ slug: "542-MCP-Model-Context-Protocol-똑똑한-AI-세상과-통하게-하는-�
 original_url: "https://memoryhub.tistory.com/542"
 tistory_id: 542
 draft: false
+categories: ["Dev Library"]
+tags: ["Claude"]
+  hidden: false
+cover:
+  image: "/images/542-MCP-Model-Context-Protocol-똑똑한-AI-세상과-통하게-하는-비밀-열쇠/img.png"
+  relative: false
+  hidden: false
 ---
 
 These days, AI is incredibly smart, right? But sometimes it feels like AI is trapped in its own world. For example, when you ask an AI chatbot "What's my schedule today?", it can't answer if it can't directly access your calendar app. It's like a brilliant scientist who doesn't speak any foreign language at all.

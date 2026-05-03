@@ -5,6 +5,8 @@ slug: "958-Refinement-Loop-AI가-다시-생각하면-성능이-뛰는-이유"
 original_url: "https://memoryhub.tistory.com/958"
 tistory_id: 958
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 ```

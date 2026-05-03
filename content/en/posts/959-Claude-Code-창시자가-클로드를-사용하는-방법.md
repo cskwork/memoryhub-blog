@@ -5,6 +5,8 @@ slug: "959-Claude-Code-창시자가-클로드를-사용하는-방법"
 original_url: "https://memoryhub.tistory.com/959"
 tistory_id: 959
 draft: false
+categories: ["Dev Library"]
+tags: ["Claude"]
 ---
 
 In early January 2026, Claude Code founder Boris Cherny shared his daily setup in a long thread. He calls it "vanilla," but it's actually a systematic set of small repeatable actions that compound into significant impact. This article translates those actions into a practical playbook you can copy, apply, and expand within your own workflow. The goal isn't to imitate exact settings but to borrow principles and apply them to your team, repository, and constraints.

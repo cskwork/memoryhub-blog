@@ -5,6 +5,8 @@ slug: "778-GPT-5-Codex-대해부-7시간-독립-코딩하는-AI-개발계를-뒤
 original_url: "https://memoryhub.tistory.com/778"
 tistory_id: 778
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
 ---
 
 ```

@@ -5,6 +5,13 @@ slug: "689-Anthropic-4D-Framework-AI와-진짜-잘-대화하는-사람들의-비
 original_url: "https://memoryhub.tistory.com/689"
 tistory_id: 689
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Claude"]
+  hidden: false
+cover:
+  image: "/images/689-Anthropic-4D-Framework-AI와-진짜-잘-대화하는-사람들의-비밀/img.jpg"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/689-Anthropic-4D-Framework-AI와-진짜-잘-대화하는-사람들의-비밀/img.jpg)

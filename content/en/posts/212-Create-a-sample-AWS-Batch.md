@@ -5,6 +5,7 @@ slug: "212-Create-a-sample-AWS-Batch"
 original_url: "https://memoryhub.tistory.com/212"
 tistory_id: 212
 draft: false
+categories: ["Dev AWS"]
 ---
 
 *Here's a detailed example of setting up and submitting a batch processing job in AWS Batch.*

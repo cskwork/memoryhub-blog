@@ -5,6 +5,8 @@ slug: "532-Mac-OS에서-Coolify-설치-오류-해결-방법"
 original_url: "https://memoryhub.tistory.com/532"
 tistory_id: 532
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
 ---
 
 Mac OS에서 Coolify 설치 시 발생하는 `/etc/os-release: No such file or directory` 오류는 Mac OS가 리눅스 배포판이 아니기 때문에 발생합니다. Coolify는 주로 리눅스 환경을 지원하며, Mac OS에서는 Docker Desktop을 통해 설치해야 합니다.

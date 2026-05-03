@@ -5,6 +5,8 @@ slug: "171-Advanced-Python-Syntax-type-hint"
 original_url: "https://memoryhub.tistory.com/171"
 tistory_id: 171
 draft: false
+categories: ["데브 언어"]
+tags: ["Python"]
 ---
 
 *Let's explain the syntax and structure for the function definition `def romanToInt(self, s: str) -> int:` in Python, highlighting advanced syntax elements.*

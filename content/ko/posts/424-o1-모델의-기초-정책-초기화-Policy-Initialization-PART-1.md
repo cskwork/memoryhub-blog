@@ -5,6 +5,8 @@ slug: "424-o1-모델의-기초-정책-초기화-Policy-Initialization-PART-1"
 original_url: "https://memoryhub.tistory.com/424"
 tistory_id: 424
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Machine Learning"]
 ---
 
 ## 정책 초기화란? ?

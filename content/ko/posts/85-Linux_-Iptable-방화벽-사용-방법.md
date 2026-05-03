@@ -5,6 +5,8 @@ slug: "85-Linux_-Iptable-방화벽-사용-방법"
 original_url: "https://memoryhub.tistory.com/85"
 tistory_id: 85
 draft: false
+categories: ["데브 옵스"]
+tags: ["Linux"]
 ---
 
 위치 : cat /etc/sysconfig/iptables

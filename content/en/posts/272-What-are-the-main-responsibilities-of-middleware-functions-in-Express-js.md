@@ -5,6 +5,8 @@ slug: "272-What-are-the-main-responsibilities-of-middleware-functions-in-Express
 original_url: "https://memoryhub.tistory.com/272"
 tistory_id: 272
 draft: false
+categories: ["Dev Framework"]
+tags: ["ExpressJS"]
 ---
 
 *Middleware functions in Express.js are the backbone of handling requests and responses in a web application, enabling flexible and efficient request processing.*

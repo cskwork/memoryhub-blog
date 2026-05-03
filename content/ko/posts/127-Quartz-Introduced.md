@@ -5,6 +5,8 @@ slug: "127-Quartz-Introduced"
 original_url: "https://memoryhub.tistory.com/127"
 tistory_id: 127
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring Batch"]
 ---
 
 *Quartz is a job scheduling library that can be integrated into a wide range of Java applications to manage and schedule tasks.*

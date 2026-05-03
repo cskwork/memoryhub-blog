@@ -5,6 +5,8 @@ slug: "379-1791-Find-Center-of-Star-Graph"
 original_url: "https://memoryhub.tistory.com/379"
 tistory_id: 379
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Leetcode"]
 ---
 
 Hello! Let's solve the problem of finding the center node in a star graph.

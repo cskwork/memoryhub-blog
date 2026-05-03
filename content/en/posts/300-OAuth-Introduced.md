@@ -5,6 +5,8 @@ slug: "300-OAuth-Introduced"
 original_url: "https://memoryhub.tistory.com/300"
 tistory_id: 300
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring Security"]
 ---
 
 *OAuth is a protocol that allows secure authorization in a simple and standardized way from web, mobile, and desktop applications.*

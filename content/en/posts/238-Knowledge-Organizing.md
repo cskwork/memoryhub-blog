@@ -5,6 +5,8 @@ slug: "238-Knowledge-Organizing"
 original_url: "https://memoryhub.tistory.com/238"
 tistory_id: 238
 draft: false
+categories: ["Life"]
+tags: ["Self Development"]
 ---
 
 *Being a better organizer of knowledge involves structuring and managing information in a way that makes it easily accessible and comprehensible.*

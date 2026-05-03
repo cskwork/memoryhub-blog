@@ -5,6 +5,8 @@ slug: "558-Git-Rebase-가이드-커밋-히스토리-정리부터-안전하게-�
 original_url: "https://memoryhub.tistory.com/558"
 tistory_id: 558
 draft: false
+categories: ["Dev Ops"]
+tags: ["Git"]
 ---
 
 ## 1. Git Rebase Concept

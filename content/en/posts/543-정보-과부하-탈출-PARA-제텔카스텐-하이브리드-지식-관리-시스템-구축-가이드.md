@@ -5,6 +5,8 @@ slug: "543-정보-과부하-탈출-PARA-제텔카스텐-하이브리드-지식-�
 original_url: "https://memoryhub.tistory.com/543"
 tistory_id: 543
 draft: false
+categories: ["Life"]
+tags: ["Self Development"]
 ---
 
 Work-related memos, code snippets, technical documentation, meeting notes, and brilliant ideas—modern knowledge workers deal with vast amounts of information every day. Yet the information you actually need is hard to find, and important connections are often missed, wasting time and opportunities. This not only reduces individual productivity but also affects team and organizational efficiency.

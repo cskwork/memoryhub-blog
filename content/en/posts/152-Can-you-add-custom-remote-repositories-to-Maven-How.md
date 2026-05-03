@@ -5,6 +5,8 @@ slug: "152-Can-you-add-custom-remote-repositories-to-Maven-How"
 original_url: "https://memoryhub.tistory.com/152"
 tistory_id: 152
 draft: false
+categories: ["Dev Ops"]
+tags: ["Maven"]
 ---
 
 *Yes, you can add custom remote repositories to Maven by configuring the `pom.xml` file or the `settings.xml` file.*

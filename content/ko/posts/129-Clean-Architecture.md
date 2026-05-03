@@ -5,6 +5,8 @@ slug: "129-Clean-Architecture"
 original_url: "https://memoryhub.tistory.com/129"
 tistory_id: 129
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Design Pattern"]
 ---
 
 *Clean Architecture is a software design philosophy that aims to create systems that are easy to maintain, flexible, and scalable by organizing code into layers with clear separation of concerns.*

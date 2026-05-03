@@ -5,6 +5,8 @@ slug: "423-Chrome-Extension-v2"
 original_url: "https://memoryhub.tistory.com/423"
 tistory_id: 423
 draft: false
+categories: ["데브 유틸"]
+tags: ["Chrome Extensions"]
 ---
 
 # A Deep Dive into Chrome Extension Development

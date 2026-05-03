@@ -5,6 +5,8 @@ slug: "762-CI-LAW-RAG"
 original_url: "https://memoryhub.tistory.com/762"
 tistory_id: 762
 draft: false
+categories: ["생활"]
+tags: ["THE LAW OF CI"]
 ---
 
 ## Top 10 Laws of Contextual Retrieval

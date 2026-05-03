@@ -5,6 +5,8 @@ slug: "460-로컬-환경에서-API-호스팅을-위한-Ollama-설정-종합-가�
 original_url: "https://memoryhub.tistory.com/460"
 tistory_id: 460
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["GPT"]
 ---
 
 ## 1 | Ollama란?

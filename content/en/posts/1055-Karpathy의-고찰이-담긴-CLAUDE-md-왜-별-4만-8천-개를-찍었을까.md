@@ -5,6 +5,10 @@ slug: "1055-Karpathy의-고찰이-담긴-CLAUDE-md-왜-별-4만-8천-개를-찍�
 original_url: "https://memoryhub.tistory.com/1055"
 tistory_id: 1055
 draft: false
+cover:
+  image: "/images/1055-Karpathy의-고찰이-담긴-CLAUDE-md-왜-별-4만-8천-개를-찍었을까/ChatGPT Image 2026년 4월 26일 오후 01_54_04.png"
+  relative: false
+  hidden: false
 ---
 
 # 

@@ -5,6 +5,8 @@ slug: "421-Chrome-확장-프로그램-개발-종합-가이드"
 original_url: "https://memoryhub.tistory.com/421"
 tistory_id: 421
 draft: false
+categories: ["데브 유틸"]
+tags: ["Chrome Extensions"]
 ---
 
 이 가이드는 공식 Chrome 개발자 문서의 정보를 바탕으로 Chrome 확장 프로그램 개발에 대한 구조적인 접근 방식을 제공합니다. 기본적인 개념, 개발 단계, 주요 API 및 모범 사례를 다룹니다.

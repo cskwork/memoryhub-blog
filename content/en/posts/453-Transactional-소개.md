@@ -5,6 +5,8 @@ slug: "453-Transactional-소개"
 original_url: "https://memoryhub.tistory.com/453"
 tistory_id: 453
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring Boot"]
 ---
 
 Today, let's explore the **@Transactional** annotation frequently used in the Spring framework to ensure **data integrity and consistency**! By applying transactions to methods where database operations (INSERT, UPDATE, DELETE, etc.) occur, you can handle data more safely. Let's take a look together.

@@ -5,6 +5,8 @@ slug: "154-Quartz-Framework-Settings-Explained"
 original_url: "https://memoryhub.tistory.com/154"
 tistory_id: 154
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring Batch"]
 ---
 
 *The Quartz framework's settings, managed through properties, allow you to configure various aspects of scheduling and job execution, making it versatile and adaptable for different use cases.*

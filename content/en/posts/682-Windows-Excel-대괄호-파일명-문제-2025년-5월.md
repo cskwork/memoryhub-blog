@@ -5,6 +5,8 @@ slug: "682-Windows-Excel-대괄호-파일명-문제-2025년-5월"
 original_url: "https://memoryhub.tistory.com/682"
 tistory_id: 682
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 A serious issue has emerged in Excel filenames containing brackets due to Microsoft Office's May 2025 security update. This is not simply a bug but a complex problem resulting from the combination of Microsoft's design decisions and recent security enhancements.

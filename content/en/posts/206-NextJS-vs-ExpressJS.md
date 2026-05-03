@@ -5,6 +5,8 @@ slug: "206-NextJS-vs-ExpressJS"
 original_url: "https://memoryhub.tistory.com/206"
 tistory_id: 206
 draft: false
+categories: ["Dev Framework"]
+tags: ["NextJS"]
 ---
 
 *Express.js and Next.js are both powerful frameworks for building web applications, but they serve different purposes and have distinct features.*

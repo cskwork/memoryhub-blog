@@ -5,6 +5,8 @@ slug: "679-AgenticSeek-System-Analysis"
 original_url: "https://memoryhub.tistory.com/679"
 tistory_id: 679
 draft: false
+categories: ["Dev Database"]
+tags: ["Architecture"]
 ---
 
 <https://github.com/Fosowl/agenticSeek/tree/main>

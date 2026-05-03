@@ -5,6 +5,8 @@ slug: "136-Jira-Introduced"
 original_url: "https://memoryhub.tistory.com/136"
 tistory_id: 136
 draft: false
+categories: ["생활"]
+tags: ["자기개발"]
 ---
 
 *Jira is a tool for managing projects and tracking tasks, often used in software development.*

@@ -5,6 +5,12 @@ slug: "547-Kubernetes-인그레스"
 original_url: "https://memoryhub.tistory.com/547"
 tistory_id: 547
 draft: false
+categories: ["데브 옵스"]
+tags: ["Kubernetes"]
+cover:
+  image: "/images/547-Kubernetes-인그레스/Editor _ Mermaid Chart-2025-04-13-030202.png"
+  relative: false
+  hidden: false
 ---
 
 안녕하세요! 쿠버네티스(Kubernetes) 세상에 오신 것을 환영합니다! ? 서비스를 여러 개 만들었는데, 이걸 어떻게 외부 사용자들이 쉽게 접근하게 할 수 있을지 고민해보신 적 있으신가요? 마치 여러 상점이 모인 큰 쇼핑몰 입구에서 원하는 가게로 안내해주는 안내 데스크처럼, 쿠버네티스 클러스터 외부의 요청을 내부의 여러 서비스로 똑똑하게 연결해주는 문지기 역할이 필요한데요, 바로 **인그레스(Ingress)**가 그 역할을 해준답니다! 오늘은 인그레스가 무엇이고 왜 필요한지 쉽고 재미있게 알아볼게요! ?

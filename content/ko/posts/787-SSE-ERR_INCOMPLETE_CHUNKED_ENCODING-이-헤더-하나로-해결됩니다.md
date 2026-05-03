@@ -5,6 +5,8 @@ slug: "787-SSE-ERR_INCOMPLETE_CHUNKED_ENCODING-이-헤더-하나로-해결됩니
 original_url: "https://memoryhub.tistory.com/787"
 tistory_id: 787
 draft: false
+categories: ["데브 옵스"]
+tags: ["네트워크 이론"]
 ---
 
 ```

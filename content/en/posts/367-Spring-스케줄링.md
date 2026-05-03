@@ -5,6 +5,8 @@ slug: "367-Spring-스케줄링"
 original_url: "https://memoryhub.tistory.com/367"
 tistory_id: 367
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring"]
 ---
 
 Hello! Today we'll explore Spring scheduling, which automates repetitive tasks in Spring.

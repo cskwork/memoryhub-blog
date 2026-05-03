@@ -5,6 +5,8 @@ slug: "755-MCP-디자인-패턴-리터러트-리저닝-Literate-Reasoning"
 original_url: "https://memoryhub.tistory.com/755"
 tistory_id: 755
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["MCP"]
 ---
 
 > 노트북(Notebook)처럼 단계별로 생각·코드·중간결과를 남기며 문제를 푸는 MCP 워크플로우 — 디버깅은 쉬워지고, 재현성은 올라갑니다.

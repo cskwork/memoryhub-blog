@@ -5,6 +5,8 @@ slug: "619-DNS-in-Firewall-방화벽에서-DNS가-하는-역할-완벽-이해하
 original_url: "https://memoryhub.tistory.com/619"
 tistory_id: 619
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Web Security"]
 ---
 
 여러분, 혹시 인터넷을 쓰다가 "이 사이트는 차단되었습니다"라는 메시지를 본 적 있으신가요? ? 또는 회사에서 특정 사이트에 접속이 안 되는 경험을 해보셨나요? 이런 일들이 어떻게 가능한지, 오늘은 방화벽에서 DNS가 어떤 역할을 하는지 깊이 있게 알아보겠습니다!## 등장 배경 ?️

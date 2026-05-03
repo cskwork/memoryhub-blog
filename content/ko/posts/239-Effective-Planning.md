@@ -5,6 +5,8 @@ slug: "239-Effective-Planning"
 original_url: "https://memoryhub.tistory.com/239"
 tistory_id: 239
 draft: false
+categories: ["생활"]
+tags: ["자기개발"]
 ---
 
 *The best way to plan effectively involves setting clear goals, breaking them down into actionable steps, prioritizing tasks, and regularly reviewing and adjusting your plan.*

@@ -5,6 +5,8 @@ slug: "215-How-to-Manage-Burnout"
 original_url: "https://memoryhub.tistory.com/215"
 tistory_id: 215
 draft: false
+categories: ["Life"]
+tags: ["Mental Health"]
 ---
 
 *Avoiding burnout involves recognizing early signs, understanding contributing factors, and implementing strategies to maintain a healthy balance between work and personal life, much like keeping a car regularly maintained to prevent it from breaking down.*

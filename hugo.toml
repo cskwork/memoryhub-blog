@@ -29,13 +29,24 @@ ShowCodeCopyButtons = true
 ShowToc = true
 TocOpen = false
 ShowLanguageSwitch = true
+ShowAllPagesInArchive = true
+ShowPageNums = true
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+
+[params.cover]
+hidden = false
+hiddenInList = false
+hiddenInSingle = false
+linkFullImages = true
+responsiveImages = true
 
 [params.profileMode]
 enabled = false
 
 [params.homeInfoParams]
 Title = "Memory Hub"
-Content = "Engineering, AI, DevOps, and learning notes — translated from the original Korean blog."
+Content = "Engineering, AI, DevOps, and learning notes — translated from the original Korean blog. Browse by [Category](categories/), [Tag](tags/), or [Archive](archives/)."
 
 [params.fuseOpts]
 isCaseSensitive = false
@@ -99,6 +110,9 @@ unsafe = true
     title = "메모리 허브"
     [languages.ko.params]
       description = "엔지니어링, AI, 데브옵스, 학습 노트"
+      [languages.ko.params.homeInfoParams]
+        Title = "메모리 허브"
+        Content = "엔지니어링, AI, 데브옵스, 학습 메모. [카테고리](categories/), [태그](tags/), [아카이브](archives/)로 탐색하세요."
     [[languages.ko.menu.main]]
       identifier = "posts"
       name = "글"

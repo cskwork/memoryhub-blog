@@ -5,6 +5,8 @@ slug: "417-OpenStack-클라우드-컴퓨팅의-오픈소스-혁명"
 original_url: "https://memoryhub.tistory.com/417"
 tistory_id: 417
 draft: false
+categories: ["데브 옵스"]
+tags: ["OpenStack"]
 ---
 
 클라우드 컴퓨팅 기술을 도입하려고 할 때, 상용 솔루션의 비용 부담과 벤더 종속성이 고민되신 적 있으신가요? 여러분이 자유롭게 구성하고 운영할 수 있는 오픈소스 클라우드 컴퓨팅 플랫폼이 있다면 어떨까요? 바로 그것이 OpenStack입니다.

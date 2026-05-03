@@ -5,6 +5,8 @@ slug: "847-Claude-Code-플러그인-개발-생산성-높이는-비밀-무기"
 original_url: "https://memoryhub.tistory.com/847"
 tistory_id: 847
 draft: false
+categories: ["Dev Library"]
+tags: ["Claude"]
 ---
 
 ```

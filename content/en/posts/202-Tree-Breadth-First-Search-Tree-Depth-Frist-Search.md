@@ -5,4 +5,6 @@ slug: "202-Tree-Breadth-First-Search-Tree-Depth-Frist-Search"
 original_url: "https://memoryhub.tistory.com/202"
 tistory_id: 202
 draft: false
+categories: ["Dev Library"]
+tags: ["DS And Algorithm"]
 ---

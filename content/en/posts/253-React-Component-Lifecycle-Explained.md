@@ -5,6 +5,8 @@ slug: "253-React-Component-Lifecycle-Explained"
 original_url: "https://memoryhub.tistory.com/253"
 tistory_id: 253
 draft: false
+categories: ["Dev Library"]
+tags: ["React"]
 ---
 
 *The React component lifecycle consists of a series of methods that are invoked at different stages of a component's existence, allowing you to control its behavior from creation to destruction.*

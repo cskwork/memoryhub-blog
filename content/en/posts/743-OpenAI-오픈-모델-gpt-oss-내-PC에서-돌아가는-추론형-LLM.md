@@ -5,6 +5,8 @@ slug: "743-OpenAI-오픈-모델-gpt-oss-내-PC에서-돌아가는-추론형-LLM"
 original_url: "https://memoryhub.tistory.com/743"
 tistory_id: 743
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 These days, there's a huge demand to "keep company data on-premises but still get GPT-grade reasoning." That's why **OpenAI's open-weight reasoning model `gpt-oss` (120b/20b)** is making waves. The license is free (Apache 2.0), it's designed for agentic tasks, and you even get **access to full chain-of-thought (CoT) capabilities**. This article quickly and clearly explains **why it was released, what makes it different, and how to run it**. ([OpenAI](https://openai.com/ko-KR/open-models/ "OpenAI's Open Models | OpenAI"))

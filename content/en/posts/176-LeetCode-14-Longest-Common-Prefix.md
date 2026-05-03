@@ -5,6 +5,8 @@ slug: "176-LeetCode-14-Longest-Common-Prefix"
 original_url: "https://memoryhub.tistory.com/176"
 tistory_id: 176
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Leetcode"]
 ---
 
 *To solve the problem of finding the longest common prefix string amongst an array of strings, we'll use a method that iterates over the characters of the strings, checking for the common prefix.*

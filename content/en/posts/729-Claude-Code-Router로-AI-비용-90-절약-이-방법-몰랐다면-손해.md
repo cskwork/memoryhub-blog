@@ -5,6 +5,8 @@ slug: "729-Claude-Code-Router로-AI-비용-90-절약-이-방법-몰랐다면-손
 original_url: "https://memoryhub.tistory.com/729"
 tistory_id: 729
 draft: false
+categories: ["Dev Library"]
+tags: ["Claude"]
 ---
 
 ```

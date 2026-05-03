@@ -5,6 +5,8 @@ slug: "588-Top-Performing-Open-Source-RAG-Projects-in-2025"
 original_url: "https://memoryhub.tistory.com/588"
 tistory_id: 588
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 Retrieval-Augmented Generation (RAG) has emerged as a vital technology for enhancing large language models (LLMs) with external knowledge. This comprehensive exploration presents the most notable open-source RAG frameworks in 2025, their key features, and implementation considerations.

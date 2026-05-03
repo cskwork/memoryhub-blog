@@ -5,6 +5,8 @@ slug: "712-Claude-Code-활용-극대화를-위한-종합-가이드"
 original_url: "https://memoryhub.tistory.com/712"
 tistory_id: 712
 draft: false
+categories: ["Dev Language"]
+tags: ["Vibe Coding"]
 ---
 
 ## Overview

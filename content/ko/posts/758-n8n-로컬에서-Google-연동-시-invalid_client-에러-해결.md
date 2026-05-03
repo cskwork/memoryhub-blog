@@ -5,6 +5,8 @@ slug: "758-n8n-로컬에서-Google-연동-시-invalid_client-에러-해결"
 original_url: "https://memoryhub.tistory.com/758"
 tistory_id: 758
 draft: false
+categories: ["데브 유틸"]
+tags: ["Agents"]
 ---
 
 로컬에서 **n8n ↔ Google(Drive/Docs/Sheets)** 연동을 시도하면, 콜백까지는 잘 돌아오는데 토큰 교환 단계에서 아래처럼 실패하는 경우가 많습니다.

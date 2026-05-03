@@ -5,6 +5,8 @@ slug: "8-CRUD-쿼리-모음"
 original_url: "https://memoryhub.tistory.com/8"
 tistory_id: 8
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["ORACLE 데이터베이스"]
 ---
 
 ORACLE QUERY

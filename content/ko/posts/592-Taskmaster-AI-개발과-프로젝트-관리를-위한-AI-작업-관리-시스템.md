@@ -5,6 +5,8 @@ slug: "592-Taskmaster-AI-개발과-프로젝트-관리를-위한-AI-작업-관�
 original_url: "https://memoryhub.tistory.com/592"
 tistory_id: 592
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["MCP"]
 ---
 
 프로젝트 관리와 작업 추적에 어려움을 겪으신 적 있으신가요? 복잡한 업무를 체계적으로 관리하고 싶으신가요? Taskmaster AI가 여기 있습니다! 오늘은 개발자와 프로젝트 매니저들의 업무 효율을 높여주는 혁신적인 AI 도구에 대해 알아보겠습니다.

@@ -5,6 +5,8 @@ slug: "786-Cursor-Codex-Claude-Code-파일-읽기-쓰기-권한-제한-한-번�
 original_url: "https://memoryhub.tistory.com/786"
 tistory_id: 786
 draft: false
+categories: ["데브 언어"]
+tags: ["Vibe Coding"]
 ---
 
 개발용 AI 에이전트가 점점 “에디터+터미널+브라우저”까지 건드리다 보니, **어떤 파일을 읽거나 수정해도 되는지**를 선명하게 통제하는 게 안전과 생산성 모두에서 핵심이 됐죠.

@@ -5,6 +5,7 @@ slug: "255-What-are-the-differences-and-similiarties-between-Vue-and-React-Lifec
 original_url: "https://memoryhub.tistory.com/255"
 tistory_id: 255
 draft: false
+categories: ["Dev Framework"]
 ---
 
 *Vue and React both have component lifecycles that manage stages from creation to destruction, but they differ in terminology, structure, and the specifics of their lifecycle hooks.*

@@ -5,6 +5,13 @@ slug: "42-jQuery-Traversing-요소-이동하기"
 original_url: "https://memoryhub.tistory.com/42"
 tistory_id: 42
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["jQuery"]
+  hidden: false
+cover:
+  image: "/images/42-jQuery-Traversing-요소-이동하기/5.png"
+  relative: false
+  hidden: false
 ---
 
 **Traversing** 이란 "move through" 또는 이동하다 즉 HTML element(태그)를 찾는다.

@@ -5,6 +5,8 @@ slug: "755-MCP-디자인-패턴-리터러트-리저닝-Literate-Reasoning"
 original_url: "https://memoryhub.tistory.com/755"
 tistory_id: 755
 draft: false
+categories: ["Dev Library"]
+tags: ["MCP"]
 ---
 
 > MCP workflow for solving problems step-by-step like a notebook—recording thoughts, code, and intermediate results. Debugging becomes easier and reproducibility increases.

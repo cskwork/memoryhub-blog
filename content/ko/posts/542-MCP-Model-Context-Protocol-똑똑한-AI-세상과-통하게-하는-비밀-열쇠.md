@@ -5,6 +5,13 @@ slug: "542-MCP-Model-Context-Protocol-똑똑한-AI-세상과-통하게-하는-�
 original_url: "https://memoryhub.tistory.com/542"
 tistory_id: 542
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Claude"]
+  hidden: false
+cover:
+  image: "/images/542-MCP-Model-Context-Protocol-똑똑한-AI-세상과-통하게-하는-비밀-열쇠/img.png"
+  relative: false
+  hidden: false
 ---
 
 요즘 AI 정말 똑똑하죠? 그런데 가끔은 AI가 자기만의 세상에 갇혀 있는 것처럼 느껴질 때가 있어요. 예를 들어 AI 챗봇에게 "오늘 내 일정 알려줘"라고 물어도, 챗봇이 내 캘린더 앱에 직접 접근할 수 없으면 대답을 못 하죠. ? 마치 외국어를 전혀 못하는 천재 과학자 같달까요?

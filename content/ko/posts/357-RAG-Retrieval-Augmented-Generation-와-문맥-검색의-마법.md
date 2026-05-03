@@ -5,6 +5,8 @@ slug: "357-RAG-Retrieval-Augmented-Generation-와-문맥-검색의-마법"
 original_url: "https://memoryhub.tistory.com/357"
 tistory_id: 357
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["RAG"]
 ---
 
 안녕하세요! 오늘은 AI가 더 똑똑하게 정보를 찾고 이해하는 방법인 RAG와 문맥 검색(Contextual Retrieval)에 대해 알아볼게요.

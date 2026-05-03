@@ -5,6 +5,13 @@ slug: "51-Quartz-And-Spring-Batch-ERD-설명"
 original_url: "https://memoryhub.tistory.com/51"
 tistory_id: 51
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring Batch"]
+  hidden: false
+cover:
+  image: "/images/51-Quartz-And-Spring-Batch-ERD-설명/img.png"
+  relative: false
+  hidden: false
 ---
 
 ### 🎯 Explaining Distributed Processing with Quartz and Basic Table Structure (ERD) of Spring Batch 📊

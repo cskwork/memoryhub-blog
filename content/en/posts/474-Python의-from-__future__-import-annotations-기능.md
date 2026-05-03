@@ -5,6 +5,8 @@ slug: "474-Python의-from-__future__-import-annotations-기능"
 original_url: "https://memoryhub.tistory.com/474"
 tistory_id: 474
 draft: false
+categories: ["Dev Language"]
+tags: ["Python"]
 ---
 
 ## 1. Overview

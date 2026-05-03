@@ -5,6 +5,8 @@ slug: "279-How-does-the-virtual-DOM-improve-performance"
 original_url: "https://memoryhub.tistory.com/279"
 tistory_id: 279
 draft: false
+categories: ["Dev Library"]
+tags: ["React"]
 ---
 
 *The virtual DOM improves performance by minimizing direct updates to the real DOM, making updates more efficient and reducing the computational load on the browser.*

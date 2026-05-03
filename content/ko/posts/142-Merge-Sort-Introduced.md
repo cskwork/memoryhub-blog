@@ -5,6 +5,8 @@ slug: "142-Merge-Sort-Introduced"
 original_url: "https://memoryhub.tistory.com/142"
 tistory_id: 142
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["DS And Algorithm"]
 ---
 
 *Quick sort is an efficient sorting algorithm that uses a divide-and-conquer approach to organize data by partitioning arrays and recursively sorting the partitions.*

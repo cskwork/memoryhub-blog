@@ -5,6 +5,8 @@ slug: "47-Firwalld-포트-구성-방법"
 original_url: "https://memoryhub.tistory.com/47"
 tistory_id: 47
 draft: false
+categories: ["데브 옵스"]
+tags: ["Linux"]
 ---
 
 ### **firewalld에서 포트 구성 방법**

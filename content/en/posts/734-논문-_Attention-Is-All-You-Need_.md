@@ -5,6 +5,13 @@ slug: "734-논문-_Attention-Is-All-You-Need_"
 original_url: "https://memoryhub.tistory.com/734"
 tistory_id: 734
 draft: false
+categories: ["Dev Library"]
+tags: ["Machine Learning"]
+  hidden: false
+cover:
+  image: "/images/734-논문-_Attention-Is-All-You-Need_/img.png"
+  relative: false
+  hidden: false
 ---
 
 This article is an easy-to-understand explanation of the 2017 paper "Attention Is All You Need"[[1]](https://arxiv.org/html/1706.03762v7#:~:text=The%20dominant%20sequence%20transduction%20models,large%20and%20limited%20training%20data) published by the Google Brain team. In this paper, the authors propose a new method to solve the **sequence transduction** problem of processing two sentences of different lengths, such as translation.

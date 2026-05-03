@@ -5,6 +5,8 @@ slug: "280-Coolify-PaaS-A-Personal-Assistant-for-Effortless-Deployment-Managemen
 original_url: "https://memoryhub.tistory.com/280"
 tistory_id: 280
 draft: false
+categories: ["데브 옵스"]
+tags: ["CICD"]
 ---
 
 Today, let’s explore **Coolify PaaS**, a solution that acts much like a skilled personal assistant—taking care of complex tasks so you can focus on what truly matters. Just as a personal assistant keeps your schedules organized and tasks on track, Coolify PaaS streamlines the process of deploying, managing, and scaling web applications.

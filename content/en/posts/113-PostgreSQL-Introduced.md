@@ -5,6 +5,8 @@ slug: "113-PostgreSQL-Introduced"
 original_url: "https://memoryhub.tistory.com/113"
 tistory_id: 113
 draft: false
+categories: ["Dev Database"]
+tags: ["PostgreSQL"]
 ---
 
 *PostgreSQL is a powerful, open-source object-relational database system known for its robustness, feature set, and extensibility.*

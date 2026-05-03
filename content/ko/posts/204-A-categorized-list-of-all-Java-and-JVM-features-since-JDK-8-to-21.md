@@ -5,6 +5,8 @@ slug: "204-A-categorized-list-of-all-Java-and-JVM-features-since-JDK-8-to-21"
 original_url: "https://memoryhub.tistory.com/204"
 tistory_id: 204
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
 ---
 
 *The information from the requested webpage can be organized by Java version and feature categories.*

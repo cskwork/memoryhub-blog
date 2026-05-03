@@ -5,6 +5,8 @@ slug: "902-Claude-Code-프롬프트-작성법-개발-생산성-3배-높이는-�
 original_url: "https://memoryhub.tistory.com/902"
 tistory_id: 902
 draft: false
+categories: ["Dev Util"]
+tags: ["Agentic Coding"]
 ---
 
 ```

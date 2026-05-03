@@ -5,6 +5,8 @@ slug: "87-Spring-Batch-Introduced"
 original_url: "https://memoryhub.tistory.com/87"
 tistory_id: 87
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring Batch"]
 ---
 
 *Spring Batch is a robust framework for batch processing, which involves executing a series of jobs in a batch rather than one-by-one. Think of it as a highly efficient assembly line in a factory where tasks are processed in bulk.*

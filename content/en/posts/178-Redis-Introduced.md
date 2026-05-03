@@ -5,6 +5,8 @@ slug: "178-Redis-Introduced"
 original_url: "https://memoryhub.tistory.com/178"
 tistory_id: 178
 draft: false
+categories: ["Dev Database"]
+tags: ["Redis"]
 ---
 
 *Imagine a lightning-fast, versatile Swiss Army knife for data storage and manipulation that lives entirely in your computer's memory. That's Redis in a nutshell - a high-performance, in-memory data structure store that can act as a database, cache, message broker, and queue.*

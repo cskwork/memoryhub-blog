@@ -5,6 +5,8 @@ slug: "194-MongoDB-vs-Relational-Database"
 original_url: "https://memoryhub.tistory.com/194"
 tistory_id: 194
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["MongoDB"]
 ---
 
 *MongoDB stores data in a flexible, JSON-like format called BSON (Binary JSON), unlike traditional relational databases that use tables with fixed schemas.*

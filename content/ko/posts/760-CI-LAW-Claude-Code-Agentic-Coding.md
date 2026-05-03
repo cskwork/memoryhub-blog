@@ -5,6 +5,8 @@ slug: "760-CI-LAW-Claude-Code-Agentic-Coding"
 original_url: "https://memoryhub.tistory.com/760"
 tistory_id: 760
 draft: false
+categories: ["생활"]
+tags: ["THE LAW OF CI"]
 ---
 
 |  |  |  |  |

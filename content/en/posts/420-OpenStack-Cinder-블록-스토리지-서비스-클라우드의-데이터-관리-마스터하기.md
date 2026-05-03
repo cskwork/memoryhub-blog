@@ -5,6 +5,8 @@ slug: "420-OpenStack-Cinder-블록-스토리지-서비스-클라우드의-데이
 original_url: "https://memoryhub.tistory.com/420"
 tistory_id: 420
 draft: false
+categories: ["Dev Ops"]
+tags: ["OpenStack"]
 ---
 
 Think about when you purchase a new computer and connect an external hard drive. You can store important data and access it whenever needed. OpenStack Cinder plays the same role in the cloud environment! It provides permanent storage to virtual machines, just like connecting a virtual external hard drive to a cloud instance.

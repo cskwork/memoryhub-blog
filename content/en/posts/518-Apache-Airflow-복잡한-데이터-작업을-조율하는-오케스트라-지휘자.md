@@ -5,6 +5,8 @@ slug: "518-Apache-Airflow-복잡한-데이터-작업을-조율하는-오케스�
 original_url: "https://memoryhub.tistory.com/518"
 tistory_id: 518
 draft: false
+categories: ["Dev Framework"]
+tags: ["Apache"]
 ---
 
 Hello! 👋 Data engineering, machine learning pipelines, ETL tasks... aren't the workflows you need to handle becoming increasingly complex? 🎪 Like an orchestra conductor leading numerous musicians, how can we harmoniously manage and execute these complex tasks? Today, let's explore a wonderful solution to this problem, **Apache Airflow**, in an easy and fun way!

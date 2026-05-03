@@ -5,6 +5,8 @@ slug: "143-Merge-Sort-Introduced"
 original_url: "https://memoryhub.tistory.com/143"
 tistory_id: 143
 draft: false
+categories: ["Dev Library"]
+tags: ["DS And Algorithm"]
 ---
 
 *Merge sort is an efficient, stable, and comparison-based sorting algorithm that uses a divide-and-conquer approach to sort data by recursively splitting arrays and then merging the sorted sub-arrays.*

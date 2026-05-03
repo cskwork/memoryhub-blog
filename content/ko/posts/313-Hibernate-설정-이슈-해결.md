@@ -5,6 +5,7 @@ slug: "313-Hibernate-설정-이슈-해결"
 original_url: "https://memoryhub.tistory.com/313"
 tistory_id: 313
 draft: false
+categories: ["데브 옵스"]
 ---
 
 **PrefixPhysicalNamingStrategy**: Hibernate에서 사용하는 전략으로, 데이터베이스의 테이블이나 컬럼 이름을 자동으로 수정합니다. 주로 테이블 이름 앞에 특정 글자나 단어를 붙이는 데 사용됩니다.

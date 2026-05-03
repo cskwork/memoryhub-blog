@@ -5,6 +5,8 @@ slug: "971-실제로-가장-많이-쓰이는-Claude-Code-Skills-Top-10-2025년"
 original_url: "https://memoryhub.tistory.com/971"
 tistory_id: 971
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Claude"]
 ---
 
 ```

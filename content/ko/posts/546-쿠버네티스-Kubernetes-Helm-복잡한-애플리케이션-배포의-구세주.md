@@ -5,6 +5,8 @@ slug: "546-쿠버네티스-Kubernetes-Helm-복잡한-애플리케이션-배포�
 original_url: "https://memoryhub.tistory.com/546"
 tistory_id: 546
 draft: false
+categories: ["데브 옵스"]
+tags: ["Kubernetes"]
 ---
 
 쿠버네티스, 정말 강력하고 멋진 도구죠! ? 그런데 여러 개의 리소스를 배포하고 관리하려면 YAML 파일들이 너무 많아져서 머리가 아파오지 않나요? ? 마치 수많은 레고 조각을 설명서 없이 조립하려는 느낌이랄까요? 이럴 때 필요한 것이 바로 **Helm(헬름)**입니다! Helm이 여러분의 쿠버네티스 여정을 훨씬 쉽고 즐겁게 만들어 줄 거예요. 자, Helm의 세계로 함께 떠나볼까요?

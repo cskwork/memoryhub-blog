@@ -5,6 +5,8 @@ slug: "228-Control-Dopamine"
 original_url: "https://memoryhub.tistory.com/228"
 tistory_id: 228
 draft: false
+categories: ["Life"]
+tags: ["Mental Health"]
 ---
 
 *Gaining self-control over dopamine involves managing how you seek and respond to rewarding stimuli, often by creating healthier habits and understanding the mechanisms behind dopamine-driven behaviors.*

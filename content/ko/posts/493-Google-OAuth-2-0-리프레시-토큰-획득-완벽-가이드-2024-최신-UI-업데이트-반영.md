@@ -5,6 +5,8 @@ slug: "493-Google-OAuth-2-0-리프레시-토큰-획득-완벽-가이드-2024-최
 original_url: "https://memoryhub.tistory.com/493"
 tistory_id: 493
 draft: false
+categories: ["데브 유틸"]
+tags: ["구글 연동"]
 ---
 
 안녕하세요, 여러분! 오늘은 Google API를 장기간 안정적으로 사용하기 위해 꼭 필요한 리프레시 토큰에 대해 알아보겠습니다. 특히 2024년에 변경된 Google Cloud Console의 최신 UI를 기준으로 설명해드리겠습니다. ?

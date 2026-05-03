@@ -5,6 +5,8 @@ slug: "243-Diana-Guide"
 original_url: "https://memoryhub.tistory.com/243"
 tistory_id: 243
 draft: false
+categories: ["Reviews"]
+tags: ["Games"]
 ---
 
 *To excel as Diana in League of Legends, you need to master her burst combo, optimize your build and runes, understand effective laning and roaming strategies, and execute precise team fight engagements, much like a tactician who leverages their strengths to dominate both early and late stages of battle.*

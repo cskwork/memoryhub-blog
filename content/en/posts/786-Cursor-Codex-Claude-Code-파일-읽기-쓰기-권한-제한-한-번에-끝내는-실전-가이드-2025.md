@@ -5,6 +5,8 @@ slug: "786-Cursor-Codex-Claude-Code-파일-읽기-쓰기-권한-제한-한-번�
 original_url: "https://memoryhub.tistory.com/786"
 tistory_id: 786
 draft: false
+categories: ["Dev Language"]
+tags: ["Vibe Coding"]
 ---
 
 As development AI agents touch on "editor+terminal+browser," clearly controlling **which files can be read or modified** has become critical for both security and productivity.

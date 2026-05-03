@@ -5,6 +5,8 @@ slug: "161-Linked-List-Introduced"
 original_url: "https://memoryhub.tistory.com/161"
 tistory_id: 161
 draft: false
+categories: ["Dev Library"]
+tags: ["DS And Algorithm"]
 ---
 
 *Linked lists are a fundamental data structure used in computer science to organize and store data in a linear sequence, where each element points to the next, making it easy to insert or delete elements.*

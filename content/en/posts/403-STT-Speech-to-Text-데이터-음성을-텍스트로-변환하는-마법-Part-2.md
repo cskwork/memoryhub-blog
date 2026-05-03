@@ -5,6 +5,8 @@ slug: "403-STT-Speech-to-Text-데이터-음성을-텍스트로-변환하는-마�
 original_url: "https://memoryhub.tistory.com/403"
 tistory_id: 403
 draft: false
+categories: ["Dev Concepts"]
+tags: ["TA Business"]
 ---
 
 ## 1. Detailed Step-by-Step Voice Collection Guide

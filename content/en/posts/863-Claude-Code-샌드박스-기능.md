@@ -5,6 +5,13 @@ slug: "863-Claude-Code-샌드박스-기능"
 original_url: "https://memoryhub.tistory.com/863"
 tistory_id: 863
 draft: false
+categories: ["Dev Library"]
+tags: ["Claude"]
+  hidden: false
+cover:
+  image: "/images/863-Claude-Code-샌드박스-기능/claude_code_sandboxing.gif"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/863-Claude-Code-샌드박스-기능/claude_code_sandboxing.gif)

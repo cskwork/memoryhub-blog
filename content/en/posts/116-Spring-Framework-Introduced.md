@@ -5,6 +5,8 @@ slug: "116-Spring-Framework-Introduced"
 original_url: "https://memoryhub.tistory.com/116"
 tistory_id: 116
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring"]
 ---
 
 *Spring is a powerful framework for building Java applications, focusing on simplifying the development process through dependency injection and aspect-oriented programming.*

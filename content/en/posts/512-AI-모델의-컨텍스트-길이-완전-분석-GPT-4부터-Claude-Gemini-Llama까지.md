@@ -5,6 +5,8 @@ slug: "512-AI-모델의-컨텍스트-길이-완전-분석-GPT-4부터-Claude-Gem
 original_url: "https://memoryhub.tistory.com/512"
 tistory_id: 512
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 Have you ever wondered how well AI chatbots remember previous conversations? Or have you ever asked an AI to analyze a long document only to be told "it's too long to process"? This all relates to a model's 'context length'. 🧠

@@ -5,6 +5,8 @@ slug: "90-Bootstrap-Introduced"
 original_url: "https://memoryhub.tistory.com/90"
 tistory_id: 90
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Bootstrap"]
 ---
 
 *Bootstrap is a powerful front-end framework used for developing responsive and mobile-first websites with ease, akin to a toolkit that helps build a house with pre-designed and customizable tools.*

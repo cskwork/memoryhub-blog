@@ -5,6 +5,11 @@ slug: "1032-Qwen-3-5-출시-알리바바가-GPT-5-2와-Claude를-넘었을까"
 original_url: "https://memoryhub.tistory.com/1032"
 tistory_id: 1032
 draft: false
+  hidden: false
+cover:
+  image: "/images/1032-Qwen-3-5-출시-알리바바가-GPT-5-2와-Claude를-넘었을까/img.png"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/1032-Qwen-3-5-출시-알리바바가-GPT-5-2와-Claude를-넘었을까/img.png)

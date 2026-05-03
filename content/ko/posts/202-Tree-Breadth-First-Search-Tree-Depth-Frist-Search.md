@@ -5,6 +5,8 @@ slug: "202-Tree-Breadth-First-Search-Tree-Depth-Frist-Search"
 original_url: "https://memoryhub.tistory.com/202"
 tistory_id: 202
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["DS And Algorithm"]
 ---
 
 *In this explanation, we will delve into the concepts of Tree Breadth-First Search (BFS) and Tree Depth-First Search (DFS), starting with a big-picture analogy, followed by core concepts, a detailed walkthrough, examples, a conclusion, and a test to gauge understanding.*

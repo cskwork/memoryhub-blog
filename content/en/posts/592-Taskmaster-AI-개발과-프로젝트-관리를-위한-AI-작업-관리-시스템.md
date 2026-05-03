@@ -5,6 +5,8 @@ slug: "592-Taskmaster-AI-개발과-프로젝트-관리를-위한-AI-작업-관�
 original_url: "https://memoryhub.tistory.com/592"
 tistory_id: 592
 draft: false
+categories: ["Dev Library"]
+tags: ["MCP"]
 ---
 
 Have you ever struggled with project management and task tracking? Want a more systematic way to manage complex work? Enter Taskmaster AI. Today we'll walk through this innovative AI tool that helps developers and project managers boost their productivity.

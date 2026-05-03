@@ -5,6 +5,13 @@ slug: "17-구글로-CSS-작업하면-반드시-해야할-것"
 original_url: "https://memoryhub.tistory.com/17"
 tistory_id: 17
 draft: false
+categories: ["데브 유틸"]
+tags: ["설정"]
+  hidden: false
+cover:
+  image: "/images/17-구글로-CSS-작업하면-반드시-해야할-것/nocache.PNG"
+  relative: false
+  hidden: false
 ---
 
 웹 개발을 하면서 CSS 작업을 할 때 페이지 reloading을 아무리해도 변경사항이 반영이 안될 때가 있습니다.

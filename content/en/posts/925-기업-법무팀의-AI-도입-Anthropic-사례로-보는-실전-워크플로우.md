@@ -5,6 +5,8 @@ slug: "925-기업-법무팀의-AI-도입-Anthropic-사례로-보는-실전-워�
 original_url: "https://memoryhub.tistory.com/925"
 tistory_id: 925
 draft: false
+categories: ["Dev Library"]
+tags: ["Claude"]
 ---
 
 ```

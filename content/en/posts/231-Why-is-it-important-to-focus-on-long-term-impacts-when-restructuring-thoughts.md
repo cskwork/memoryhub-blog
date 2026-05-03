@@ -5,6 +5,8 @@ slug: "231-Why-is-it-important-to-focus-on-long-term-impacts-when-restructuring-
 original_url: "https://memoryhub.tistory.com/231"
 tistory_id: 231
 draft: false
+categories: ["Life"]
+tags: ["Mental Health"]
 ---
 
 *Focusing on long-term impacts when restructuring thoughts is crucial because it helps align your immediate actions with your overarching goals and values, leading to more sustainable and meaningful changes.*

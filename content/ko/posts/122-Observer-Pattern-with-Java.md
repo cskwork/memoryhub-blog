@@ -5,6 +5,8 @@ slug: "122-Observer-Pattern-with-Java"
 original_url: "https://memoryhub.tistory.com/122"
 tistory_id: 122
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Design Pattern"]
 ---
 
 *The observer pattern is like a subscription service where subscribers get updates whenever there is a change or new information.*

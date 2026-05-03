@@ -5,6 +5,8 @@ slug: "562-Backend개발-표준-가이드-Spring-Boot-3-MySQL-MyBatis-기반"
 original_url: "https://memoryhub.tistory.com/562"
 tistory_id: 562
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring"]
 ---
 
 # I. Introduction

@@ -5,6 +5,13 @@ slug: "66-Java-디자인-패턴"
 original_url: "https://memoryhub.tistory.com/66"
 tistory_id: 66
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Info Processing Cert"]
+  hidden: false
+cover:
+  image: "/images/66-Java-디자인-패턴/img.png"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/66-Java-디자인-패턴/img.png)

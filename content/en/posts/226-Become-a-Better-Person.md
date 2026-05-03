@@ -5,6 +5,8 @@ slug: "226-Become-a-Better-Person"
 original_url: "https://memoryhub.tistory.com/226"
 tistory_id: 226
 draft: false
+categories: ["Life"]
+tags: ["Mental Health"]
 ---
 
 *Becoming a better person involves self-improvement, understanding core values, and practicing good habits consistently.*

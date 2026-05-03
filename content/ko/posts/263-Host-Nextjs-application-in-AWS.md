@@ -5,6 +5,8 @@ slug: "263-Host-Nextjs-application-in-AWS"
 original_url: "https://memoryhub.tistory.com/263"
 tistory_id: 263
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["NextJS"]
 ---
 
 *To host a Next.js application on AWS S3, you'll use S3 for static hosting, CloudFront for CDN, and Route 53 for DNS management, ensuring a scalable and performant setup.*

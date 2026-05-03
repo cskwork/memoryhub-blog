@@ -5,6 +5,8 @@ slug: "193-MERN-Stack-Introduced"
 original_url: "https://memoryhub.tistory.com/193"
 tistory_id: 193
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["MongoDB"]
 ---
 
 *The MERN stack is a set of JavaScript-based technologies used to build full-stack web applications, comprising MongoDB, Express.js, React, and Node.js.*

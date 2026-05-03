@@ -5,6 +5,8 @@ slug: "178-Redis-Introduced"
 original_url: "https://memoryhub.tistory.com/178"
 tistory_id: 178
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["Redis"]
 ---
 
 ---

@@ -5,6 +5,8 @@ slug: "97-ChatGPT-소개"
 original_url: "https://memoryhub.tistory.com/97"
 tistory_id: 97
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 *This guide explains how to use ChatGPT and GPTs, covers core concepts and features, and helps you understand through practical examples.*

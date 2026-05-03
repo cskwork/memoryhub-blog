@@ -5,6 +5,8 @@ slug: "134-Vim-Introduced"
 original_url: "https://memoryhub.tistory.com/134"
 tistory_id: 134
 draft: false
+categories: ["데브 옵스"]
+tags: ["Vim"]
 ---
 
 *Vim is a highly configurable text editor that allows efficient text editing through keyboard commands, offering powerful features for programmers and power users.*

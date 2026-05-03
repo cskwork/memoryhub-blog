@@ -5,6 +5,8 @@ slug: "88-Spring-Batch-소개"
 original_url: "https://memoryhub.tistory.com/88"
 tistory_id: 88
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring Batch"]
 ---
 
 *Spring Batch는 일괄 처리(batch processing)를 위한 강력한 프레임워크로, 개별 작업을 하나씩 실행하는 대신 일괄로 작업을 수행합니다. 이는 마치 공장에서 작업을 대량으로 처리하는 효율적인 조립 라인과 같습니다.*

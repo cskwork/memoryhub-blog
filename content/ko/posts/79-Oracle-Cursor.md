@@ -5,6 +5,8 @@ slug: "79-Oracle-Cursor"
 original_url: "https://memoryhub.tistory.com/79"
 tistory_id: 79
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["Oracle"]
 ---
 
 ## 정의

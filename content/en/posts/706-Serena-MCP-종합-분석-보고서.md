@@ -5,6 +5,8 @@ slug: "706-Serena-MCP-종합-분석-보고서"
 original_url: "https://memoryhub.tistory.com/706"
 tistory_id: 706
 draft: false
+categories: ["Dev Library"]
+tags: ["MCP"]
 ---
 
 Serena MCP is an innovative open-source toolkit that transforms large language models into advanced coding agents using the Language Server Protocol, offering powerful features competitive with paid tools while remaining free. Released in April 2025, this tool represents a notable achievement in the coding assistance tools market that simultaneously realizes **cost efficiency and technical innovation**.

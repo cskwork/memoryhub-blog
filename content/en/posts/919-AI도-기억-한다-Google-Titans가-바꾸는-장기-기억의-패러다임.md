@@ -5,6 +5,8 @@ slug: "919-AI도-기억-한다-Google-Titans가-바꾸는-장기-기억의-패�
 original_url: "https://memoryhub.tistory.com/919"
 tistory_id: 919
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 ```

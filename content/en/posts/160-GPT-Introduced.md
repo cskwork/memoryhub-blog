@@ -5,6 +5,8 @@ slug: "160-GPT-Introduced"
 original_url: "https://memoryhub.tistory.com/160"
 tistory_id: 160
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 *GPT stands for "Generative Pre-trained Transformer," a type of artificial intelligence model that excels at understanding and generating human-like text by leveraging extensive training on diverse datasets.*

@@ -5,6 +5,8 @@ slug: "390-Amazon-S3-Simple-Storage-Service-완벽-가이드"
 original_url: "https://memoryhub.tistory.com/390"
 tistory_id: 390
 draft: false
+categories: ["Dev AWS"]
+tags: ["S3"]
 ---
 
 Today, let's explore **Amazon S3 (Simple Storage Service)**! S3, an object storage service provided by Amazon Web Services (AWS), delivers both scalability and reliability, making it suitable for various purposes regardless of enterprise scale. Let's examine S3's core concepts, operational mechanisms, advantages, precautions, and practical use cases.

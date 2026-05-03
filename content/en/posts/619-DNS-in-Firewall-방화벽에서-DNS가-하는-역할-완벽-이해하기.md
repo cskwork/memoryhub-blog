@@ -5,6 +5,8 @@ slug: "619-DNS-in-Firewall-방화벽에서-DNS가-하는-역할-완벽-이해하
 original_url: "https://memoryhub.tistory.com/619"
 tistory_id: 619
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Web Security"]
 ---
 
 Have you ever seen a message saying "This site is blocked" while using the internet? Or have you experienced not being able to access certain websites at work? Today, let's understand in depth how DNS plays a role in firewalls!

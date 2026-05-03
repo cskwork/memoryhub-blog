@@ -5,6 +5,8 @@ slug: "58-Javascript-Cheatsheet"
 original_url: "https://memoryhub.tistory.com/58"
 tistory_id: 58
 draft: false
+categories: ["Dev Language"]
+tags: ["Javascript"]
 ---
 
 ```

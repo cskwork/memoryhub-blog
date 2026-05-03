@@ -5,6 +5,13 @@ slug: "74-cURL-실습"
 original_url: "https://memoryhub.tistory.com/74"
 tistory_id: 74
 draft: false
+categories: ["Dev Ops"]
+tags: ["Curl"]
+  hidden: false
+cover:
+  image: "/images/74-cURL-실습/img.png"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/74-cURL-실습/img.png)

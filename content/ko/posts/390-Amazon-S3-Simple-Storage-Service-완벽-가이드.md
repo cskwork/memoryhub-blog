@@ -5,6 +5,8 @@ slug: "390-Amazon-S3-Simple-Storage-Service-완벽-가이드"
 original_url: "https://memoryhub.tistory.com/390"
 tistory_id: 390
 draft: false
+categories: ["Dev AWS"]
+tags: ["S3"]
 ---
 
 오늘은 **Amazon S3(Simple Storage Service)**에 대해 알아보겠습니다! Amazon Web Services(AWS)에서 제공하는 객체 스토리지 서비스인 S3는 확장성과 안정성을 동시에 제공하여, 기업 규모와 상관없이 다양한 용도로 사용되고 있습니다. 지금부터 Amazon S3의 핵심 개념과 동작 방식, 장점, 주의사항, 그리고 실제 사용 예시를 살펴보겠습니다.

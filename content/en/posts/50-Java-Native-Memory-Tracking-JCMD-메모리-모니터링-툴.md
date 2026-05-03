@@ -5,6 +5,8 @@ slug: "50-Java-Native-Memory-Tracking-JCMD-메모리-모니터링-툴"
 original_url: "https://memoryhub.tistory.com/50"
 tistory_id: 50
 draft: false
+categories: ["Dev Language"]
+tags: ["Java"]
 ---
 
 Today, we'll learn how to more efficiently monitor JVM environments using the **JCMD** tool. JCMD is a powerful command-line tool provided since Oracle Java 7, enabling easy inspection and management of JVM application process information, heap dumps, thread dumps, VM system information, and GC statistics.

@@ -5,6 +5,8 @@ slug: "140-Bellman-Ford-Algorithm"
 original_url: "https://memoryhub.tistory.com/140"
 tistory_id: 140
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["DS And Algorithm"]
 ---
 
 *The Bellman-Ford Algorithm is used to find the shortest paths from a single source vertex to all other vertices in a weighted graph, even if some of the weights are negative.*

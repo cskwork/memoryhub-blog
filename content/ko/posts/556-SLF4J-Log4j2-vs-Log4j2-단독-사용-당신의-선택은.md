@@ -5,6 +5,8 @@ slug: "556-SLF4J-Log4j2-vs-Log4j2-단독-사용-당신의-선택은"
 original_url: "https://memoryhub.tistory.com/556"
 tistory_id: 556
 draft: false
+categories: ["데브 옵스"]
+tags: ["Tomcat"]
 ---
 
 오늘은 자바 프로젝트에서 로깅을 설정할 때 많은 분들이 고민하시는 주제를 가져왔어요. 바로 강력한 로깅 프레임워크인 Log4j2를 사용하는 두 가지 방법, **SLF4J를 통해 사용하는 것**과 **Log4j2를 직접 사용하는 것**의 차이점입니다!

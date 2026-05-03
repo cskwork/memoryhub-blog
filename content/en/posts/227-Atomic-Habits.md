@@ -5,6 +5,8 @@ slug: "227-Atomic-Habits"
 original_url: "https://memoryhub.tistory.com/227"
 tistory_id: 227
 draft: false
+categories: ["Life"]
+tags: ["Mental Health"]
 ---
 
 *Atomic Habits by James Clear focuses on the power of small habits and how incremental changes can lead to significant improvements over time.*

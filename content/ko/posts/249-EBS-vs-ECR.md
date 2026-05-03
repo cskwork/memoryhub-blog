@@ -5,6 +5,7 @@ slug: "249-EBS-vs-ECR"
 original_url: "https://memoryhub.tistory.com/249"
 tistory_id: 249
 draft: false
+categories: ["Dev AWS"]
 ---
 
 *Amazon Elastic Block Store (EBS) and Amazon Elastic Container Registry (ECR) are both AWS storage services but serve different purposes: EBS provides block storage for EC2 instances, while ECR is a managed Docker container registry.*

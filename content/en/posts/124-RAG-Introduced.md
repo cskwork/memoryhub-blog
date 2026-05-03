@@ -5,6 +5,8 @@ slug: "124-RAG-Introduced"
 original_url: "https://memoryhub.tistory.com/124"
 tistory_id: 124
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 *Imagine a librarian with instant access to a vast digital library, who can quickly find relevant information, synthesize it, and provide you with a tailored response. That's essentially what RAG does for AI language models like GPTs.*

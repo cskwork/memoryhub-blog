@@ -5,6 +5,8 @@ slug: "456-Anthropic의-Model-Context-Protocol-MCP-완벽-가이드"
 original_url: "https://memoryhub.tistory.com/456"
 tistory_id: 456
 draft: false
+categories: ["Dev Library"]
+tags: ["Claude"]
 ---
 
 Hello! Today, let's explore the Model Context Protocol (MCP) developed by Anthropic, and introduce you to popular servers that developers can actually use and their uses.

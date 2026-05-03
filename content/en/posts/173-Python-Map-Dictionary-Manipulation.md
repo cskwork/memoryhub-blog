@@ -5,6 +5,8 @@ slug: "173-Python-Map-Dictionary-Manipulation"
 original_url: "https://memoryhub.tistory.com/173"
 tistory_id: 173
 draft: false
+categories: ["Dev Language"]
+tags: ["Python"]
 ---
 
 *Let's explore how to declare and use maps (dictionaries) in Python, which are collections of key-value pairs.*

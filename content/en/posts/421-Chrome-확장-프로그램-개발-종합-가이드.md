@@ -5,6 +5,8 @@ slug: "421-Chrome-확장-프로그램-개발-종합-가이드"
 original_url: "https://memoryhub.tistory.com/421"
 tistory_id: 421
 draft: false
+categories: ["Dev Util"]
+tags: ["Chrome Extensions"]
 ---
 
 This guide provides a structured approach to Chrome extension development based on official Chrome developer documentation. It covers fundamental concepts, development stages, key APIs, and best practices.

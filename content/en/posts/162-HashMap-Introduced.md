@@ -5,6 +5,8 @@ slug: "162-HashMap-Introduced"
 original_url: "https://memoryhub.tistory.com/162"
 tistory_id: 162
 draft: false
+categories: ["Dev Library"]
+tags: ["DS And Algorithm"]
 ---
 
 *In this response, we will explore what a hashmap is, using analogies to make the concept clear and understandable.*

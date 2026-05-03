@@ -5,6 +5,8 @@ slug: "713-RAG-Technology-Landscape-LightRAG-vs-Enterprise-Production-Systems"
 original_url: "https://memoryhub.tistory.com/713"
 tistory_id: 713
 draft: false
+categories: ["Dev Database"]
+tags: ["RAG"]
 ---
 
 The retrieval-augmented generation (RAG) market has reached a critical inflection point in 2024-2025, with enterprises moving from experimental pilots to production-scale deployments. **LightRAG represents a significant technical breakthrough** that addresses core limitations of traditional RAG systems, while established techniques like GraphRAG and Multi-Agent RAG continue dominating enterprise implementations. The global RAG market has grown from $1.3 billion in 2024 to projected $74.5 billion by 2034, with enterprise adoption rising from 31% to 51% in just one year.

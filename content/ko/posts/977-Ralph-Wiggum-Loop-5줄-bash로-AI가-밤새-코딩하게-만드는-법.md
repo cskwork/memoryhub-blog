@@ -5,6 +5,8 @@ slug: "977-Ralph-Wiggum-Loop-5줄-bash로-AI가-밤새-코딩하게-만드는-�
 original_url: "https://memoryhub.tistory.com/977"
 tistory_id: 977
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Claude"]
 ---
 
 ```

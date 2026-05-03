@@ -5,6 +5,8 @@ slug: "266-EC2-Pricing-Policy"
 original_url: "https://memoryhub.tistory.com/266"
 tistory_id: 266
 draft: false
+categories: ["Dev AWS"]
+tags: ["EC2"]
 ---
 
 *Amazon EC2 pricing is based on multiple factors, including instance type, usage duration, storage, data transfer, and additional services, designed to provide flexibility and scalability according to user needs.*

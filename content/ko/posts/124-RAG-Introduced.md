@@ -5,6 +5,8 @@ slug: "124-RAG-Introduced"
 original_url: "https://memoryhub.tistory.com/124"
 tistory_id: 124
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["GPT"]
 ---
 
 ---

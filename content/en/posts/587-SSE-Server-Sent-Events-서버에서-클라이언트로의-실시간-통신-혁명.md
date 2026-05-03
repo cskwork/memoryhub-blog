@@ -5,6 +5,8 @@ slug: "587-SSE-Server-Sent-Events-서버에서-클라이언트로의-실시간-�
 original_url: "https://memoryhub.tistory.com/587"
 tistory_id: 587
 draft: false
+categories: ["Dev Database"]
+tags: ["Architecture"]
 ---
 
 *Have you ever seen websites that display stock prices or notifications in real-time? Ever wondered how it works without refreshing? Today, we'll explore SSE, one of the secrets behind this magic!*

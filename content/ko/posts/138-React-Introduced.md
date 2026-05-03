@@ -5,6 +5,8 @@ slug: "138-React-Introduced"
 original_url: "https://memoryhub.tistory.com/138"
 tistory_id: 138
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["React"]
 ---
 
 *React is a JavaScript library for building user interfaces, especially for single-page applications where data changes over time.*

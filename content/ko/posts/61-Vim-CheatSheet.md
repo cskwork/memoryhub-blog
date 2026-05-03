@@ -5,6 +5,8 @@ slug: "61-Vim-CheatSheet"
 original_url: "https://memoryhub.tistory.com/61"
 tistory_id: 61
 draft: false
+categories: ["데브 옵스"]
+tags: ["Vim"]
 ---
 
 ```

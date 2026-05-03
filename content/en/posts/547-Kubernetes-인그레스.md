@@ -5,6 +5,8 @@ slug: "547-Kubernetes-인그레스"
 original_url: "https://memoryhub.tistory.com/547"
 tistory_id: 547
 draft: false
+categories: ["Dev Ops"]
+tags: ["Kubernetes"]
 ---
 
 Welcome to the world of Kubernetes! Have you ever wondered how to make it easy for external users to access the multiple services you've created? Just like an information desk at a large shopping mall entrance guiding visitors to their desired stores, Kubernetes needs a gatekeeper to intelligently connect external requests to various internal services. That's exactly what **Ingress** does! Today, let's understand what Ingress is and why it's needed in a simple and enjoyable way!

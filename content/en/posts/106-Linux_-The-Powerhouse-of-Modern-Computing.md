@@ -5,6 +5,8 @@ slug: "106-Linux_-The-Powerhouse-of-Modern-Computing"
 original_url: "https://memoryhub.tistory.com/106"
 tistory_id: 106
 draft: false
+categories: ["Dev Ops"]
+tags: ["Linux"]
 ---
 
 ## Introduction

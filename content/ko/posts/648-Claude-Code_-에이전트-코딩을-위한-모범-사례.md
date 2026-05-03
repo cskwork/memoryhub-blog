@@ -5,6 +5,8 @@ slug: "648-Claude-Code_-에이전트-코딩을-위한-모범-사례"
 original_url: "https://memoryhub.tistory.com/648"
 tistory_id: 648
 draft: false
+categories: ["데브 언어"]
+tags: ["Vibe Coding"]
 ---
 
 Anthropic이 개발한 Claude Code는 커맨드 라인(CLI) 기반의 에이전트 코딩 도구입니다[1]. 개발자는 이 도구를 통해 자연어 명령으로 코드를 작성, 편집, 디버깅하고, Git과 같은 개발 도구와 연동하여 워크플로우를 자동화할 수 있습니다[4][8][14]. Claude Code는 특정 워크플로를 강요하지 않는 유연한 로우레벨(low-level) 설계를 채택하여, 사용자가 자신의 환경에 맞게 자유롭게 커스터마이징할 수 있는 강력하고 안전한 코딩 환경을 제공합니다[1][10]. 다만 이러한 유연성으로 인해 처음 사용하는 개발자에게는 다소 학습이 필요할 수 있습니다[1].

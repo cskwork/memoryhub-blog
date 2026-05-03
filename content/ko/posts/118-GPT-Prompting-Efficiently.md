@@ -5,6 +5,8 @@ slug: "118-GPT-Prompting-Efficiently"
 original_url: "https://memoryhub.tistory.com/118"
 tistory_id: 118
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Prompting"]
 ---
 
 *Creating effective GPT prompts involves understanding the desired outcome and structuring the prompt to guide the AI towards producing useful, relevant responses.*

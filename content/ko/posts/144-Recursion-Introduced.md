@@ -5,6 +5,8 @@ slug: "144-Recursion-Introduced"
 original_url: "https://memoryhub.tistory.com/144"
 tistory_id: 144
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["DS And Algorithm"]
 ---
 
 *Recursion is a programming technique where a function calls itself to solve smaller instances of the same problem, typically used to break down complex problems into simpler sub-problems.*

@@ -5,6 +5,8 @@ slug: "276-Provide-an-example-of-when-you-would-use-an-API-route-in-Next-js"
 original_url: "https://memoryhub.tistory.com/276"
 tistory_id: 276
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["NextJS"]
 ---
 
 *An API route in Next.js is used to create serverless functions that handle backend logic, such as fetching data from a database or an external API, without the need for a separate backend server.*

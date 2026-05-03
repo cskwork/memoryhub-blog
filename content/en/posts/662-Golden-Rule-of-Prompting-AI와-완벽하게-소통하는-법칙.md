@@ -5,6 +5,8 @@ slug: "662-Golden-Rule-of-Prompting-AI와-완벽하게-소통하는-법칙"
 original_url: "https://memoryhub.tistory.com/662"
 tistory_id: 662
 draft: false
+categories: ["Dev Library"]
+tags: ["Prompting"]
 ---
 
 Have you ever asked AI for something and received a completely different response? 🤔 Like assigning work to a new intern who comes back with something completely different. Today, let's explore why this happens and how to communicate perfectly with AI!

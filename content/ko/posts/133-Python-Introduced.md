@@ -5,6 +5,8 @@ slug: "133-Python-Introduced"
 original_url: "https://memoryhub.tistory.com/133"
 tistory_id: 133
 draft: false
+categories: ["데브 언어"]
+tags: ["Python"]
 ---
 
 *Python is a high-level, interpreted programming language known for its simplicity and readability, making it a great choice for both beginners and experienced developers.*

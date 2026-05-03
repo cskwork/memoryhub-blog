@@ -5,6 +5,8 @@ slug: "254-Vue-js-Lifecycle-Explained"
 original_url: "https://memoryhub.tistory.com/254"
 tistory_id: 254
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["VueJS"]
 ---
 
 *The Vue.js lifecycle consists of a series of events or hooks that run at different stages of a component's existence, allowing developers to execute code at specific moments from creation to destruction.*

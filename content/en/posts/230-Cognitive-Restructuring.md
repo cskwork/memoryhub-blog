@@ -5,6 +5,8 @@ slug: "230-Cognitive-Restructuring"
 original_url: "https://memoryhub.tistory.com/230"
 tistory_id: 230
 draft: false
+categories: ["Life"]
+tags: ["Mental Health"]
 ---
 
 *Cognitive restructuring involves identifying and challenging negative or unhelpful thoughts to change how you feel and behave. It is a powerful technique for gaining control over dopamine-driven behaviors, such as stress-induced snacking.*

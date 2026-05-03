@@ -5,6 +5,8 @@ slug: "425-o1-모델의-보상-설계-Reward-Design-AI의-학습-동기부여-�
 original_url: "https://memoryhub.tistory.com/425"
 tistory_id: 425
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 ## What is Reward Design?

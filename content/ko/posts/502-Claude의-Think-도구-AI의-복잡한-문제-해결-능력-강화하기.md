@@ -5,6 +5,8 @@ slug: "502-Claude의-Think-도구-AI의-복잡한-문제-해결-능력-강화하
 original_url: "https://memoryhub.tistory.com/502"
 tistory_id: 502
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Claude"]
 ---
 
 여러분은 복잡한 문제를 풀 때 어떻게 하시나요? 아마도 종이에 생각을 적거나, 단계별로 메모를 하거나, 문제를 작은 부분으로 나누어 생각하실 겁니다. ? 이런 '생각하는 공간'이 없다면 어떨까요?

@@ -5,6 +5,8 @@ slug: "208-The-Essential-Node-js-Guide-for-Developers"
 original_url: "https://memoryhub.tistory.com/208"
 tistory_id: 208
 draft: false
+categories: ["Dev Ops"]
+tags: ["Node"]
 ---
 
 *The organized summary will now include more details and code examples for each section.*

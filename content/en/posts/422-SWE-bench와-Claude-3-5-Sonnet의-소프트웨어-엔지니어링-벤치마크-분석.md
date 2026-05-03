@@ -5,6 +5,8 @@ slug: "422-SWE-bench와-Claude-3-5-Sonnet의-소프트웨어-엔지니어링-벤
 original_url: "https://memoryhub.tistory.com/422"
 tistory_id: 422
 draft: false
+categories: ["Dev Library"]
+tags: ["Claude"]
 ---
 
 Hello! Today, let's take a detailed look at SWE-bench, which evaluates AI coding capabilities, and Claude 3.5 Sonnet's remarkable achievements.

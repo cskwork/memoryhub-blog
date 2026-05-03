@@ -5,6 +5,8 @@ slug: "233-Rick-Rubin-s-The-Creative-Act-A-Way-of-Being"
 original_url: "https://memoryhub.tistory.com/233"
 tistory_id: 233
 draft: false
+categories: ["후기"]
+tags: ["독서"]
 ---
 
 *Rick Rubin's "The Creative Act: A Way of Being" is an exploration of the creative process and how to cultivate a mindset that fosters creativity in all aspects of life.*

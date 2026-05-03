@@ -5,6 +5,8 @@ slug: "281-Can-you-explain-how-Coolify-PaaS-simplifies-the-deployment-process-fo
 original_url: "https://memoryhub.tistory.com/281"
 tistory_id: 281
 draft: false
+categories: ["Dev Ops"]
+tags: ["CICD"]
 ---
 
 *Like a master chef preparing a gourmet meal, Coolify PaaS orchestrates the complex ingredients of deployment into a seamless, delicious experience for developers.*

@@ -5,6 +5,11 @@ slug: "1061-Codex가-이제-내-PC를-직접-조작한다고-Codex-앱-업데이
 original_url: "https://memoryhub.tistory.com/1061"
 tistory_id: 1061
 draft: false
+  hidden: false
+cover:
+  image: "/images/1061-Codex가-이제-내-PC를-직접-조작한다고-Codex-앱-업데이트/img.png"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/1061-Codex가-이제-내-PC를-직접-조작한다고-Codex-앱-업데이트/img.png)

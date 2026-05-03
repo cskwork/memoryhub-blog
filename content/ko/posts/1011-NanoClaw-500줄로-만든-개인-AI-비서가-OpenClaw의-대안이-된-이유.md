@@ -5,6 +5,11 @@ slug: "1011-NanoClaw-500줄로-만든-개인-AI-비서가-OpenClaw의-대안이-
 original_url: "https://memoryhub.tistory.com/1011"
 tistory_id: 1011
 draft: false
+  hidden: false
+cover:
+  image: "/images/1011-NanoClaw-500줄로-만든-개인-AI-비서가-OpenClaw의-대안이-된-이유/img.png"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/1011-NanoClaw-500줄로-만든-개인-AI-비서가-OpenClaw의-대안이-된-이유/img.png)

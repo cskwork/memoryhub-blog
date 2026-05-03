@@ -5,4 +5,6 @@ slug: "193-MERN-Stack-Introduced"
 original_url: "https://memoryhub.tistory.com/193"
 tistory_id: 193
 draft: false
+categories: ["Dev Database"]
+tags: ["MongoDB"]
 ---

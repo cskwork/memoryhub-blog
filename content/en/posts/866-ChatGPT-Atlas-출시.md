@@ -5,6 +5,13 @@ slug: "866-ChatGPT-Atlas-출시"
 original_url: "https://memoryhub.tistory.com/866"
 tistory_id: 866
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
+  hidden: false
+cover:
+  image: "/images/866-ChatGPT-Atlas-출시/img.png"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/866-ChatGPT-Atlas-출시/img.png)

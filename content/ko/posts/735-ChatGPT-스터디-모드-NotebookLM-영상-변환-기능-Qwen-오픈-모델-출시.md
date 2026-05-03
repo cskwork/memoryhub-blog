@@ -5,6 +5,8 @@ slug: "735-ChatGPT-스터디-모드-NotebookLM-영상-변환-기능-Qwen-오픈-
 original_url: "https://memoryhub.tistory.com/735"
 tistory_id: 735
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
 ---
 
 **2025년 7월 29일 (한국 기준 30일) 오늘, AI 교육 분야에서 세 가지 중요한 발전이 있었습니다. ChatGPT는 '스터디 모드'로 교육자 역할을 강화했고, Google의 NotebookLM은 텍스트를 비디오로 변환하는 기능을 추가했으며, Alibaba의 Qwen3-30B-A3B-2507 소형 모델은 추론과 대화 모드를 자유롭게 전환할 수 있는 혁신적 기능을 선보였습니다.**

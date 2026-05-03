@@ -5,6 +5,8 @@ slug: "448-AICC-AI-Contact-Center-사례로-ACID-원칙-완전-정복하기"
 original_url: "https://memoryhub.tistory.com/448"
 tistory_id: 448
 draft: false
+categories: ["데브 컨셉"]
+tags: ["정보처리기사"]
 ---
 
 안녕하세요, 블로거입니다!  

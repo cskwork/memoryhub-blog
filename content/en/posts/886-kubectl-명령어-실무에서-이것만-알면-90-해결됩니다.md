@@ -5,6 +5,8 @@ slug: "886-kubectl-명령어-실무에서-이것만-알면-90-해결됩니다"
 original_url: "https://memoryhub.tistory.com/886"
 tistory_id: 886
 draft: false
+categories: ["Dev Ops"]
+tags: ["Kubernetes"]
 ---
 
 ```

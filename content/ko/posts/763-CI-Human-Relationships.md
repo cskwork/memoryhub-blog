@@ -5,6 +5,8 @@ slug: "763-CI-Human-Relationships"
 original_url: "https://memoryhub.tistory.com/763"
 tistory_id: 763
 draft: false
+categories: ["생활"]
+tags: ["THE LAW OF CI"]
 ---
 
 ## Top 10 Laws of Human Relationships

@@ -5,6 +5,8 @@ slug: "901-GPT-5-Codex-Mini-발표-4배-더-쓰는-개발자들의-새-선택지
 original_url: "https://memoryhub.tistory.com/901"
 tistory_id: 901
 draft: false
+categories: ["Dev Util"]
+tags: ["Agentic Coding"]
 ---
 
 ```

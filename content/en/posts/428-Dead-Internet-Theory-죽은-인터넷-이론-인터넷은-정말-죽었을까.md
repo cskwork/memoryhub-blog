@@ -5,6 +5,8 @@ slug: "428-Dead-Internet-Theory-죽은-인터넷-이론-인터넷은-정말-죽�
 original_url: "https://memoryhub.tistory.com/428"
 tistory_id: 428
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 Hello, this is your blogger!

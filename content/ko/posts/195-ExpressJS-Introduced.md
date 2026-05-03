@@ -5,6 +5,8 @@ slug: "195-ExpressJS-Introduced"
 original_url: "https://memoryhub.tistory.com/195"
 tistory_id: 195
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["ExpressJS"]
 ---
 
 *Imagine a skilled traffic controller efficiently directing cars through a bustling intersection. Express.js is like that controller for web traffic, organizing and routing HTTP requests with minimal fuss.*

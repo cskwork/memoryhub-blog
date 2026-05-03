@@ -5,6 +5,8 @@ slug: "961-Claude-Code-LSP-완벽-설정-가이드-터미널에서-IDE급-코드
 original_url: "https://memoryhub.tistory.com/961"
 tistory_id: 961
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Claude"]
 ---
 
 ```

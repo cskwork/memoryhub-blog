@@ -5,6 +5,8 @@ slug: "236-What-is-an-inverted-index-and-why-is-it-crucial-for-ElasticSearch"
 original_url: "https://memoryhub.tistory.com/236"
 tistory_id: 236
 draft: false
+categories: ["Dev AWS"]
+tags: ["ElasticSearch"]
 ---
 
 *An inverted index is a data structure that maps terms to the documents that contain them, making it crucial for ElasticSearch because it allows for rapid full-text searches.*

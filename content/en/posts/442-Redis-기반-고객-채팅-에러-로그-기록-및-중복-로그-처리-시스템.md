@@ -5,6 +5,8 @@ slug: "442-Redis-기반-고객-채팅-에러-로그-기록-및-중복-로그-처
 original_url: "https://memoryhub.tistory.com/442"
 tistory_id: 442
 draft: false
+categories: ["Dev Database"]
+tags: ["Redis"]
 ---
 
 Today, I'll show you how to use **Redis** to efficiently record customer chat errors in your production environment and create a system that returns existing logs when duplicates occur. This post is written in technical blog format, explaining a simple yet scalable structure using Redis with example code.

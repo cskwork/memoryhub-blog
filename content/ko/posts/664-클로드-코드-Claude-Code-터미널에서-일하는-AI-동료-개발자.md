@@ -5,6 +5,8 @@ slug: "664-클로드-코드-Claude-Code-터미널에서-일하는-AI-동료-개�
 original_url: "https://memoryhub.tistory.com/664"
 tistory_id: 664
 draft: false
+categories: ["데브 언어"]
+tags: ["Vibe Coding"]
 ---
 
 혹시 코딩할 때마다 IDE, 터미널, 브라우저를 정신없이 오가며 지친 경험 없으신가요? 마치 내 프로젝트 전체를 이해하고 궂은일을 척척 해주는 주니어 개발자 동료가 있다면 어떨까 상상해보셨을 겁니다. 오늘 소개해 드릴 앤스로픽(Anthropic)의 '클로드 코드(Claude Code)'가 바로 그런 역할을 하는 도구입니다[2].

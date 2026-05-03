@@ -5,6 +5,8 @@ slug: "489-Vibe-Coding-LangGraph-Apps-with-llms-txt-and-MCP-AI-주도-앱-개발
 original_url: "https://memoryhub.tistory.com/489"
 tistory_id: 489
 draft: false
+categories: ["Dev Library"]
+tags: ["Prompting"]
 ---
 
 Vibe Coding is a new programming paradigm where developers focus on intent and design rather than code implementation. Combined with LangGraph, llms.txt, and MCP, AI-based application development becomes intuitive and efficient. This approach shortens development time and simplifies building complex agent systems.

@@ -5,6 +5,8 @@ slug: "303-Aider-sendchat-py-Code-Explained"
 original_url: "https://memoryhub.tistory.com/303"
 tistory_id: 303
 draft: false
+categories: ["데브 유틸"]
+tags: ["Aider"]
 ---
 
 ```

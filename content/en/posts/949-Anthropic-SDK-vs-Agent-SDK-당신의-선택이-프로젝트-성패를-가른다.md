@@ -5,6 +5,8 @@ slug: "949-Anthropic-SDK-vs-Agent-SDK-당신의-선택이-프로젝트-성패를
 original_url: "https://memoryhub.tistory.com/949"
 tistory_id: 949
 draft: false
+categories: ["Dev Library"]
+tags: ["Claude"]
 ---
 
 ```

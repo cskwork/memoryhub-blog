@@ -5,6 +5,8 @@ slug: "43-Machine-Learning-에서-사용하는-기초-수학"
 original_url: "https://memoryhub.tistory.com/43"
 tistory_id: 43
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Machine Learning"]
 ---
 
 ML: 데이터와 통계로 컴퓨터를 학습시킴. (데이터를 분석해서 결과를 예측함) [Python Machine Learning (w3schools.com)](https://www.w3schools.com/python/python_ml_getting_started.asp)

@@ -5,6 +5,8 @@ slug: "268-PermitRootLogin-SSH-Security-Policy-Explained"
 original_url: "https://memoryhub.tistory.com/268"
 tistory_id: 268
 draft: false
+categories: ["데브 옵스"]
+tags: ["Linux"]
 ---
 
 *The warning indicates that the `PermitRootLogin` directive in the SSH configuration file (`/etc/ssh/sshd_config`) is not explicitly set, which can lead to security vulnerabilities.*

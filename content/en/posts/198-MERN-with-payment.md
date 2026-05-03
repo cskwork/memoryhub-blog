@@ -5,4 +5,6 @@ slug: "198-MERN-with-payment"
 original_url: "https://memoryhub.tistory.com/198"
 tistory_id: 198
 draft: false
+categories: ["Dev Util"]
+tags: ["Payment Integration"]
 ---

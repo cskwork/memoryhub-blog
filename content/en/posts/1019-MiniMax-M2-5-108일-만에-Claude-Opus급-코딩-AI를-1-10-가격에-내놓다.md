@@ -5,6 +5,11 @@ slug: "1019-MiniMax-M2-5-108일-만에-Claude-Opus급-코딩-AI를-1-10-가격�
 original_url: "https://memoryhub.tistory.com/1019"
 tistory_id: 1019
 draft: false
+  hidden: false
+cover:
+  image: "/images/1019-MiniMax-M2-5-108일-만에-Claude-Opus급-코딩-AI를-1-10-가격에-내놓다/img.png"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/1019-MiniMax-M2-5-108일-만에-Claude-Opus급-코딩-AI를-1-10-가격에-내놓다/img.png)

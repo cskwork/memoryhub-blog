@@ -5,6 +5,8 @@ slug: "451-IoC와-DI의-차이점-알아보기"
 original_url: "https://memoryhub.tistory.com/451"
 tistory_id: 451
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring"]
 ---
 
 Today, let's explore **IoC (Inversion of Control)** and **DI (Dependency Injection)**, two core concepts of the Spring framework. These are very important topics you must understand to truly comprehend Spring.

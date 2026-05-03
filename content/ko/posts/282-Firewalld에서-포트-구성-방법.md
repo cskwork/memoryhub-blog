@@ -5,6 +5,8 @@ slug: "282-Firewalld에서-포트-구성-방법"
 original_url: "https://memoryhub.tistory.com/282"
 tistory_id: 282
 draft: false
+categories: ["데브 옵스"]
+tags: ["Firewalld"]
 ---
 
 ### **포트 열기**

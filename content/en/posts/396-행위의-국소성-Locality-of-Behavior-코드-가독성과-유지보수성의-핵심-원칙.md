@@ -5,6 +5,8 @@ slug: "396-행위의-국소성-Locality-of-Behavior-코드-가독성과-유지�
 original_url: "https://memoryhub.tistory.com/396"
 tistory_id: 396
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Design Pattern"]
 ---
 
 Have you ever experienced wasting time navigating back and forth between multiple files to understand code during software development? Most developers have experienced the frustration of having to open numerous files and mentally combine their relationships to understand how a program works. An important principle for solving this problem is 'locality of behavior'.

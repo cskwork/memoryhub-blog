@@ -5,6 +5,8 @@ slug: "772-개발자-필수-툴-Ripgrep-rg-10가지-활용법-macOS-설치-방�
 original_url: "https://memoryhub.tistory.com/772"
 tistory_id: 772
 draft: false
+categories: ["Dev Ops"]
+tags: ["Linux"]
 ---
 
 Hello! 👋

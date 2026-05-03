@@ -5,6 +5,8 @@ slug: "453-Transactional-소개"
 original_url: "https://memoryhub.tistory.com/453"
 tistory_id: 453
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring Boot"]
 ---
 
 오늘은 Spring 프레임워크에서 **데이터 무결성과 일관성**을 보장하기 위해 자주 사용하는 **@Transactional** 애너테이션(Annotation)에 대해 알아보겠습니다! 데이터베이스 작업(INSERT, UPDATE, DELETE 등)이 일어나는 메서드에 트랜잭션을 적용함으로써 보다 안전한 데이터 처리를 할 수 있는데요. 함께 살펴보겠습니다.

@@ -5,6 +5,8 @@ slug: "655-LLM-모델-Fine-tuning-시-Hallucination-줄이기"
 original_url: "https://memoryhub.tistory.com/655"
 tistory_id: 655
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Fine-Tuning"]
 ---
 
 AI 모델을 학습시키다 보면 이상한 경험을 하신 적 있으신가요? 분명 학습 데이터에 없는 내용인데 모델이 그럴듯하게 지어내서 답하는 경우 말이죠. 마치 시험 문제를 모르는 학생이 아는 척하며 답을 지어내는 것처럼요! ?

@@ -5,6 +5,8 @@ slug: "126-Machine-Learning-Introduced"
 original_url: "https://memoryhub.tistory.com/126"
 tistory_id: 126
 draft: false
+categories: ["Dev Library"]
+tags: ["Machine Learning"]
 ---
 
 *Let's explore the concept of Machine Learning using analogies and clear explanations.*

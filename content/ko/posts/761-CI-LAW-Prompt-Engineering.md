@@ -5,6 +5,8 @@ slug: "761-CI-LAW-Prompt-Engineering"
 original_url: "https://memoryhub.tistory.com/761"
 tistory_id: 761
 draft: false
+categories: ["생활"]
+tags: ["THE LAW OF CI"]
 ---
 
 |  |  |  |  |

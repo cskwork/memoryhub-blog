@@ -5,6 +5,8 @@ slug: "244-Noctune-Guide"
 original_url: "https://memoryhub.tistory.com/244"
 tistory_id: 244
 draft: false
+categories: ["후기"]
+tags: ["게임"]
 ---
 
 *To excel as Nocturne in League of Legends, focus on mastering his farming, ganking, and map control, and utilizing his ultimate for impactful engagements, much like a shadowy assassin who strikes fear into the hearts of his enemies with precise, strategic strikes.*

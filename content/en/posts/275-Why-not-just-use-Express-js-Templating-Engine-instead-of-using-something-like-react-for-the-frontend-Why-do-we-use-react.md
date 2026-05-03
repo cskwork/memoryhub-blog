@@ -5,6 +5,8 @@ slug: "275-Why-not-just-use-Express-js-Templating-Engine-instead-of-using-someth
 original_url: "https://memoryhub.tistory.com/275"
 tistory_id: 275
 draft: false
+categories: ["Dev Framework"]
+tags: ["ExpressJS"]
 ---
 
 *While templating engines like EJS are great for generating dynamic server-rendered HTML, React offers a more powerful and flexible approach to building interactive and dynamic user interfaces by utilizing client-side rendering and component-based architecture.*

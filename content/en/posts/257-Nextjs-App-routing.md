@@ -5,6 +5,8 @@ slug: "257-Nextjs-App-routing"
 original_url: "https://memoryhub.tistory.com/257"
 tistory_id: 257
 draft: false
+categories: ["Dev Framework"]
+tags: ["NextJS"]
 ---
 
 *Next.js App Router introduces a more flexible, component-based routing system, leveraging React Server Components and advanced data fetching methods, providing a modern and powerful way to manage routing in complex applications.*

@@ -5,6 +5,8 @@ slug: "219-Budgeting-Tips"
 original_url: "https://memoryhub.tistory.com/219"
 tistory_id: 219
 draft: false
+categories: ["Life"]
+tags: ["Mental Health"]
 ---
 
 *Managing your finances well involves creating a budget, understanding your income and expenses, saving for emergencies, and investing wisely.*

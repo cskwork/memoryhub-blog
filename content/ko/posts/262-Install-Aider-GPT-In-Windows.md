@@ -5,6 +5,8 @@ slug: "262-Install-Aider-GPT-In-Windows"
 original_url: "https://memoryhub.tistory.com/262"
 tistory_id: 262
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["GPT"]
 ---
 
 *To install Aider on Windows, follow these steps to ensure a smooth setup.*

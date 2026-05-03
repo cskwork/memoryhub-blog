@@ -5,6 +5,7 @@ slug: "973-RAG-저장공간-97-절약-Memvid-vs-LEANN-당신의-선택은"
 original_url: "https://memoryhub.tistory.com/973"
 tistory_id: 973
 draft: false
+categories: ["데브 데이터베이스"]
 ---
 
 ```

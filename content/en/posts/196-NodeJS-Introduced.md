@@ -5,4 +5,6 @@ slug: "196-NodeJS-Introduced"
 original_url: "https://memoryhub.tistory.com/196"
 tistory_id: 196
 draft: false
+categories: ["Dev Ops"]
+tags: ["Node"]
 ---

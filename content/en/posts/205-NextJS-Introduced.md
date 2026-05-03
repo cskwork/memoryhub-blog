@@ -5,4 +5,6 @@ slug: "205-NextJS-Introduced"
 original_url: "https://memoryhub.tistory.com/205"
 tistory_id: 205
 draft: false
+categories: ["Dev Framework"]
+tags: ["NextJS"]
 ---

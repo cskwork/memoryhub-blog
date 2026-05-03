@@ -5,6 +5,8 @@ slug: "563-AWS-DocumentDB-MongoDB-호환-완전-관리형-데이터베이스"
 original_url: "https://memoryhub.tistory.com/563"
 tistory_id: 563
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Theory Notes"]
 ---
 
 Hello! Today, I'd like to introduce you to Amazon DocumentDB, one of AWS's powerful NoSQL database services. Have you ever used MongoDB, or do you need a flexible and scalable database? If so, DocumentDB could be a great choice for you!

@@ -5,6 +5,8 @@ slug: "765-CI-Problem-Solving-and-Debugging"
 original_url: "https://memoryhub.tistory.com/765"
 tistory_id: 765
 draft: false
+categories: ["생활"]
+tags: ["THE LAW OF CI"]
 ---
 
 ## Top 10 Laws of Problem-Solving

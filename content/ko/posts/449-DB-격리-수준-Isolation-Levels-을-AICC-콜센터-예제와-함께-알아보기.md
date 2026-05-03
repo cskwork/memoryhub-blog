@@ -5,6 +5,8 @@ slug: "449-DB-격리-수준-Isolation-Levels-을-AICC-콜센터-예제와-함께
 original_url: "https://memoryhub.tistory.com/449"
 tistory_id: 449
 draft: false
+categories: ["데브 컨셉"]
+tags: ["소프트웨어 아키텍쳐"]
 ---
 
 오늘은 데이터베이스 트랜잭션의 격리 수준(Isolation Level)에 대해 알아보겠습니다. AICC 콜센터 시스템에서는 **동시에 여러 고객**이 접속하고, **여러 상담사**가 채팅·전화·상담 등을 동시에 처리합니다. 이러한 동시성(Concurrency)을 안전하게 보장하기 위해서는 **트랜잭션 격리 수준**을 어떻게 적용하느냐가 매우 중요합니다.

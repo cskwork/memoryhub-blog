@@ -5,6 +5,8 @@ slug: "742-OpenAI-GPT-OSS-공개"
 original_url: "https://memoryhub.tistory.com/742"
 tistory_id: 742
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
 ---
 
 120b·20b 두 모델로 살펴보는 오픈-웨이트 언어모델의 새로운 기준  

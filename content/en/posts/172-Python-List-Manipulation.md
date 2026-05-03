@@ -5,6 +5,8 @@ slug: "172-Python-List-Manipulation"
 original_url: "https://memoryhub.tistory.com/172"
 tistory_id: 172
 draft: false
+categories: ["Dev Language"]
+tags: ["Python"]
 ---
 
 *Let's look at how to declare and initialize a list of strings in Python.*

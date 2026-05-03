@@ -5,6 +5,8 @@ slug: "960-Claude-Code는-LSP로-누구와-대화할까-전체-흐름-한눈에-
 original_url: "https://memoryhub.tistory.com/960"
 tistory_id: 960
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Claude"]
 ---
 
 ```

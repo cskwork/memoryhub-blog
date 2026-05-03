@@ -5,6 +5,12 @@ slug: "869-Understanding-C-Pointers-and-Double-Pointers-A-Visual-Guide"
 original_url: "https://memoryhub.tistory.com/869"
 tistory_id: 869
 draft: false
+  hidden: false
+cover:
+  image: "/images/869-Understanding-C-Pointers-and-Double-Pointers-A-Visual-Guide/3oevdk.jpg"
+  alt: "Confused woman doing math meme - representing the initial confusion about pointer syntax"
+  relative: false
+  hidden: false
 ---
 
 Imagine you're looking for a book in a massive library. Instead of telling you the entire book, someone gives you the aisle number and shelf location. You go there and find the book yourself. That's exactly how pointers work in C – they don't store the data itself, they store the address where the data lives.

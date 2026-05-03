@@ -5,6 +5,8 @@ slug: "251-JSX-Introduced"
 original_url: "https://memoryhub.tistory.com/251"
 tistory_id: 251
 draft: false
+categories: ["Dev Library"]
+tags: ["React"]
 ---
 
 *JSX is a syntax extension for JavaScript that looks similar to XML or HTML and is used in React to describe the UI structure in a declarative way.*

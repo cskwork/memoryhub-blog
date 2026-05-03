@@ -5,6 +5,8 @@ slug: "59-Bash-CheatSheet"
 original_url: "https://memoryhub.tistory.com/59"
 tistory_id: 59
 draft: false
+categories: ["데브 옵스"]
+tags: ["Bash"]
 ---
 
 ```

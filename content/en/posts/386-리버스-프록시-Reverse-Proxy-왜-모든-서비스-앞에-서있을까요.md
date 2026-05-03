@@ -5,6 +5,8 @@ slug: "386-리버스-프록시-Reverse-Proxy-왜-모든-서비스-앞에-서있�
 original_url: "https://memoryhub.tistory.com/386"
 tistory_id: 386
 draft: false
+categories: ["Dev Ops"]
+tags: ["Nginx"]
 ---
 
 ```

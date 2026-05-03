@@ -5,6 +5,8 @@ slug: "680-Claude-Code로-개발-생산성-극대화하기_-실전-활용-가이
 original_url: "https://memoryhub.tistory.com/680"
 tistory_id: 680
 draft: false
+categories: ["Dev Library"]
+tags: ["Claude"]
 ---
 
 Developers' daily work is filled with repetitive and time-consuming tasks. Code refactoring, bug fixing, test writing, documentation... What if AI could handle these tasks for you? Anthropic's **Claude Code** is an innovative tool that turns this dream into reality.

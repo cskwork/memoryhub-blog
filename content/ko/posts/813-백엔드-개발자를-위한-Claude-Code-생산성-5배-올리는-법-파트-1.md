@@ -5,6 +5,8 @@ slug: "813-백엔드-개발자를-위한-Claude-Code-생산성-5배-올리는-�
 original_url: "https://memoryhub.tistory.com/813"
 tistory_id: 813
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Claude"]
 ---
 
 ```

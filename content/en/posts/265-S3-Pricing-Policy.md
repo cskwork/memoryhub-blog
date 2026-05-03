@@ -5,6 +5,8 @@ slug: "265-S3-Pricing-Policy"
 original_url: "https://memoryhub.tistory.com/265"
 tistory_id: 265
 draft: false
+categories: ["Dev AWS"]
+tags: ["S3"]
 ---
 
 *Amazon S3 pricing involves a combination of storage costs, data transfer fees, and additional service charges, designed to provide flexibility and cost-efficiency based on usage.*

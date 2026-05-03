@@ -5,6 +5,8 @@ slug: "170-Basic-Python-Syntax-class-lists-lambda-error"
 original_url: "https://memoryhub.tistory.com/170"
 tistory_id: 170
 draft: false
+categories: ["Dev Language"]
+tags: ["Python"]
 ---
 
 *Let's delve into more advanced Python syntax, expanding our understanding to include classes, list comprehensions, lambda functions, and error handling.*

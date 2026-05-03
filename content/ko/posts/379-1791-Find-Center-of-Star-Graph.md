@@ -5,6 +5,8 @@ slug: "379-1791-Find-Center-of-Star-Graph"
 original_url: "https://memoryhub.tistory.com/379"
 tistory_id: 379
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Leetcode"]
 ---
 
 안녕하세요! 스타 그래프의 중심 노드를 찾는 문제를 해결해보겠습니다.

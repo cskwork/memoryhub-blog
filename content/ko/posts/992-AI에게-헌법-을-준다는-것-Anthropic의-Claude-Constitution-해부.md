@@ -5,6 +5,8 @@ slug: "992-AI에게-헌법-을-준다는-것-Anthropic의-Claude-Constitution-�
 original_url: "https://memoryhub.tistory.com/992"
 tistory_id: 992
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Claude"]
 ---
 
 ```

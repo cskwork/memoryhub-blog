@@ -5,6 +5,8 @@ slug: "148-Component-Scan-Introduced"
 original_url: "https://memoryhub.tistory.com/148"
 tistory_id: 148
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring"]
 ---
 
 *Component scanning in Spring is like a search party looking for specific items in a large house, ensuring that every important item is identified, registered, and ready for use when needed.*

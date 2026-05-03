@@ -5,6 +5,8 @@ slug: "965-Universal-Commerce-Protocol-AI가-결제까지-해주는-시대의-�
 original_url: "https://memoryhub.tistory.com/965"
 tistory_id: 965
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["Claude"]
 ---
 
 ```

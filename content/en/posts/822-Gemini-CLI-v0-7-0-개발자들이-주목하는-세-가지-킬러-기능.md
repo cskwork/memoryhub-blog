@@ -5,6 +5,8 @@ slug: "822-Gemini-CLI-v0-7-0-개발자들이-주목하는-세-가지-킬러-기�
 original_url: "https://memoryhub.tistory.com/822"
 tistory_id: 822
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 ```

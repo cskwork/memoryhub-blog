@@ -5,6 +5,8 @@ slug: "598-Desktop-Commander-MCP-데스크톱-자동화의-새로운-패러다�
 original_url: "https://memoryhub.tistory.com/598"
 tistory_id: 598
 draft: false
+categories: ["Dev Library"]
+tags: ["MCP"]
 ---
 
 Have you ever thought while working on your computer, "Can't I automate these repetitive tasks?" Mouse clicks, keyboard input, screen captures... How convenient would it be if a program could handle these simple tasks for you? Today, let's explore Desktop Commander MCP, which solves exactly these concerns! 🚀

@@ -5,6 +5,8 @@ slug: "229-Cognitive-Behavioral-Therapy-for-Self-Discipline"
 original_url: "https://memoryhub.tistory.com/229"
 tistory_id: 229
 draft: false
+categories: ["Life"]
+tags: ["Mental Health"]
 ---
 
 *Cognitive Behavioral Therapy (CBT) is an effective method for understanding and changing behaviors related to dopamine, helping you develop self-discipline by addressing thought patterns and behaviors that drive your impulses.*

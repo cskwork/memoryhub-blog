@@ -5,6 +5,8 @@ slug: "186-Bitcoin-Introduced"
 original_url: "https://memoryhub.tistory.com/186"
 tistory_id: 186
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Blockchain"]
 ---
 
 *Bitcoin is a digital currency that operates on a decentralized network, using blockchain technology to enable secure and transparent transactions without the need for a central authority.*

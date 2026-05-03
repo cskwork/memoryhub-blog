@@ -5,6 +5,8 @@ slug: "577-IntelliJ-플러그인-업데이트-문제-해결하기-AccessDeniedEx
 original_url: "https://memoryhub.tistory.com/577"
 tistory_id: 577
 draft: false
+categories: ["데브 유틸"]
+tags: ["Intellij"]
 ---
 
 안녕하세요, 개발자 여러분! IntelliJ에서 플러그인을 업데이트하려다가 갑자기 'AccessDeniedException' 오류가 떠서 당황하신 적 있으신가요? 마치 자동차 키를 꽂았는데 시동이 안 걸리는 것처럼 답답하죠! 오늘은 이 골치 아픈 문제를 확실하게 해결하는 방법을 알려드리겠습니다. ?

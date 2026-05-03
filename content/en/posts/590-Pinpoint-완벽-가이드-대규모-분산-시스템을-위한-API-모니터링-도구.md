@@ -5,6 +5,13 @@ slug: "590-Pinpoint-완벽-가이드-대규모-분산-시스템을-위한-API-�
 original_url: "https://memoryhub.tistory.com/590"
 tistory_id: 590
 draft: false
+categories: ["Dev Ops"]
+tags: ["Server Monitoring"]
+  hidden: false
+cover:
+  image: "/images/590-Pinpoint-완벽-가이드-대규모-분산-시스템을-위한-API-모니터링-도구/img.png"
+  relative: false
+  hidden: false
 ---
 
 *Have you ever tried to trace how an API call flows through a microservices architecture? In a complex environment where dozens of services communicate with each other, identifying which API call is slow and where errors occur is a tough challenge. Today, we'll look at Pinpoint, a key tool that solves exactly this problem.*

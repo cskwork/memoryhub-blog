@@ -5,6 +5,8 @@ slug: "141-Insertion-Sort-Introduced"
 original_url: "https://memoryhub.tistory.com/141"
 tistory_id: 141
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["DS And Algorithm"]
 ---
 
 *Insertion sort is a simple and intuitive sorting algorithm that builds a sorted array (or list) one element at a time by comparing each new element to the already sorted elements and inserting it into its correct position.*

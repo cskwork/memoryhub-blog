@@ -5,6 +5,8 @@ slug: "701-Spring-Boot-Log4j2-최적화-설정-가이드"
 original_url: "https://memoryhub.tistory.com/701"
 tistory_id: 701
 draft: false
+categories: ["Dev Ops"]
+tags: ["Server Monitoring"]
 ---
 
 This guide covers building an optimal logging system using Log4j2 in Spring Boot applications. Based on the latest Spring Boot 3.4.3 version, it provides optimized configurations for all stages from development to production.

@@ -5,6 +5,8 @@ slug: "278-Create-a-simple-React-component-that-displays-a-message-passed-as-a-p
 original_url: "https://memoryhub.tistory.com/278"
 tistory_id: 278
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["React"]
 ---
 
 *In this response, I'll guide you through creating a simple React component that displays a message passed as a prop, breaking down each step with an analogy to make the process clear and understandable.*

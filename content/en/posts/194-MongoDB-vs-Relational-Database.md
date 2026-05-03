@@ -5,4 +5,6 @@ slug: "194-MongoDB-vs-Relational-Database"
 original_url: "https://memoryhub.tistory.com/194"
 tistory_id: 194
 draft: false
+categories: ["Dev Database"]
+tags: ["MongoDB"]
 ---

@@ -5,6 +5,8 @@ slug: "307-NextJS-App-Router-Web-app-Example"
 original_url: "https://memoryhub.tistory.com/307"
 tistory_id: 307
 draft: false
+categories: ["Dev Framework"]
+tags: ["NextJS"]
 ---
 
 *Imagine a bustling city with well-planned districts, efficient transportation, and clear signage - that's the essence of a well-organized Next.js app using the App Router web applications.*

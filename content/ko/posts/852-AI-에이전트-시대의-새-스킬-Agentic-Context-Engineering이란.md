@@ -5,6 +5,8 @@ slug: "852-AI-에이전트-시대의-새-스킬-Agentic-Context-Engineering이�
 original_url: "https://memoryhub.tistory.com/852"
 tistory_id: 852
 draft: false
+categories: ["데브 유틸"]
+tags: ["Agents"]
 ---
 
 ```

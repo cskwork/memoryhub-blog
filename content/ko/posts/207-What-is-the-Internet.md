@@ -5,6 +5,8 @@ slug: "207-What-is-the-Internet"
 original_url: "https://memoryhub.tistory.com/207"
 tistory_id: 207
 draft: false
+categories: ["데브 컨셉"]
+tags: ["이론 문서"]
 ---
 
 *We'll explore what the Internet is by comparing it to a vast, interconnected city, understanding its core components, and breaking down its technical details.*

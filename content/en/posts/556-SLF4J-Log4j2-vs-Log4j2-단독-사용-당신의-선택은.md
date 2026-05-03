@@ -5,6 +5,8 @@ slug: "556-SLF4J-Log4j2-vs-Log4j2-단독-사용-당신의-선택은"
 original_url: "https://memoryhub.tistory.com/556"
 tistory_id: 556
 draft: false
+categories: ["Dev Ops"]
+tags: ["Tomcat"]
 ---
 
 Today I'm bringing up a topic that many people wonder about when setting up logging in Java projects. It's about the difference between two ways of using Log4j2, a powerful logging framework: **using it through SLF4J** and **using Log4j2 directly**!

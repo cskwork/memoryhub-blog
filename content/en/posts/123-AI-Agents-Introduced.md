@@ -5,6 +5,8 @@ slug: "123-AI-Agents-Introduced"
 original_url: "https://memoryhub.tistory.com/123"
 tistory_id: 123
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 *AI agents are like intelligent virtual workers that can perform specific tasks autonomously by perceiving their environment, reasoning, and taking actions to achieve their goals.*

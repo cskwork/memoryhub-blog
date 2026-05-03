@@ -5,6 +5,8 @@ slug: "946-Vue-3-6-Vapor-Mode-Virtual-DOM-없이-Solid-js급-성능을-낸다고
 original_url: "https://memoryhub.tistory.com/946"
 tistory_id: 946
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["VueJS"]
 ---
 
 ```

@@ -5,6 +5,8 @@ slug: "49-Linux_-파일-및-디렉터리-관리"
 original_url: "https://memoryhub.tistory.com/49"
 tistory_id: 49
 draft: false
+categories: ["Dev Ops"]
+tags: ["Linux"]
 ---
 
 Explains how to find files by specific extension, search for strings in files, combine and sort files, change file and directory permissions, and copy directories.

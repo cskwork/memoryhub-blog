@@ -5,6 +5,8 @@ slug: "688-Log4j2-설정-완벽-정복-이제-System-out-println-그만-쓰세�
 original_url: "https://memoryhub.tistory.com/688"
 tistory_id: 688
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Logback"]
 ---
 
 ```

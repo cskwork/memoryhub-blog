@@ -5,6 +5,8 @@ slug: "164-Time-Management"
 original_url: "https://memoryhub.tistory.com/164"
 tistory_id: 164
 draft: false
+categories: ["Life"]
+tags: ["Self Development"]
 ---
 
 *Effective time management involves understanding your goals, breaking tasks into manageable pieces, and using strategies to prioritize and track your progress.*

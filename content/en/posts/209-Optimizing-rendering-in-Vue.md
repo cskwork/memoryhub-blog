@@ -5,6 +5,8 @@ slug: "209-Optimizing-rendering-in-Vue"
 original_url: "https://memoryhub.tistory.com/209"
 tistory_id: 209
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 *This will explain optimizing rendering in Vue.js by breaking down complex ideas into simpler, relatable concepts, and use analogies to help understand the technical details.*

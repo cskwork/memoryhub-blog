@@ -5,6 +5,8 @@ slug: "720-RAG-시스템-대결-LangConnect-Client-vs-Open-WebUI-문서-기반-A
 original_url: "https://memoryhub.tistory.com/720"
 tistory_id: 720
 draft: false
+categories: ["Dev Database"]
+tags: ["RAG"]
 ---
 
 ## Introduction: The Age of AI Reading Documents and Answering Questions

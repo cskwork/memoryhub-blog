@@ -5,6 +5,8 @@ slug: "107-Oracle-DBMS-Introduced"
 original_url: "https://memoryhub.tistory.com/107"
 tistory_id: 107
 draft: false
+categories: ["Dev Database"]
+tags: ["Oracle"]
 ---
 
 *Oracle DBMS (Database Management System) is a robust software suite that facilitates the creation, management, and interaction with databases, allowing users to store, retrieve, and manipulate data efficiently.*

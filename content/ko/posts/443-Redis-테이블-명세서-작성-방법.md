@@ -5,6 +5,8 @@ slug: "443-Redis-테이블-명세서-작성-방법"
 original_url: "https://memoryhub.tistory.com/443"
 tistory_id: 443
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["Redis"]
 ---
 
 오늘은 **Redis 테이블(혹은 스키마)에 대한 명세서 작성 방법**과 몇 가지 **예시**를 살펴보겠습니다. 일반적인 관계형 데이터베이스(RDBMS)와 달리 Redis는 ‘테이블’이나 ‘스키마’라는 개념이 명확하지 않습니다. 그러나 **조직적으로 Redis 자료 구조를 설계**하고, 쉽게 이해하고 유지보수하기 위해서는 ‘테이블 명세서’와 유사한 가이드라인을 마련하는 것이 중요합니다.

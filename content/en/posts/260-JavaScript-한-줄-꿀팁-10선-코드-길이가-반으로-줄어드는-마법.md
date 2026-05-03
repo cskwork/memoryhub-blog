@@ -5,6 +5,8 @@ slug: "260-JavaScript-한-줄-꿀팁-10선-코드-길이가-반으로-줄어드�
 original_url: "https://memoryhub.tistory.com/260"
 tistory_id: 260
 draft: false
+categories: ["Dev Language"]
+tags: ["Javascript"]
 ---
 
 ```

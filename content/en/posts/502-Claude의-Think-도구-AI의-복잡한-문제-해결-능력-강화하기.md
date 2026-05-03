@@ -5,6 +5,8 @@ slug: "502-Claude의-Think-도구-AI의-복잡한-문제-해결-능력-강화하
 original_url: "https://memoryhub.tistory.com/502"
 tistory_id: 502
 draft: false
+categories: ["Dev Library"]
+tags: ["Claude"]
 ---
 
 How do you solve complex problems? You probably write your thoughts on paper, take notes step by step, or break the problem into smaller parts to think about. 🧠 What if we had no such 'thinking space'?

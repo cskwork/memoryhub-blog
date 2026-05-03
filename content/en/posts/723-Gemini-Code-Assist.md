@@ -5,6 +5,8 @@ slug: "723-Gemini-Code-Assist"
 original_url: "https://memoryhub.tistory.com/723"
 tistory_id: 723
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 ```

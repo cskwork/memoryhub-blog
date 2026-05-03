@@ -5,6 +5,11 @@ slug: "1017-GLM-5-744B-오픈소스-모델이-Claude-Opus에-근접한-비결"
 original_url: "https://memoryhub.tistory.com/1017"
 tistory_id: 1017
 draft: false
+  hidden: false
+cover:
+  image: "/images/1017-GLM-5-744B-오픈소스-모델이-Claude-Opus에-근접한-비결/img.png"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/1017-GLM-5-744B-오픈소스-모델이-Claude-Opus에-근접한-비결/img.png)

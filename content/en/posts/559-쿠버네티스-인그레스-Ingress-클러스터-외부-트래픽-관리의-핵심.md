@@ -5,6 +5,8 @@ slug: "559-쿠버네티스-인그레스-Ingress-클러스터-외부-트래픽-�
 original_url: "https://memoryhub.tistory.com/559"
 tistory_id: 559
 draft: false
+categories: ["Dev Ops"]
+tags: ["Kubernetes"]
 ---
 
 Hello Kubernetes travelers! Have you ever felt overwhelmed while trying to configure access from outside the cluster to internal services? Like a building security guard managing multiple doors, connecting multiple services to the external world is quite a challenging task. Today, let's explore Kubernetes' clever gatekeeper, **Ingress**, in an easy and fun way!

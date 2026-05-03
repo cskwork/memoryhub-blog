@@ -5,6 +5,8 @@ slug: "201-Bitwise-XOR-Introduced"
 original_url: "https://memoryhub.tistory.com/201"
 tistory_id: 201
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["DS And Algorithm"]
 ---
 
 *In this explanation, we will explore the concept of Bitwise XOR, starting with a big-picture analogy, followed by core concepts, a detailed walkthrough, an example, a conclusion, and a test to gauge understanding.*

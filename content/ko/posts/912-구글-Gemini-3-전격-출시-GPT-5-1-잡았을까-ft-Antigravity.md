@@ -5,6 +5,8 @@ slug: "912-구글-Gemini-3-전격-출시-GPT-5-1-잡았을까-ft-Antigravity"
 original_url: "https://memoryhub.tistory.com/912"
 tistory_id: 912
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
 ---
 
 ```

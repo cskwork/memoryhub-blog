@@ -5,6 +5,8 @@ slug: "922-Remotion-React-코드로-영상-생성-영상-편집기-없이-MP4-�
 original_url: "https://memoryhub.tistory.com/922"
 tistory_id: 922
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 ```

@@ -5,6 +5,8 @@ slug: "945-Claude-for-Chrome-브라우저-안에서-일하는-AI-비서가-왔�
 original_url: "https://memoryhub.tistory.com/945"
 tistory_id: 945
 draft: false
+categories: ["데브 컨셉"]
+tags: ["Tech News"]
 ---
 
 ```

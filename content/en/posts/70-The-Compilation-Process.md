@@ -5,6 +5,13 @@ slug: "70-The-Compilation-Process"
 original_url: "https://memoryhub.tistory.com/70"
 tistory_id: 70
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Theory Notes"]
+  hidden: false
+cover:
+  image: "/images/70-The-Compilation-Process/img.png"
+  relative: false
+  hidden: false
 ---
 
 ### Source Code

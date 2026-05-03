@@ -5,6 +5,8 @@ slug: "183-BlockChain-link-with-Smart-Contract"
 original_url: "https://memoryhub.tistory.com/183"
 tistory_id: 183
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Blockchain"]
 ---
 
 *The foundation for smart contracts is blockchain technology, which provides the secure, decentralized, and immutable environment necessary for these self-executing contracts.*

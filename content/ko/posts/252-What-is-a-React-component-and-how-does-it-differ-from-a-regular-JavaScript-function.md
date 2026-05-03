@@ -5,6 +5,8 @@ slug: "252-What-is-a-React-component-and-how-does-it-differ-from-a-regular-JavaS
 original_url: "https://memoryhub.tistory.com/252"
 tistory_id: 252
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["React"]
 ---
 
 *React components are special JavaScript functions or classes that return JSX to define the structure and behavior of a user interface, whereas regular JavaScript functions do not inherently have this UI-focused capability.*

@@ -5,6 +5,7 @@ slug: "264-EDI-Message-Mapping-Tools-Explained"
 original_url: "https://memoryhub.tistory.com/264"
 tistory_id: 264
 draft: false
+categories: ["데브 유틸"]
 ---
 
 *EDI message mapping tools translate electronic data interchange (EDI) messages between different formats, much like a translator converting languages to facilitate communication.*

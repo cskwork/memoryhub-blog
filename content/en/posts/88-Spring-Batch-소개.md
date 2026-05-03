@@ -5,6 +5,8 @@ slug: "88-Spring-Batch-소개"
 original_url: "https://memoryhub.tistory.com/88"
 tistory_id: 88
 draft: false
+categories: ["Dev Framework"]
+tags: ["Spring Batch"]
 ---
 
 *Spring Batch is a powerful framework for batch processing, processing tasks in bulk rather than executing individual operations one at a time. This is like an efficient assembly line in a factory that processes work in large quantities.*

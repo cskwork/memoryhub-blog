@@ -5,6 +5,8 @@ slug: "721-Open-WebUI_-Functions-Tools-MCP-완전-가이드"
 original_url: "https://memoryhub.tistory.com/721"
 tistory_id: 721
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 Open WebUI is a **self-hosted AI platform** that supports Ollama and OpenAI-compatible APIs, offering a scalable and user-friendly web interface[1][2]. Designed to work in completely offline environments, it provides seamless integration with various LLMs (Large Language Models)[3][4]. This platform offers a ChatGPT-like user experience as open source while ensuring privacy protection and customization possibilities[5][6].

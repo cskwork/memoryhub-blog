@@ -5,6 +5,8 @@ slug: "924-Claude-Code-Plugin-팀-전체-AI-개발환경을-5분-만에-통일�
 original_url: "https://memoryhub.tistory.com/924"
 tistory_id: 924
 draft: false
+categories: ["Dev Library"]
+tags: ["Claude"]
 ---
 
 ```

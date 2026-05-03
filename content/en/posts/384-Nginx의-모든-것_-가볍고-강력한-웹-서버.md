@@ -5,6 +5,8 @@ slug: "384-Nginx의-모든-것_-가볍고-강력한-웹-서버"
 original_url: "https://memoryhub.tistory.com/384"
 tistory_id: 384
 draft: false
+categories: ["Dev Ops"]
+tags: ["Nginx"]
 ---
 
 Hello! Today, let's take a detailed look at **Nginx**, an essential tool that cannot be missing in modern web services. Let's understand Nginx by comparing it to a coffee shop analogy.

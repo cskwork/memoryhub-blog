@@ -5,6 +5,8 @@ slug: "706-Serena-MCP-종합-분석-보고서"
 original_url: "https://memoryhub.tistory.com/706"
 tistory_id: 706
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["MCP"]
 ---
 
 Serena MCP는 Language Server Protocol을 활용하여 대규모 언어 모델을 고급 코딩 에이전트로 변환하는 혁신적인 오픈소스 툴킷으로, 무료로 제공되면서도 유료 도구들과 경쟁할 수 있는 강력한 기능을 제공한다. 2025년 4월에 출시된 이 도구는 코딩 보조 도구 시장에서 **비용 효율성과 기술적 혁신성**을 동시에 실현한 주목할 만한 성과다.

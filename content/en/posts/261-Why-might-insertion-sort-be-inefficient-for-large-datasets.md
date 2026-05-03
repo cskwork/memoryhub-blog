@@ -5,6 +5,8 @@ slug: "261-Why-might-insertion-sort-be-inefficient-for-large-datasets"
 original_url: "https://memoryhub.tistory.com/261"
 tistory_id: 261
 draft: false
+categories: ["Dev Library"]
+tags: ["DS And Algorithm"]
 ---
 
 *Insertion sort is inefficient for large datasets because its time complexity scales quadratically with the size of the dataset, meaning the time taken to sort grows rapidly as the dataset size increases.*

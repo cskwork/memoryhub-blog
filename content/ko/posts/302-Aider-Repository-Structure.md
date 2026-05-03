@@ -5,6 +5,8 @@ slug: "302-Aider-Repository-Structure"
 original_url: "https://memoryhub.tistory.com/302"
 tistory_id: 302
 draft: false
+categories: ["데브 유틸"]
+tags: ["Aider"]
 ---
 
 ### Detailed Explanation of the "aider" Repository Structure

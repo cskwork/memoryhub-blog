@@ -5,6 +5,13 @@ slug: "749-Claude-Code-Output-Styles-Statusline-가이드"
 original_url: "https://memoryhub.tistory.com/749"
 tistory_id: 749
 draft: false
+categories: ["Dev Library"]
+tags: ["Claude"]
+  hidden: false
+cover:
+  image: "/images/749-Claude-Code-Output-Styles-Statusline-가이드/img.png"
+  relative: false
+  hidden: false
 ---
 
 Hello! Today I'll walk through **Claude Code Output Styles** and **Statusline** features that many developers ask about.

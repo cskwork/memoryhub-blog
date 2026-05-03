@@ -5,6 +5,13 @@ slug: "858-MCP보다-더-중요할-수도-있는-Claude-Skills-어떻게-시작�
 original_url: "https://memoryhub.tistory.com/858"
 tistory_id: 858
 draft: false
+categories: ["Dev Library"]
+tags: ["Claude"]
+  hidden: false
+cover:
+  image: "/images/858-MCP보다-더-중요할-수도-있는-Claude-Skills-어떻게-시작할까/img.png"
+  relative: false
+  hidden: false
 ---
 
 ![](/images/858-MCP보다-더-중요할-수도-있는-Claude-Skills-어떻게-시작할까/img.png)

@@ -5,6 +5,13 @@ slug: "525-IntelliJ-Community-Edition에서-application-yml-인식-문제-해결
 original_url: "https://memoryhub.tistory.com/525"
 tistory_id: 525
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
+cover:
+  image: "image example"
+  alt: "Run Configuration menu"
+  relative: false
+  hidden: false
 ---
 
 ## Problem

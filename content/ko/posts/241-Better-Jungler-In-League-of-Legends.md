@@ -5,6 +5,8 @@ slug: "241-Better-Jungler-In-League-of-Legends"
 original_url: "https://memoryhub.tistory.com/241"
 tistory_id: 241
 draft: false
+categories: ["후기"]
+tags: ["게임"]
 ---
 
 *To become a better jungler in League of Legends, you need to master efficient farming routes, effective ganking, objective control, and strong map awareness, much like a strategist who coordinates troops and resources across a dynamic battlefield.*

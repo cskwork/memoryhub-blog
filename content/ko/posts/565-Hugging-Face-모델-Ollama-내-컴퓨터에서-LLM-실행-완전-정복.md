@@ -5,6 +5,8 @@ slug: "565-Hugging-Face-모델-Ollama-내-컴퓨터에서-LLM-실행-완전-정�
 original_url: "https://memoryhub.tistory.com/565"
 tistory_id: 565
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["GPT"]
 ---
 
 안녕하세요! ✨ 오늘은 Ollama `Modelfile` 설정의 핵심인 `num_ctx` 파라미터를 자유자재로 조절하는 방법과, Hugging Face 모델 다운로드부터 Ollama 등록까지 클릭 몇 번으로 끝내는 마법 같은 스크립트를 소개해 드릴게요. 복잡한 과정은 이제 안녕! ? 나만의 강력한 로컬 LLM 환경, 더 쉽고 스마트하게 구축해 볼까요? ?

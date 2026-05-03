@@ -5,6 +5,8 @@ slug: "52-Spring-Bean-등록하는-4-가지-방법"
 original_url: "https://memoryhub.tistory.com/52"
 tistory_id: 52
 draft: false
+categories: ["데브 프레임워크"]
+tags: ["Spring"]
 ---
 
 # 4 가지 방법

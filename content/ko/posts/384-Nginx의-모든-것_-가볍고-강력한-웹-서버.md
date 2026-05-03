@@ -5,6 +5,8 @@ slug: "384-Nginx의-모든-것_-가볍고-강력한-웹-서버"
 original_url: "https://memoryhub.tistory.com/384"
 tistory_id: 384
 draft: false
+categories: ["데브 옵스"]
+tags: ["Nginx"]
 ---
 
 안녕하세요! 오늘은 현대 웹 서비스에서 빠질 수 없는 핵심 도구인 **Nginx**에 대해 자세히 알아보겠습니다.  

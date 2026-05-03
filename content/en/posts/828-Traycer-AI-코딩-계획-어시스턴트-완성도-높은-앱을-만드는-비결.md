@@ -5,6 +5,8 @@ slug: "828-Traycer-AI-코딩-계획-어시스턴트-완성도-높은-앱을-만�
 original_url: "https://memoryhub.tistory.com/828"
 tistory_id: 828
 draft: false
+categories: ["Dev Language"]
+tags: ["Vibe Coding"]
 ---
 
 ```

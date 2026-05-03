@@ -5,6 +5,8 @@ slug: "940-Atlassian-CLI-완벽-가이드-Jira-클릭-지옥에서-탈출하는-
 original_url: "https://memoryhub.tistory.com/940"
 tistory_id: 940
 draft: false
+categories: ["Dev Concepts"]
+tags: ["Tech News"]
 ---
 
 ```

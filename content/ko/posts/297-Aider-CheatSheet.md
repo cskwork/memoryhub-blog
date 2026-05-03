@@ -5,6 +5,8 @@ slug: "297-Aider-CheatSheet"
 original_url: "https://memoryhub.tistory.com/297"
 tistory_id: 297
 draft: false
+categories: ["데브 라이브러리"]
+tags: ["GPT"]
 ---
 
 *In this explanation, I'll walk you through the commands available in Aider, an AI-powered assistant for code and project management, by relating each command to its technical function.*

@@ -5,6 +5,8 @@ slug: "420-OpenStack-Cinder-블록-스토리지-서비스-클라우드의-데이
 original_url: "https://memoryhub.tistory.com/420"
 tistory_id: 420
 draft: false
+categories: ["데브 옵스"]
+tags: ["OpenStack"]
 ---
 
 여러분이 새로운 컴퓨터를 구입했을 때 외장 하드디스크를 연결하는 상황을 생각해보세요. 중요한 데이터를 저장하고 필요할 때 언제든지 접근할 수 있죠. OpenStack Cinder는 클라우드 환경에서 이와 같은 역할을 수행합니다! 마치 가상의 외장 하드디스크를 클라우드 인스턴스에 연결하듯, 가상 머신에 영구적인 스토리지를 제공합니다.

@@ -5,6 +5,13 @@ slug: "771-DBeaver에서도-AI-Chat-가능합니다-다만-에디션-보안-설�
 original_url: "https://memoryhub.tistory.com/771"
 tistory_id: 771
 draft: false
+categories: ["생활"]
+tags: ["트렌드"]
+  hidden: false
+cover:
+  image: "/images/771-DBeaver에서도-AI-Chat-가능합니다-다만-에디션-보안-설정이-핵심/img.png"
+  relative: false
+  hidden: false
 ---
 
 안녕하세요. DBeaver에 AI를 붙여 **자연어→SQL 생성, 쿼리 설명/리팩터링**까지 할 수 있습니다. OpenAI·Azure OpenAI·Google Gemini·GitHub Copilot·Ollama(로컬 LLM) 등 여러 모델을 연결할 수 있어요. 

@@ -5,6 +5,8 @@ slug: "445-Redis-Pub-Sub-vs-Redis에-단순-데이터-저장-무엇이-좋을까
 original_url: "https://memoryhub.tistory.com/445"
 tistory_id: 445
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["Redis"]
 ---
 
 오늘은 **Redis의 Pub/Sub(Channel/Topic) 기능**과, 단순히 **Redis 자료구조(SET, LIST 등)로 로깅**하는 방법 중 어떤 것을 선택해야 할지, 특히 **채팅 에러(에러 로그) 관리**를 예시로 이야기를 나눠보겠습니다.

@@ -5,6 +5,8 @@ slug: "677-Bruno-MCP-Server-System-Design"
 original_url: "https://memoryhub.tistory.com/677"
 tistory_id: 677
 draft: false
+categories: ["데브 유틸"]
+tags: ["Automated Testing"]
 ---
 
 ## 1 Purpose

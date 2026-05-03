@@ -5,6 +5,8 @@ slug: "110-EC2-Introduced"
 original_url: "https://memoryhub.tistory.com/110"
 tistory_id: 110
 draft: false
+categories: ["Dev AWS"]
+tags: ["EC2"]
 ---
 
 *Amazon EC2 works by providing scalable virtual servers (instances) that can be configured and managed through a web interface or API, allowing businesses to run applications without owning physical hardware.*

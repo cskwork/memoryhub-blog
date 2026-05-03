@@ -5,6 +5,8 @@ slug: "565-Hugging-Face-모델-Ollama-내-컴퓨터에서-LLM-실행-완전-정�
 original_url: "https://memoryhub.tistory.com/565"
 tistory_id: 565
 draft: false
+categories: ["Dev Library"]
+tags: ["GPT"]
 ---
 
 Hello! Today, I'd like to introduce you to the `num_ctx` parameter, the core of Ollama `Modelfile` configuration, and a magical script that downloads Hugging Face models and registers them to Ollama with just a few clicks. Say goodbye to complicated processes! Let's build your own powerful local LLM environment more easily and smartly!

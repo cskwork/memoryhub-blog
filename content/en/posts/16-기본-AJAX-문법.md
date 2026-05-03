@@ -5,6 +5,8 @@ slug: "16-기본-AJAX-문법"
 original_url: "https://memoryhub.tistory.com/16"
 tistory_id: 16
 draft: false
+categories: ["Dev Util"]
+tags: ["JavaScript Play"]
 ---
 
 > Basic AJAX syntax summary and examples

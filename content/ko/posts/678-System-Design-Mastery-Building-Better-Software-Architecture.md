@@ -5,6 +5,8 @@ slug: "678-System-Design-Mastery-Building-Better-Software-Architecture"
 original_url: "https://memoryhub.tistory.com/678"
 tistory_id: 678
 draft: false
+categories: ["데브 데이터베이스"]
+tags: ["Architecture"]
 ---
 
 Have you ever wondered how apps like Instagram handle millions of photos uploaded every minute, or how Netflix streams videos to hundreds of millions of users without crashing? The magic lies in brilliant system design! Think of system design as the blueprint for building digital skyscrapers - you wouldn't start construction without a solid architectural plan, right?
