@@ -7,7 +7,6 @@ tistory_id: 70
 draft: false
 categories: ["데브 컨셉"]
 tags: ["이론 문서"]
-  hidden: false
 cover:
   image: "/images/70-The-Compilation-Process/img.png"
   relative: false

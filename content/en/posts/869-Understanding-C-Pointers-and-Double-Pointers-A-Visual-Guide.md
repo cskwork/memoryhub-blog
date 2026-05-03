@@ -5,7 +5,6 @@ slug: "869-Understanding-C-Pointers-and-Double-Pointers-A-Visual-Guide"
 original_url: "https://memoryhub.tistory.com/869"
 tistory_id: 869
 draft: false
-  hidden: false
 cover:
   image: "/images/869-Understanding-C-Pointers-and-Double-Pointers-A-Visual-Guide/3oevdk.jpg"
   alt: "Confused woman doing math meme - representing the initial confusion about pointer syntax"

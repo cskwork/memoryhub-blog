@@ -7,7 +7,6 @@ tistory_id: 868
 draft: false
 categories: ["데브 컨셉"]
 tags: ["Tech News"]
-  hidden: false
 cover:
   image: "/images/868-Making-Payment-Integration-Easier-with-AI-Building-Toss-Payments-MCP-Server/img.png"
   relative: false

@@ -5,7 +5,6 @@ slug: "1063-GPT-5-5-출시-왜-이번엔-Codex가-스스로-일한다-고-말할
 original_url: "https://memoryhub.tistory.com/1063"
 tistory_id: 1063
 draft: false
-  hidden: false
 cover:
   image: "/images/1063-GPT-5-5-출시-왜-이번엔-Codex가-스스로-일한다-고-말할까/img.png"
   relative: false

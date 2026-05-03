@@ -7,7 +7,6 @@ tistory_id: 863
 draft: false
 categories: ["데브 라이브러리"]
 tags: ["Claude"]
-  hidden: false
 cover:
   image: "/images/863-Claude-Code-샌드박스-기능/claude_code_sandboxing.gif"
   relative: false

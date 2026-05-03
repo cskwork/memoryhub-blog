@@ -7,7 +7,6 @@ tistory_id: 771
 draft: false
 categories: ["Life"]
 tags: ["Trends"]
-  hidden: false
 cover:
   image: "/images/771-DBeaver에서도-AI-Chat-가능합니다-다만-에디션-보안-설정이-핵심/img.png"
   relative: false

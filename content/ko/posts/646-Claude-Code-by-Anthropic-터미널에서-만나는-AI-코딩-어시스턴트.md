@@ -7,7 +7,6 @@ tistory_id: 646
 draft: false
 categories: ["데브 언어"]
 tags: ["Vibe Coding"]
-  hidden: false
 cover:
   image: "/images/646-Claude-Code-by-Anthropic-터미널에서-만나는-AI-코딩-어시스턴트/img.png"
   relative: false

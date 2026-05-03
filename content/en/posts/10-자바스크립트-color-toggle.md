@@ -7,7 +7,6 @@ tistory_id: 10
 draft: false
 categories: ["Dev Util"]
 tags: ["JavaScript Play"]
-  hidden: false
 cover:
   image: "/images/10-자바스크립트-color-toggle/colortoggle.jpg"
   relative: false

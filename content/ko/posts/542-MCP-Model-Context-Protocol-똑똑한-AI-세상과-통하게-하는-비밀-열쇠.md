@@ -7,7 +7,6 @@ tistory_id: 542
 draft: false
 categories: ["데브 라이브러리"]
 tags: ["Claude"]
-  hidden: false
 cover:
   image: "/images/542-MCP-Model-Context-Protocol-똑똑한-AI-세상과-통하게-하는-비밀-열쇠/img.png"
   relative: false

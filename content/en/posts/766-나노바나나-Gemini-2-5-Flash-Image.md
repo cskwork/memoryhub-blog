@@ -7,7 +7,6 @@ tistory_id: 766
 draft: false
 categories: ["Dev Concepts"]
 tags: ["Tech News"]
-  hidden: false
 cover:
   image: "/images/766-나노바나나-Gemini-2-5-Flash-Image/img.png"
   relative: false

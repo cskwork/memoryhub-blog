@@ -7,7 +7,6 @@ tistory_id: 66
 draft: false
 categories: ["데브 컨셉"]
 tags: ["정보처리기사"]
-  hidden: false
 cover:
   image: "/images/66-Java-디자인-패턴/img.png"
   relative: false

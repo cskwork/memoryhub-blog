@@ -7,7 +7,6 @@ tistory_id: 734
 draft: false
 categories: ["Dev Library"]
 tags: ["Machine Learning"]
-  hidden: false
 cover:
   image: "/images/734-논문-_Attention-Is-All-You-Need_/img.png"
   relative: false

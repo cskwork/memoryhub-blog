@@ -7,7 +7,6 @@ tistory_id: 68
 draft: false
 categories: ["Dev Concepts"]
 tags: ["Info Processing Cert"]
-  hidden: false
 cover:
   image: "/images/68-컴퓨터-CPU-프로세서-작업-프로세스/img.png"
   relative: false

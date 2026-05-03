@@ -7,7 +7,6 @@ tistory_id: 749
 draft: false
 categories: ["데브 라이브러리"]
 tags: ["Claude"]
-  hidden: false
 cover:
   image: "/images/749-Claude-Code-Output-Styles-Statusline-가이드/img.png"
   relative: false

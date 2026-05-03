@@ -7,7 +7,6 @@ tistory_id: 44
 draft: false
 categories: ["데브 유틸"]
 tags: ["자바스크립트 놀기"]
-  hidden: false
 cover:
   image: "/images/44-JS-TO-DO-LIST/img.jpg"
   relative: false

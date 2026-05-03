@@ -7,7 +7,6 @@ tistory_id: 235
 draft: false
 categories: ["Dev AWS"]
 tags: ["ElasticSearch"]
-  hidden: false
 cover:
   image: "/images/235-ElasticSearch-Introduced/img.png"
   relative: false

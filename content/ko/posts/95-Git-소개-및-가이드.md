@@ -7,7 +7,6 @@ tistory_id: 95
 draft: false
 categories: ["데브 옵스"]
 tags: ["Git"]
-  hidden: false
 cover:
   image: "/images/95-Git-소개-및-가이드/002.png"
   relative: false

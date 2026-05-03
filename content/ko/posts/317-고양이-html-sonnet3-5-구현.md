@@ -7,7 +7,6 @@ tistory_id: 317
 draft: false
 categories: ["데브 라이브러리"]
 tags: ["GPT"]
-  hidden: false
 cover:
   image: "/images/317-고양이-html-sonnet3-5-구현/img.png"
   relative: false

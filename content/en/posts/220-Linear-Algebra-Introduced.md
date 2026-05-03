@@ -7,7 +7,6 @@ tistory_id: 220
 draft: false
 categories: ["Dev Concepts"]
 tags: ["Mathematics"]
-  hidden: false
 cover:
   image: "/images/220-Linear-Algebra-Introduced/img.png"
   relative: false

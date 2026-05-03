@@ -7,7 +7,6 @@ tistory_id: 590
 draft: false
 categories: ["데브 옵스"]
 tags: ["Server Monitoring"]
-  hidden: false
 cover:
   image: "/images/590-Pinpoint-완벽-가이드-대규모-분산-시스템을-위한-API-모니터링-도구/img.png"
   relative: false

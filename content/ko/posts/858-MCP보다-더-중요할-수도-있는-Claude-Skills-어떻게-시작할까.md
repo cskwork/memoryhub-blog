@@ -7,7 +7,6 @@ tistory_id: 858
 draft: false
 categories: ["데브 라이브러리"]
 tags: ["Claude"]
-  hidden: false
 cover:
   image: "/images/858-MCP보다-더-중요할-수도-있는-Claude-Skills-어떻게-시작할까/img.png"
   relative: false

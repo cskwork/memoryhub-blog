@@ -5,7 +5,6 @@ slug: "1022-GPT-5-3-Codex-Spark-AI-코딩의-병목은-지능-이-아니라-속�
 original_url: "https://memoryhub.tistory.com/1022"
 tistory_id: 1022
 draft: false
-  hidden: false
 cover:
   image: "/images/1022-GPT-5-3-Codex-Spark-AI-코딩의-병목은-지능-이-아니라-속도-였다/img.png"
   relative: false

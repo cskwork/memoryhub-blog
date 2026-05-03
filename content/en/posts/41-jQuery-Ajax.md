@@ -7,7 +7,6 @@ tistory_id: 41
 draft: false
 categories: ["Dev Library"]
 tags: ["jQuery"]
-  hidden: false
 cover:
   image: "/images/41-jQuery-Ajax/2.PNG"
   relative: false

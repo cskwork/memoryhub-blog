@@ -5,7 +5,6 @@ slug: "860-Claude-Agent-Skills로-실전-에이전트-구축하기"
 original_url: "https://memoryhub.tistory.com/860"
 tistory_id: 860
 draft: false
-  hidden: false
 cover:
   image: "/images/860-Claude-Agent-Skills로-실전-에이전트-구축하기/img.webp"
   relative: false

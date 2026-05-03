@@ -7,7 +7,6 @@ tistory_id: 12
 draft: false
 categories: ["데브 유틸"]
 tags: ["자바스크립트 놀기"]
-  hidden: false
 cover:
   image: "/images/12-AJAX로-JSON-데이터-가져오기/JsonAjax.jpg"
   relative: false

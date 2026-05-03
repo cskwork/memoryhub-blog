@@ -7,7 +7,6 @@ tistory_id: 77
 draft: false
 categories: ["Dev Framework"]
 tags: ["VueJS"]
-  hidden: false
 cover:
   image: "/images/77-Vue-Beginner-Tutorial-Part-lifecycle-watchers-components/img.png"
   relative: false

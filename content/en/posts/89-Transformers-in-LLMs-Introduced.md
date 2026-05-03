@@ -7,7 +7,6 @@ tistory_id: 89
 draft: false
 categories: ["Dev Library"]
 tags: ["Machine Learning"]
-  hidden: false
 cover:
   image: "/images/89-Transformers-in-LLMs-Introduced/img.png"
   relative: false

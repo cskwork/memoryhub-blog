@@ -7,7 +7,6 @@ tistory_id: 70
 draft: false
 categories: ["Dev Concepts"]
 tags: ["Theory Notes"]
-  hidden: false
 cover:
   image: "/images/70-The-Compilation-Process/img.png"
   relative: false

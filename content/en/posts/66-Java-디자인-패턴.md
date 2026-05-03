@@ -7,7 +7,6 @@ tistory_id: 66
 draft: false
 categories: ["Dev Concepts"]
 tags: ["Info Processing Cert"]
-  hidden: false
 cover:
   image: "/images/66-Java-디자인-패턴/img.png"
   relative: false

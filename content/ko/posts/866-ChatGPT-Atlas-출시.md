@@ -7,7 +7,6 @@ tistory_id: 866
 draft: false
 categories: ["데브 컨셉"]
 tags: ["Tech News"]
-  hidden: false
 cover:
   image: "/images/866-ChatGPT-Atlas-출시/img.png"
   relative: false

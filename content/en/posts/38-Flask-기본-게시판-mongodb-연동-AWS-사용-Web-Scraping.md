@@ -7,7 +7,6 @@ tistory_id: 38
 draft: false
 categories: ["Dev Util"]
 tags: ["Flask Todo List"]
-  hidden: false
 cover:
   image: "/images/38-Flask-기본-게시판-mongodb-연동-AWS-사용-Web-Scraping/img.png"
   relative: false

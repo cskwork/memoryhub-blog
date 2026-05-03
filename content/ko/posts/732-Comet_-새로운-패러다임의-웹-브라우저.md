@@ -7,7 +7,6 @@ tistory_id: 732
 draft: false
 categories: ["데브 컨셉"]
 tags: ["Tech News"]
-  hidden: false
 cover:
   image: "/images/732-Comet_-새로운-패러다임의-웹-브라우저/img.png"
   relative: false

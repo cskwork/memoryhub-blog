@@ -5,7 +5,6 @@ slug: "1014-Pencil-dev-IDE-안에서-디자인하고-바로-코드로-착지하�
 original_url: "https://memoryhub.tistory.com/1014"
 tistory_id: 1014
 draft: false
-  hidden: false
 cover:
   image: "/images/1014-Pencil-dev-IDE-안에서-디자인하고-바로-코드로-착지하는-법/img.png"
   relative: false

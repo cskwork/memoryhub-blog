@@ -7,7 +7,6 @@ tistory_id: 44
 draft: false
 categories: ["Dev Util"]
 tags: ["JavaScript Play"]
-  hidden: false
 cover:
   image: "/images/44-JS-TO-DO-LIST/img.jpg"
   relative: false

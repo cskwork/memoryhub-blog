@@ -15,7 +15,7 @@ from pathlib import Path
 from config import CONTENT_EN, CONTENT_KO
 
 FRONTMATTER_RE = re.compile(r'^---\n(.*?)\n---\n', re.DOTALL)
-COVER_BLOCK_RE = re.compile(r'^cover:\n(?:[ \t]+.*\n)+', re.MULTILINE)
+COVER_BLOCK_RE = re.compile(r'^cover:\n(?:[ \t]+.*(?:\n|$))+', re.MULTILINE)
 IMG_RE = re.compile(r'!\[(?P<alt>[^\]]*)\]\((?P<url>[^)]+?)(?:\s+"[^"]*")?\)')
 
 

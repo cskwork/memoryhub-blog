@@ -7,7 +7,6 @@ tistory_id: 64
 draft: false
 categories: ["데브 언어"]
 tags: ["Javascript"]
-  hidden: false
 cover:
   image: "/images/64-Javascript-Promise/img.png"
   relative: false

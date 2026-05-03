@@ -7,7 +7,6 @@ tistory_id: 733
 draft: false
 categories: ["Dev Library"]
 tags: ["Claude"]
-  hidden: false
 cover:
   image: "/images/733-Claude-Code-실전-가이드_-단계별-활용법/img.jpg"
   relative: false

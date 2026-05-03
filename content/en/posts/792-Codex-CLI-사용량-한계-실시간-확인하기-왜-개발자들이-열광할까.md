@@ -7,7 +7,6 @@ tistory_id: 792
 draft: false
 categories: ["Dev Util"]
 tags: ["Agentic Coding"]
-  hidden: false
 cover:
   image: "/images/792-Codex-CLI-사용량-한계-실시간-확인하기-왜-개발자들이-열광할까/img.png"
   relative: false

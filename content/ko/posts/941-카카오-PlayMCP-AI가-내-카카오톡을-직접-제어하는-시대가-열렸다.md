@@ -7,7 +7,6 @@ tistory_id: 941
 draft: false
 categories: ["데브 라이브러리"]
 tags: ["MCP"]
-  hidden: false
 cover:
   image: "/images/941-카카오-PlayMCP-AI가-내-카카오톡을-직접-제어하는-시대가-열렸다/img.png"
   relative: false

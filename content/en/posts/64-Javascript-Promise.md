@@ -7,7 +7,6 @@ tistory_id: 64
 draft: false
 categories: ["Dev Language"]
 tags: ["Javascript"]
-  hidden: false
 cover:
   image: "/images/64-Javascript-Promise/img.png"
   relative: false

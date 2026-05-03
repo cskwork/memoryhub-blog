@@ -7,7 +7,6 @@ tistory_id: 53
 draft: false
 categories: ["Dev Concepts"]
 tags: ["Info Processing Cert"]
-  hidden: false
 cover:
   image: "/images/53-네트워크-프로토콜_-ARP-ICMP-IGMP-역할/img.png"
   relative: false

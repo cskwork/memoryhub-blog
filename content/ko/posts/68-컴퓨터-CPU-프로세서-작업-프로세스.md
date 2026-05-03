@@ -7,7 +7,6 @@ tistory_id: 68
 draft: false
 categories: ["데브 컨셉"]
 tags: ["정보처리기사"]
-  hidden: false
 cover:
   image: "/images/68-컴퓨터-CPU-프로세서-작업-프로세스/img.png"
   relative: false

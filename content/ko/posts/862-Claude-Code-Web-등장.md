@@ -5,7 +5,6 @@ slug: "862-Claude-Code-Web-등장"
 original_url: "https://memoryhub.tistory.com/862"
 tistory_id: 862
 draft: false
-  hidden: false
 cover:
   image: "/images/862-Claude-Code-Web-등장/img.png"
   relative: false

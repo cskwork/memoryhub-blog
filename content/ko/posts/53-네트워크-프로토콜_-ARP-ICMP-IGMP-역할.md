@@ -7,7 +7,6 @@ tistory_id: 53
 draft: false
 categories: ["데브 컨셉"]
 tags: ["정보처리기사"]
-  hidden: false
 cover:
   image: "/images/53-네트워크-프로토콜_-ARP-ICMP-IGMP-역할/img.png"
   relative: false

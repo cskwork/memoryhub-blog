@@ -5,7 +5,6 @@ slug: "736-Running-a-low-power-home-server-with-domain-access-2025"
 original_url: "https://memoryhub.tistory.com/736"
 tistory_id: 736
 draft: false
-  hidden: false
 cover:
   image: "/images/736-Running-a-low-power-home-server-with-domain-access-2025/img.png"
   relative: false

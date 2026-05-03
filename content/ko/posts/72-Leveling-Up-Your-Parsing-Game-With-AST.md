@@ -5,7 +5,6 @@ slug: "72-Leveling-Up-Your-Parsing-Game-With-AST"
 original_url: "https://memoryhub.tistory.com/72"
 tistory_id: 72
 draft: false
-  hidden: false
 cover:
   image: "/images/72-Leveling-Up-Your-Parsing-Game-With-AST/img.png"
   relative: false

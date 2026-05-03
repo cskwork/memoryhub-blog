@@ -7,7 +7,6 @@ tistory_id: 544
 draft: false
 categories: ["데브 프레임워크"]
 tags: ["Spring Security"]
-  hidden: false
 cover:
   image: "/images/544-Spring-Boot-JWT-Spring-Security-안전한-인증과-파일-업로드-완전-정복/img.png"
   relative: false

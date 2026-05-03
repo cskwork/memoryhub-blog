@@ -7,7 +7,6 @@ tistory_id: 17
 draft: false
 categories: ["데브 유틸"]
 tags: ["설정"]
-  hidden: false
 cover:
   image: "/images/17-구글로-CSS-작업하면-반드시-해야할-것/nocache.PNG"
   relative: false

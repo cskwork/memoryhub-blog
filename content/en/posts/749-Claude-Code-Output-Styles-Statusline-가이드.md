@@ -7,7 +7,6 @@ tistory_id: 749
 draft: false
 categories: ["Dev Library"]
 tags: ["Claude"]
-  hidden: false
 cover:
   image: "/images/749-Claude-Code-Output-Styles-Statusline-가이드/img.png"
   relative: false

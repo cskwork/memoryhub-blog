@@ -5,7 +5,6 @@ slug: "1040-AI를-잘-쓴다는-것의-정체-Anthropic이-9-830개-대화를-�
 original_url: "https://memoryhub.tistory.com/1040"
 tistory_id: 1040
 draft: false
-  hidden: false
 cover:
   image: "/images/1040-AI를-잘-쓴다는-것의-정체-Anthropic이-9-830개-대화를-분석해-발견한-것/img.webp"
   relative: false

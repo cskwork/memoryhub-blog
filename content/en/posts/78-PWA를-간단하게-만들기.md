@@ -6,7 +6,6 @@ original_url: "https://memoryhub.tistory.com/78"
 tistory_id: 78
 draft: false
 categories: ["Dev Util"]
-  hidden: false
 cover:
   image: "/images/78-PWA를-간단하게-만들기/img.png"
   relative: false

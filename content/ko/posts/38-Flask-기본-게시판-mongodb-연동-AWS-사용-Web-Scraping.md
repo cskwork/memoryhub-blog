@@ -7,7 +7,6 @@ tistory_id: 38
 draft: false
 categories: ["데브 유틸"]
 tags: ["Flask활용한 todo리스트 구현"]
-  hidden: false
 cover:
   image: "/images/38-Flask-기본-게시판-mongodb-연동-AWS-사용-Web-Scraping/img.png"
   relative: false

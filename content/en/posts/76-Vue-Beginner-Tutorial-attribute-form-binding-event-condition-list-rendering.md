@@ -7,7 +7,6 @@ tistory_id: 76
 draft: false
 categories: ["Dev Framework"]
 tags: ["VueJS"]
-  hidden: false
 cover:
   image: "/images/76-Vue-Beginner-Tutorial-attribute-form-binding-event-condition-list-rendering/img.png"
   relative: false

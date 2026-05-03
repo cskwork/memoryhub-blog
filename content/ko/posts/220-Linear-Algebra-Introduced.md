@@ -7,7 +7,6 @@ tistory_id: 220
 draft: false
 categories: ["데브 컨셉"]
 tags: ["Mathematics"]
-  hidden: false
 cover:
   image: "/images/220-Linear-Algebra-Introduced/img.png"
   relative: false

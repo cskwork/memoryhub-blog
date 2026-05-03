@@ -5,7 +5,6 @@ slug: "1033-Claude-Sonnet-4-6-Opus급-성능을-1-5-가격에-쓸-수-있게-됐
 original_url: "https://memoryhub.tistory.com/1033"
 tistory_id: 1033
 draft: false
-  hidden: false
 cover:
   image: "/images/1033-Claude-Sonnet-4-6-Opus급-성능을-1-5-가격에-쓸-수-있게-됐다/img.webp"
   relative: false
