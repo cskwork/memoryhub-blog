@@ -1,0 +1,7 @@
+{{- /* Load vis-network and the home graph script only when the home
+       layout is rendered (the graph container exists only there). */ -}}
+{{- if .IsHome }}
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js" defer></script>
+{{- $graphJS := resources.Get "js/graph.js" | resources.Minify | resources.Fingerprint }}
+<script src="{{ $graphJS.RelPermalink }}" integrity="{{ $graphJS.Data.Integrity }}" defer></script>
+{{- end }}

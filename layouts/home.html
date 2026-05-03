@@ -1,0 +1,123 @@
+{{- /* Custom home page: PaperMod home with a wiki-style category nav and
+       an interactive knowledge graph above the post list. The fallback
+       to PaperMod's list.html behavior is preserved for the post grid. */ -}}
+{{- define "main" }}
+
+{{- $lang := .Lang | default "en" -}}
+{{- $graphPath := printf "/memoryhub-blog/data/graph.%s.json" $lang -}}
+
+{{- if and site.Params.homeInfoParams }}
+{{- partial "home_info.html" . }}
+{{- end }}
+
+<section class="wiki-nav">
+  <header class="wiki-nav-header">
+    <h2>{{ if eq $lang "ko" }}주제별 둘러보기{{ else }}Browse by topic{{ end }}</h2>
+    <p class="wiki-nav-sub">
+      {{- if eq $lang "ko" -}}
+      카테고리별로 묶은 글입니다. 카드를 눌러 전체 목록을 보세요.
+      {{- else -}}
+      Posts grouped by category. Click any card to see the full list.
+      {{- end -}}
+    </p>
+  </header>
+
+  <div class="wiki-cards">
+    {{- $cats := site.Taxonomies.categories -}}
+    {{- $sorted := slice -}}
+    {{- range $name, $taxonomy := $cats -}}
+      {{- $sorted = $sorted | append (dict "name" $name "count" (len $taxonomy.Pages) "pages" $taxonomy.Pages) -}}
+    {{- end -}}
+    {{- range first 12 (sort $sorted "count" "desc") }}
+      {{- $catPage := site.GetPage (printf "/categories/%s" .name) -}}
+      <article class="wiki-card">
+        <header>
+          <h3>
+            {{- with $catPage -}}
+              <a href="{{ .Permalink }}">{{ $.name | default .Title }}</a>
+            {{- else -}}
+              {{ .name }}
+            {{- end -}}
+          </h3>
+          <span class="wiki-card-count">{{ .count }}</span>
+        </header>
+        <ul>
+          {{- range first 5 (sort .pages "Date" "desc") }}
+          <li>
+            <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
+            <time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time>
+          </li>
+          {{- end }}
+        </ul>
+      </article>
+    {{- end }}
+  </div>
+</section>
+
+<section class="graph-section">
+  <header class="graph-section-header">
+    <h2>{{ if eq $lang "ko" }}지식 그래프{{ else }}Knowledge graph{{ end }}</h2>
+    <p class="graph-section-sub">
+      {{- if eq $lang "ko" -}}
+      카테고리, 태그, 글의 관계를 시각화한 지도입니다. 노드를 끌어보거나 클릭해 이동하세요.
+      {{- else -}}
+      A map of categories, tags, and posts. Drag nodes around or click to navigate.
+      {{- end -}}
+    </p>
+    <div class="graph-legend">
+      <span class="legend legend-cat">{{ if eq $lang "ko" }}카테고리{{ else }}Category{{ end }}</span>
+      <span class="legend legend-tag">{{ if eq $lang "ko" }}태그{{ else }}Tag{{ end }}</span>
+      <span class="legend legend-post">{{ if eq $lang "ko" }}글{{ else }}Post{{ end }}</span>
+    </div>
+  </header>
+  <div id="graph" data-graph="{{ $graphPath }}"></div>
+  <noscript>
+    <p>{{ if eq $lang "ko" }}그래프는 JavaScript가 필요합니다.{{ else }}The graph requires JavaScript.{{ end }}</p>
+  </noscript>
+</section>
+
+<section class="post-list-section">
+  <header class="post-list-header">
+    <h2>{{ if eq $lang "ko" }}최근 글{{ else }}Latest posts{{ end }}</h2>
+  </header>
+
+  {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections -}}
+  {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" -}}
+  {{- $paginator := .Paginate $pages -}}
+
+  {{- range $index, $page := $paginator.Pages }}
+  <article class="post-entry">
+    {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false -}}
+    {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
+    <header class="entry-header">
+      <h2 class="entry-hint-parent">{{ .Title }}</h2>
+    </header>
+    {{- if (ne (.Param "hideSummary") true) }}
+    <div class="entry-content">
+      <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+    </div>
+    {{- end }}
+    {{- if not (.Param "hideMeta") }}
+    <footer class="entry-footer">
+      {{- partial "post_meta.html" . -}}
+    </footer>
+    {{- end }}
+    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  </article>
+  {{- end }}
+
+  {{- if gt $paginator.TotalPages 1 }}
+  <footer class="page-footer">
+    <nav class="pagination">
+      {{- if $paginator.HasPrev }}
+      <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">«&nbsp;{{ i18n "prev_page" }}&nbsp;{{ if (.Param "ShowPageNums") }}{{ sub $paginator.PageNumber 1 }}/{{ $paginator.TotalPages }}{{ end }}</a>
+      {{- end }}
+      {{- if $paginator.HasNext }}
+      <a class="next" href="{{ $paginator.Next.URL | absURL }}">{{ i18n "next_page" }}&nbsp;{{ if (.Param "ShowPageNums") }}{{ add 1 $paginator.PageNumber }}/{{ $paginator.TotalPages }}{{ end }}&nbsp;»</a>
+      {{- end }}
+    </nav>
+  </footer>
+  {{- end }}
+</section>
+
+{{- end }}{{/* end main */}}
