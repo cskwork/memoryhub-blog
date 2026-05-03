@@ -1,0 +1,59 @@
+{
+  "total_ko": 629,
+  "already_translated": 603,
+  "remaining": 26,
+  "batch_size": 6,
+  "batches": [
+    {
+      "id": 0,
+      "files": [
+        "56-Python-CheatSheet.md",
+        "562-Backend개발-표준-가이드-Spring-Boot-3-MySQL-MyBatis-기반.md",
+        "563-AWS-DocumentDB-MongoDB-호환-완전-관리형-데이터베이스.md",
+        "565-Hugging-Face-모델-Ollama-내-컴퓨터에서-LLM-실행-완전-정복.md",
+        "57-Java-CheatSheet.md",
+        "577-IntelliJ-플러그인-업데이트-문제-해결하기-AccessDeniedException-완전-정복.md"
+      ]
+    },
+    {
+      "id": 1,
+      "files": [
+        "578-당산-영등포-근처-대형-카페-추천.md",
+        "579-윈도우-한컴-입력기-제거하기-더-깔끔한-타이핑-환경-만들기.md",
+        "58-Javascript-Cheatsheet.md",
+        "59-Bash-CheatSheet.md",
+        "590-Pinpoint-완벽-가이드-대규모-분산-시스템을-위한-API-모니터링-도구.md",
+        "592-Taskmaster-AI-개발과-프로젝트-관리를-위한-AI-작업-관리-시스템.md"
+      ]
+    },
+    {
+      "id": 2,
+      "files": [
+        "598-Desktop-Commander-MCP-데스크톱-자동화의-새로운-패러다임.md",
+        "865-Claude-Agent-SDK-Production-Guide-for-Building-Valuable-AI-Agents.md",
+        "868-Making-Payment-Integration-Easier-with-AI-Building-Toss-Payments-MCP-Server.md",
+        "87-Spring-Batch-Introduced.md",
+        "871-Architecting-an-Intuitive-and-Flexible-RAG-System.md",
+        "872-Building-Agents-with-the-Claude-Agent-SDK.md"
+      ]
+    },
+    {
+      "id": 3,
+      "files": [
+        "873-Multi-Agent-AI-Explorer.md",
+        "874-Claude-Agent-SDK로-프로덕션-수준의-에이전트-구축하기.md",
+        "875-제미나이-활용한-프로토타입-앱-POC.md",
+        "876-IP-서브넷-계산-192-169-35-10에서-브로드캐스트-가능한-범위는.md",
+        "877-Spring-Boot-WireMock-테스팅-외부-API-의존성-제거하는-진짜-방법.md",
+        "88-Spring-Batch-소개.md"
+      ]
+    },
+    {
+      "id": 4,
+      "files": [
+        "885-파이썬-문자열-자르기-완벽-정리.md",
+        "886-kubectl-명령어-실무에서-이것만-알면-90-해결됩니다.md"
+      ]
+    }
+  ]
+}

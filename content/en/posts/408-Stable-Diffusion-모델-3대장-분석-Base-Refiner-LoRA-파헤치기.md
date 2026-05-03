@@ -1,0 +1,214 @@
+---
+title: "Stable Diffusion: Analyzing the Big Three Models - Base, Refiner, LoRA"
+date: 2024-11-23T23:51:53+09:00
+slug: "408-Stable-Diffusion-모델-3대장-분석-Base-Refiner-LoRA-파헤치기"
+original_url: "https://memoryhub.tistory.com/408"
+tistory_id: 408
+draft: false
+---
+
+```
+                    +-----------------+
+                    |      BASE       |
+                    |      MODEL      |
+                    +--------+--------+
+                             |
+                             v
++------------+      +-----------------+      +----------+
+|    LoRA    |----->|   Image Gen     |----->| Refiner  |
+|  (Style)   |      |   (Denoising)   |      | (Detail) |
++------------+      +-----------------+      +----------+
+                             |
+                             v
+                    +-----------------+
+                    |  FINAL  IMAGE  |
+                    +-----------------+
+```
+
+When generating images with Stable Diffusion, have you ever had this experience? "I used the same prompt, but why is today's image different from yesterday's?" "I switched the model and the art style is good, but the character's face is falling apart..." I also got lost in the barrage of terms like checkpoints, LoRA, VAE, etc. at first.
+
+This article is prepared for those of you. It clearly distinguishes the roles of Base Model, Refiner, and LoRA, the core of Stable Diffusion image generation, and tells you when and how to use them to get the best results.
+
+⚡ **TL;DR**
+
+- **Base Model (Checkpoint):** The basic model that creates the skeleton of an image. The overall style and quality of the image are determined by which Base you use.
+- **Refiner & LoRA:** 'Upgrade parts' added on top of the Base Model. Refiner adds detail, LoRA adds a specific style or character.
+
+---
+
+### Table of Contents
+
+1. Background: Why are there so many model types?
+2. Core Concepts: Completely Master Base, Refiner, LoRA
+3. Practical Applications: When and how should you use them?
+4. At a Glance Comparison: Best Practices
+5. Conclusion & References
+
+---
+
+## 1. Background: Why are there so many model types?
+
+Stable Diffusion is a powerful open-source AI model that converts text prompts into images[1]. The core principle is simple. In an image that is completely noise, we gradually remove the noise to 'reveal' the image we want[2][3].
+
+At this point, a chunk of data that has learned what kind of noise to remove in what style is called a **model**. As users fine-tuned existing models to better draw specific art styles (animation, live-action, etc.), specific characters, costumes, etc., numerous derivative models have been created[4].
+
+✅ **Related Terminology Clarification**
+
+- **Checkpoint:** A file (.ckpt, .safetensors) that stores a model's learned weights, typically referring to a Base Model[1].
+- **Latent Space:** Rather than dealing with images in high-dimensional pixel space, we handle them in low-dimensional space with only features compressed. Stable Diffusion performs denoising operations in this latent space, improving memory efficiency[5][3].
+- **U-Net:** The core neural network architecture of Stable Diffusion responsible for noise prediction[6]. LoRA works by modifying part of this U-Net[6].
+- **Cross-Attention:** An important part that connects the meaning of text prompts with the visual elements of images[7][8]. LoRA primarily fine-tunes this part[7][2].
+
+## 2. Core Concepts: Completely Master Base, Refiner, LoRA
+
+### **Base Model (Foundation Model, Checkpoint)**
+
+> **The 'skeleton' responsible for the beginning and end of everything in image generation**
+
+The base model is the most fundamental model for image generation[1]. The overall art style, quality, and subject representation ability of the generated image are determined by which base model you choose[4][1]. Official base models such as `v1.4` and `SDXL` released by Stability AI are representative, and developers around the world have created and shared thousands of custom models specialized for specific styles based on them[4].
+
+- **Role:** Interprets text prompts to set the overall composition and style of the image[2].
+- **Characteristics:** The capacity ranges from 2GB to 7GB, which is the result of learning vast amounts of data[7][6]. There are many models specialized in specific genres such as photo-realistic, semi-realistic, and animation[1].
+
+### **Refiner**
+
+> **The 'finishing expert' that elevates the details of an image**
+
+Refiner, as its name suggests, 'refines' and 'improves' images[9]. Primarily used with SDXL models, it comes into play in the final 20% stage after the base model has completed about 80% of the overall composition of the image[10][9]. It operates in a state where most noise has been removed, complementing fine details such as image texture, eye expression, and wrinkles to increase completeness[10][9][3].
+
+- **Role:** Enhances detailed descriptions and improves quality of images generated by the base model[9][3].
+- **Operating Principle:** Intervenes in the final noise removal stage (low-noise steps) of the image generation process to refine the image more precisely[10].
+- **Caution:** The effect may seem minimal, and additional time may be required during the Refiner application process[9].
+
+### **LoRA (Low-Rank Adaptation)**
+
+> **The 'style filter' that's light and flexible - adding only the style you want!**
+
+LoRA is a technique that fine-tunes a model by attaching a small neural network to part of a model (mainly the Cross-Attention layer) instead of retraining the entire giant base model[7][8]. Thanks to this, you can 'inject' the appearance of a specific character, clothing style, art style, etc., while leaving the original model intact[6][11].
+
+- **Role:** Acts like a plugin that adds specific styles, characters, costumes, poses, etc., to the base model[11].
+- **Advantages:**
+  - **Small File Size:** At 2~200MB, it's 1/10 to 1/100 the size of checkpoint models, making it easy to collect and use[7].
+  - **Flexibility:** As a 'plug and play' method that doesn't damage the base model, you can combine multiple LoRAs or adjust weights for fine-grained application[6].
+- **Analogy:** LoRA is like a 'filter' in a camera app. It's similar to applying a filter to the original photo (the result of the base model) to create a unique atmosphere[6].
+
+## 3. Practical Applications: When and How to Use Them
+
+In the actual image generation process, these three components are used as follows.
+
+**① Basic Image Generation (Base Model)**
+
+This is the start of all work. First, choose a base model (checkpoint) that matches the style of the image you want to create.
+
+**② Apply a Specific Style (LoRA)**
+
+When you want to draw a specific character or costume that is difficult to express with the base model alone, use LoRA. Add it to the prompt field in `` format[11].
+
+```
+# Example of loading LoRA weights in diffusers library
+# First, load the basic pipeline (Base Model).
+pipe = StableDiffusionPipeline.from_pretrained("runwayml/stable-diffusion-v1-5", torch_dtype=torch.float16)
+
+# Next, load the LoRA weights to the pipe's U-Net.
+# Just this one line applies LoRA.
+pipe.unet.load_attn_procs("path/to/your/lora/weights")
+pipe.to("cuda")
+
+# Now when you run the prompt, an image with the LoRA style applied is generated.
+image = pipe("A pokemon with green eyes", num_inference_steps=25).images[0]
+```
+
+**③ Detail Enhancement (Refiner)**
+
+If you used the SDXL base model, you can apply Refiner additionally to take the image quality one step further. In WebUI, simply specify the model in the Refiner selection menu[9].
+
+```
+# Example of Base + Refiner ensemble pipeline in diffusers library
+
+# n_steps: Total number of noise removal steps
+# high_noise_frac: The percentage of the total steps that the Base model handles (high-noise section)
+n_steps = 40
+high_noise_frac = 0.8  # Base model handles 80%, Refiner handles 20%
+
+# Run Base model first
+image = base(
+    prompt=prompt,
+    num_inference_steps=n_steps,
+    denoising_end=high_noise_frac,  # Remove noise only up to 0.8
+    output_type="latent",
+).images
+
+# Receive the result of Base and have Refiner handle the remaining section
+image = refiner(
+    prompt=prompt,
+    num_inference_steps=n_steps,
+    denoising_start=high_noise_frac,  # Start from 0.8
+    image=image,
+).images[0]
+```
+
+## 4. At a Glance Comparison: Best Practices
+
+| Component | Role | Advantages | Cautions |
+| --- | --- | --- | --- |
+| **Base Model** | The core model that determines the skeleton and overall style of the image[1][2] | Can stably generate images of desired art styles | The file size is very large (2~7GB), and there may be limitations in expressing certain details[7][12] |
+| **Refiner** | A post-processing model that enhances the details and clarity of generated images[9][3] | Improves the completeness of images | Must be used with specific models like SDXL, and changes may be minimal or processing time may increase[9] |
+| **LoRA** | A lightweight additional model that injects a specific concept (character, costume, art style)[7][11] | The file is small (2~200MB), flexible, and can be combined in multiple ways[7] | If the weight is set too high, the image may break, and compatibility with the base model is important[12] |
+
+## 5. Conclusion
+
+Now is the difference between Base Model, Refiner, and LoRA clear?
+
+- Draw the big picture of the image you want with **Base Model**,
+- Add the 'color' of the character or style you want with **LoRA**,
+- Finish with **Refiner** to add the 'polish' of detail.
+
+When applying to actual projects, it's a good idea to first test various base models to find your 'main model' that fits your style, and then gradually add the necessary LoRAs on top to create your own recipe. Once you master these three, you too can become a 'creator' of Stable Diffusion[11].
+
+We hope this article has been helpful to your creative activities! If it was, please give us a ❤️ heart and a comment!
+
+---
+
+**References**
+
+- Hugging Face Docs: Stable Diffusion XL
+- Stable Diffusion - Everything About Checkpoint Models (internetmap.kr)
+- Stable Diffusion - How to Use LoRA Models (internetmap.kr)
+
+[1] <https://aitoolhub.tistory.com/37>  
+[2] <https://velog.io/@king_of_potato/Stable-Diffusion-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0>  
+[3] <https://mvje.tistory.com/257>  
+[4] <https://www.internetmap.kr/entry/Stable-Diffusion-Everything-about-models>  
+[5] <https://ffighting.net/deep-learning-paper-review/diffusion-model/stable-diffusion/>  
+[6] <https://generative-ai-everything.tistory.com/entry/Stable-Diffusion-LoRA-%EA%B8%B0%EB%B3%B8-%EA%B0%80%EC%9D%B4%EB%93%9C1>  
+[7] <https://www.internetmap.kr/entry/How-to-LoRA-Model>  
+[8] <https://dhpark1212.tistory.com/entry/LoRA-for-Efficient-Stable-Diffusion-Fine-Tuning>  
+[9] <https://flatsun2.com/17740/>  
+[10] <https://huggingface.co/docs/diffusers/v0.26.2/en/api/pipelines/stable_diffusion/stable_diffusion_xl>  
+[11] <https://softwind.tistory.com/entry/stable-diffusion-Lora-%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC>  
+[12] <https://richdaddy101.com/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%83%9D%EC%84%B1-ai-2024%EB%85%84-%EC%B5%9C%EC%8B%A0-15%EA%B0%80%EC%A7%80-stable-diffusion-%EC%B6%94%EC%B2%9C-%EB%AA%A8%EB%8D%B8/>  
+[13] <https://ai-designer-allan.tistory.com/entry/SD-15-refiner-%EB%AA%A8%EB%8D%B8-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95>  
+[14] <https://www.youtube.com/watch?v=afsJPn1ZdXc&vl=ko>  
+[15] <https://marcus-story.tistory.com/55>  
+[16] <https://fastcampus.co.kr/media_data_sdxl>  
+[17] <https://www.youtube.com/watch?v=1uyYkyGy0hY>  
+[18] <https://leeporter.tistory.com/entry/Stable-Diffusion%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%94%94%ED%93%A8%EC%A0%84-WebUI-06-Lora-%EC%82%AC%EC%9A%A9>  
+[19] <https://ai-designer-allan.tistory.com/entry/%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%94%94%ED%93%A8%EC%A0%84-Checkpoint-lora-vae-embedding-%EC%99%84%EB%B2%BD%EC%A0%95%EB%A6%AC>  
+[20] <https://www.toolify.ai/ko/ai-news-kr/lora-stable-diffusion-ai-3495603>  
+[21] <https://www.youtube.com/watch?v=e7r_xT-sM4o>  
+[22] <https://www.youtube.com/watch?v=uO5kX4-hc30>  
+[23] <https://www.reddit.com/r/StableDiffusion/comments/15amidh/do_we_really_need_the_refiner_for_sdxl/?tl=ko>  
+[24] <https://hipposdata.tistory.com/85>  
+[25] <https://ffighting.net/deep-learning-paper-review/diffusion-model/diffusion-model-basic/>  
+[26] <https://velog.io/@luis_j/17%EC%9D%BC%EC%B0%A8-%EA%B0%95%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%83%9D%EC%84%B1-AI-Stable-Diffusion>  
+[27] <https://pitas.tistory.com/9>  
+[28] <https://aws.amazon.com/ko/blogs/tech/finetune-text2image-amazon-sagemaker-jumpstart-stable-diffusion/>  
+[29] <https://wikidocs.net/233899>  
+[30] <https://www.internetmap.kr/entry/StableDiffusion-The-Basics-of-ComfyUI-3>  
+[31] <https://ai.shop2world.net/stable-diffusion-%EC%98%B5%EC%85%98-%EC%84%A4%EB%AA%85-%EB%B0%8F-txt2img-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-1/>  
+[32] <https://arca.live/b/aiart/88328675>  
+[33] <http://blog.rksna.com/index.php?route=blog%2Fpost&post_id=14>  
+[34] <https://blog.naver.com/trend-checker/223176207007>  
+[35] <https://selgyun.tistory.com/entry/Stable-Diffusion-%EB%A1%9C%EB%9D%BCLora-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B2%95-SD-5>  
+[36] <https://contentstailor.com/entry/LoRA%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-Stable-Diffusion-Fine-Tuning>  
+[37] <https://kimjy99.github.io/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0/lcm-lora/>

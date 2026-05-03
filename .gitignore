@@ -1,0 +1,29 @@
+public/
+resources/
+.hugo_build.lock
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Migration intermediates kept under data/, but cache files excluded
+data/.cache/
+scripts/.cache/
+
+# Secrets
+.env
+.env.local
+
+# Stray subagent artifacts
+batch_*_translation_report.json

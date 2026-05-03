@@ -1,0 +1,6 @@
+{{- /* Extra head content for Memory Hub */ -}}
+{{- if .IsPage -}}
+{{- with .Params.original_url -}}
+<link rel="canonical" href="{{ . }}" />
+{{- end -}}
+{{- end -}}

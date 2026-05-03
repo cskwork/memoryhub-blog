@@ -1,0 +1,131 @@
+baseURL = "https://cskwork.github.io/"
+title = "Memory Hub"
+theme = "PaperMod"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+hasCJKLanguage = true
+
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = false
+buildDrafts = false
+buildFuture = false
+
+pagination.pagerSize = 15
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+env = "production"
+description = "Memory Hub — engineering, AI, devops, learning notes"
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+TocOpen = false
+ShowLanguageSwitch = true
+
+[params.profileMode]
+enabled = false
+
+[params.homeInfoParams]
+Title = "Memory Hub"
+Content = "Engineering, AI, DevOps, and learning notes — translated from the original Korean blog."
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 0
+keys = ["title", "permalink", "summary", "content"]
+
+[markup.highlight]
+codeFences = true
+guessSyntax = true
+lineNos = false
+style = "github-dark"
+noClasses = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-us"
+    weight = 1
+    title = "Memory Hub"
+    [languages.en.params]
+      description = "Engineering, AI, DevOps, learning notes"
+    [[languages.en.menu.main]]
+      identifier = "posts"
+      name = "Posts"
+      url = "/posts/"
+      weight = 10
+    [[languages.en.menu.main]]
+      identifier = "categories"
+      name = "Categories"
+      url = "/categories/"
+      weight = 20
+    [[languages.en.menu.main]]
+      identifier = "tags"
+      name = "Tags"
+      url = "/tags/"
+      weight = 30
+    [[languages.en.menu.main]]
+      identifier = "search"
+      name = "Search"
+      url = "/search/"
+      weight = 40
+    [[languages.en.menu.main]]
+      identifier = "archives"
+      name = "Archives"
+      url = "/archives/"
+      weight = 50
+
+  [languages.ko]
+    languageName = "한국어"
+    languageCode = "ko-kr"
+    weight = 2
+    title = "메모리 허브"
+    [languages.ko.params]
+      description = "엔지니어링, AI, 데브옵스, 학습 노트"
+    [[languages.ko.menu.main]]
+      identifier = "posts"
+      name = "글"
+      url = "/ko/posts/"
+      weight = 10
+    [[languages.ko.menu.main]]
+      identifier = "categories"
+      name = "카테고리"
+      url = "/ko/categories/"
+      weight = 20
+    [[languages.ko.menu.main]]
+      identifier = "tags"
+      name = "태그"
+      url = "/ko/tags/"
+      weight = 30
+    [[languages.ko.menu.main]]
+      identifier = "search"
+      name = "검색"
+      url = "/ko/search/"
+      weight = 40
+    [[languages.ko.menu.main]]
+      identifier = "archives"
+      name = "아카이브"
+      url = "/ko/archives/"
+      weight = 50
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[permalinks]
+  posts = "/posts/:slug/"
