@@ -1,0 +1,5 @@
+{{- /* Tolerant link render hook.
+       Some translated posts have Korean particles attached to URLs (e.g.
+       http://host.docker.internal:11434를) which urls.Parse rejects. We
+       silently render the raw link text instead of failing the build. */ -}}
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} rel="noopener" target="_blank"{{ end }}>{{ .Text | safeHTML }}</a>

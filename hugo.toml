@@ -60,6 +60,7 @@ unsafe = true
   [languages.en]
     languageName = "English"
     languageCode = "en-us"
+    contentDir = "content/en"
     weight = 1
     title = "Memory Hub"
     [languages.en.params]
@@ -93,6 +94,7 @@ unsafe = true
   [languages.ko]
     languageName = "한국어"
     languageCode = "ko-kr"
+    contentDir = "content/ko"
     weight = 2
     title = "메모리 허브"
     [languages.ko.params]
