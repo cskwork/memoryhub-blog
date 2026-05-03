@@ -7,7 +7,7 @@ tistory_id: 78
 draft: false
 categories: ["Dev Util"]
 cover:
-  image: "/images/78-PWA를-간단하게-만들기/img.png"
+  image: "images/78-PWA%EB%A5%BC-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0/img.png"
   relative: false
   hidden: false
 ---
@@ -188,7 +188,7 @@ window.onload = () => {
 
 ### 🔄 Service Worker Operation Stages
 
-![](/images/78-PWA를-간단하게-만들기/img.png)
+![](/images/78-PWA%EB%A5%BC-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0/img.png)
 
 ### References
 

@@ -8,7 +8,7 @@ draft: false
 categories: ["데브 옵스"]
 tags: ["Kubernetes"]
 cover:
-  image: "/images/547-Kubernetes-인그레스/Editor _ Mermaid Chart-2025-04-13-030202.png"
+  image: "images/547-Kubernetes-%EC%9D%B8%EA%B7%B8%EB%A0%88%EC%8A%A4/Editor%20_%20Mermaid%20Chart-2025-04-13-030202.png"
   relative: false
   hidden: false
 ---
@@ -115,7 +115,7 @@ helm install ingress-nginx ingress-nginx/ingress-nginx \
 
 **정리하면 이런 흐름이에요:**
 
-![](/images/547-Kubernetes-인그레스/Editor _ Mermaid Chart-2025-04-13-030202.png)
+![](/images/547-Kubernetes-%EC%9D%B8%EA%B7%B8%EB%A0%88%EC%8A%A4/Editor%20_%20Mermaid%20Chart-2025-04-13-030202.png)
 
 **표로 비교 정리:**
 

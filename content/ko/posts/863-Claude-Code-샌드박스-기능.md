@@ -8,12 +8,12 @@ draft: false
 categories: ["데브 라이브러리"]
 tags: ["Claude"]
 cover:
-  image: "/images/863-Claude-Code-샌드박스-기능/claude_code_sandboxing.gif"
+  image: "images/863-Claude-Code-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4-%EA%B8%B0%EB%8A%A5/claude_code_sandboxing.gif"
   relative: false
   hidden: false
 ---
 
-![](/images/863-Claude-Code-샌드박스-기능/claude_code_sandboxing.gif)
+![](/images/863-Claude-Code-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4-%EA%B8%B0%EB%8A%A5/claude_code_sandboxing.gif)
 
 클로드 코드의 새로운 샌드박싱 기능, bash 도구, 그리고 웹 기반 클로드 코드는 파일시스템과 네트워크 격리라는 두 가지 경계를 통해 권한 요청을 줄이고 사용자 안전성을 높입니다.
 
@@ -63,7 +63,7 @@ Linux bubblewrap이나 MacOS seatbelt 같은 OS 수준 프리미티브를 기반
 
 두 구성 요소 모두 설정 가능합니다. 특정 파일 경로나 도메인을 쉽게 허용하거나 차단할 수 있습니다.
 
-![](/images/863-Claude-Code-샌드박스-기능/img.webp)
+![](/images/863-Claude-Code-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4-%EA%B8%B0%EB%8A%A5/img.webp)
 
 클로드 코드의 샌드박싱 아키텍처는 파일시스템과 네트워크 제어로 코드 실행을 격리하여, 안전한 작업은 자동으로 허용하고 악의적인 작업은 차단하며 필요한 경우에만 권한을 요청합니다.
 
@@ -79,7 +79,7 @@ Linux bubblewrap이나 MacOS seatbelt 같은 OS 수준 프리미티브를 기반
 
 웹 기반 클로드 코드는 모든 git 상호작용을 투명하게 처리하는 커스텀 프록시 서비스를 사용합니다. 샌드박스 내부에서 git 클라이언트는 커스텀 제작된 범위 지정 자격 증명으로 이 서비스에 인증합니다. 프록시는 이 자격 증명과 git 상호작용의 내용(예: 설정된 브랜치로만 푸시하는지 확인)을 검증한 다음, GitHub에 요청을 보내기 전에 올바른 인증 토큰을 첨부합니다.
 
-![](/images/863-Claude-Code-샌드박스-기능/img_1.webp)
+![](/images/863-Claude-Code-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4-%EA%B8%B0%EB%8A%A5/img_1.webp)
 
 클로드 코드의 Git 통합은 인증 토큰, 브랜치 이름, 저장소 대상을 검증하는 보안 프록시를 통해 명령을 라우팅하여, 무단 푸시를 방지하면서 안전한 버전 관리 워크플로를 제공합니다.
 

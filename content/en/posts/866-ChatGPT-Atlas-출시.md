@@ -8,12 +8,12 @@ draft: false
 categories: ["Dev Concepts"]
 tags: ["Tech News"]
 cover:
-  image: "/images/866-ChatGPT-Atlas-출시/img.png"
+  image: "images/866-ChatGPT-Atlas-%EC%B6%9C%EC%8B%9C/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/866-ChatGPT-Atlas-출시/img.png)
+![](/images/866-ChatGPT-Atlas-%EC%B6%9C%EC%8B%9C/img.png)
 
 Today we're introducing **ChatGPT Atlas**, a new web browser built on ChatGPT at its core.
 

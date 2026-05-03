@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1019"
 tistory_id: 1019
 draft: false
 cover:
-  image: "/images/1019-MiniMax-M2-5-108일-만에-Claude-Opus급-코딩-AI를-1-10-가격에-내놓다/img.png"
+  image: "images/1019-MiniMax-M2-5-108%EC%9D%BC-%EB%A7%8C%EC%97%90-Claude-Opus%EA%B8%89-%EC%BD%94%EB%94%A9-AI%EB%A5%BC-1-10-%EA%B0%80%EA%B2%A9%EC%97%90-%EB%82%B4%EB%86%93%EB%8B%A4/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/1019-MiniMax-M2-5-108일-만에-Claude-Opus급-코딩-AI를-1-10-가격에-내놓다/img.png)
+![](/images/1019-MiniMax-M2-5-108%EC%9D%BC-%EB%A7%8C%EC%97%90-Claude-Opus%EA%B8%89-%EC%BD%94%EB%94%A9-AI%EB%A5%BC-1-10-%EA%B0%80%EA%B2%A9%EC%97%90-%EB%82%B4%EB%86%93%EB%8B%A4/img.png)
 
 Using frontier AI models means accepting expensive API costs. Most developers have accepted this as given.
 

@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev Concepts"]
 tags: ["Info Processing Cert"]
 cover:
-  image: "/images/53-네트워크-프로토콜_-ARP-ICMP-IGMP-역할/img.png"
+  image: "images/53-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C_-ARP-ICMP-IGMP-%EC%97%AD%ED%95%A0/img.png"
   relative: false
   hidden: false
 ---
@@ -20,16 +20,16 @@ cover:
     1. Used when two IP devices on the same network segment communicate
     2. Uses lower layer protocols and addressing methods defined according to the specific medium used by the network
 
-  ![](/images/53-네트워크-프로토콜_-ARP-ICMP-IGMP-역할/img.png)
+  ![](/images/53-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C_-ARP-ICMP-IGMP-%EC%97%AD%ED%95%A0/img.png)
 
   Example
   - Communication in Ethernet environment:
     1. When IP system communicates, the local device first confirms the hardware address of other devices connected to the network it belongs to
     2. ARP provides service to convert IP addresses to corresponding hardware (MAC) addresses
 
-![](/images/53-네트워크-프로토콜_-ARP-ICMP-IGMP-역할/img_1.png)
+![](/images/53-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C_-ARP-ICMP-IGMP-%EC%97%AD%ED%95%A0/img_1.png)
 
-![](/images/53-네트워크-프로토콜_-ARP-ICMP-IGMP-역할/img_2.png)
+![](/images/53-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C_-ARP-ICMP-IGMP-%EC%97%AD%ED%95%A0/img_2.png)
 
 ## ICMP
 
@@ -44,9 +44,9 @@ cover:
   - Destination system responds with ICMP Echo Reply message
   - Measures response time to check network connection status
 
-![](/images/53-네트워크-프로토콜_-ARP-ICMP-IGMP-역할/img_3.png)
+![](/images/53-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C_-ARP-ICMP-IGMP-%EC%97%AD%ED%95%A0/img_3.png)
 
-![](/images/53-네트워크-프로토콜_-ARP-ICMP-IGMP-역할/img_4.png)
+![](/images/53-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C_-ARP-ICMP-IGMP-%EC%97%AD%ED%95%A0/img_4.png)
 
 The ping tool transmits ICMP Echo Request messages and measures the time to receive ICMP Echo Reply messages from the destination system to check network connection.
 
@@ -57,7 +57,7 @@ tracert 59.5.67.254
 
 ICMP Message Format
 
-![](/images/53-네트워크-프로토콜_-ARP-ICMP-IGMP-역할/img_5.png)
+![](/images/53-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C_-ARP-ICMP-IGMP-%EC%97%AD%ED%95%A0/img_5.png)
 
 ## IGMP
 
@@ -73,7 +73,7 @@ ICMP Message Format
   - Enables efficient group communication avoiding broadcast limitations
   - Useful for applications that need to send data simultaneously from one host to multiple destinations
 
-![](/images/53-네트워크-프로토콜_-ARP-ICMP-IGMP-역할/img_6.png)
+![](/images/53-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C_-ARP-ICMP-IGMP-%EC%97%AD%ED%95%A0/img_6.png)
 
 ## Source
 

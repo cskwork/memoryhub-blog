@@ -8,12 +8,12 @@ draft: false
 categories: ["데브 라이브러리"]
 tags: ["MCP"]
 cover:
-  image: "/images/941-카카오-PlayMCP-AI가-내-카카오톡을-직접-제어하는-시대가-열렸다/img.png"
+  image: "images/941-%EC%B9%B4%EC%B9%B4%EC%98%A4-PlayMCP-AI%EA%B0%80-%EB%82%B4-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%EC%9D%84-%EC%A7%81%EC%A0%91-%EC%A0%9C%EC%96%B4%ED%95%98%EB%8A%94-%EC%8B%9C%EB%8C%80%EA%B0%80-%EC%97%B4%EB%A0%B8%EB%8B%A4/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/941-카카오-PlayMCP-AI가-내-카카오톡을-직접-제어하는-시대가-열렸다/img.png)
+![](/images/941-%EC%B9%B4%EC%B9%B4%EC%98%A4-PlayMCP-AI%EA%B0%80-%EB%82%B4-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%EC%9D%84-%EC%A7%81%EC%A0%91-%EC%A0%9C%EC%96%B4%ED%95%98%EB%8A%94-%EC%8B%9C%EB%8C%80%EA%B0%80-%EC%97%B4%EB%A0%B8%EB%8B%A4/img.png)
 
 "AI한테 오늘 일정 알려달라고 했더니 캘린더 앱을 직접 열어보라고 한다." 이런 경험, 누구나 한 번쯤 있을 것이다. AI가 아무리 똑똑해도 내 캘린더, 내 메시지, 내 음악 앱에 접근할 수 없다면 진정한 '비서'가 될 수 없다. **카카오의 PlayMCP는 바로 이 벽을 허무는 국내 최초의 시도다.**
 

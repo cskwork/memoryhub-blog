@@ -8,12 +8,12 @@ draft: false
 categories: ["데브 라이브러리"]
 tags: ["Claude"]
 cover:
-  image: "/images/858-MCP보다-더-중요할-수도-있는-Claude-Skills-어떻게-시작할까/img.png"
+  image: "images/858-MCP%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%A4%91%EC%9A%94%ED%95%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8A%94-Claude-Skills-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%A0%EA%B9%8C/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/858-MCP보다-더-중요할-수도-있는-Claude-Skills-어떻게-시작할까/img.png)
+![](/images/858-MCP%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%A4%91%EC%9A%94%ED%95%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8A%94-Claude-Skills-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%A0%EA%B9%8C/img.png)
 
 Claude Skills가 출시됐다는 소식을 듣고 바로 공식 문서를 찾아봤어요. 읽고 나서 든 생각? "좋아 보이는데... 근데 실제로 어떻게 쓰라는 거지?"
 

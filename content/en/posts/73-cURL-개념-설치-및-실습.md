@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev Ops"]
 tags: ["Curl"]
 cover:
-  image: "/images/73-cURL-개념-설치-및-실습/img.png"
+  image: "images/73-cURL-%EA%B0%9C%EB%85%90-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%EC%8A%B5/img.png"
   relative: false
   hidden: false
 ---
@@ -74,7 +74,7 @@ curl --data arbitrary http://example.com
 curl --no-verbose http://example.com
 ```
 
-![](/images/73-cURL-개념-설치-및-실습/img.png)
+![](/images/73-cURL-%EA%B0%9C%EB%85%90-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%EC%8A%B5/img.png)
 
 ### Sending Arguments
 
@@ -93,7 +93,7 @@ curl sftp://example.com/ -u user
 curl -u john:RHvxC6wUA -O scp://ssh.example.com/file.tar.gz
 ```
 
-![](/images/73-cURL-개념-설치-및-실습/img_1.png)
+![](/images/73-cURL-%EA%B0%9C%EB%85%90-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%EC%8A%B5/img_1.png)
 
 ## Reference
 

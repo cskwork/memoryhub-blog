@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1063"
 tistory_id: 1063
 draft: false
 cover:
-  image: "/images/1063-GPT-5-5-출시-왜-이번엔-Codex가-스스로-일한다-고-말할까/img.png"
+  image: "images/1063-GPT-5-5-%EC%B6%9C%EC%8B%9C-%EC%99%9C-%EC%9D%B4%EB%B2%88%EC%97%94-Codex%EA%B0%80-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EC%9D%BC%ED%95%9C%EB%8B%A4-%EA%B3%A0-%EB%A7%90%ED%95%A0%EA%B9%8C/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/1063-GPT-5-5-출시-왜-이번엔-Codex가-스스로-일한다-고-말할까/img.png)
+![](/images/1063-GPT-5-5-%EC%B6%9C%EC%8B%9C-%EC%99%9C-%EC%9D%B4%EB%B2%88%EC%97%94-Codex%EA%B0%80-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EC%9D%BC%ED%95%9C%EB%8B%A4-%EA%B3%A0-%EB%A7%90%ED%95%A0%EA%B9%8C/img.png)
 
 GPT-5.5 dropped just 6 weeks after GPT-5.4. I thought "another modest bump," until I saw the benchmarks. Terminal-Bench 2.0: 82.7%, GDPval: 84.9%. And here's the kicker: **it finishes the same task with fewer tokens than GPT-5.4**.
 

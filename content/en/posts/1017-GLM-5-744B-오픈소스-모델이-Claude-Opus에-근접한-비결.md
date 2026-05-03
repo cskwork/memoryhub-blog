@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1017"
 tistory_id: 1017
 draft: false
 cover:
-  image: "/images/1017-GLM-5-744B-오픈소스-모델이-Claude-Opus에-근접한-비결/img.png"
+  image: "images/1017-GLM-5-744B-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%9D%B4-Claude-Opus%EC%97%90-%EA%B7%BC%EC%A0%91%ED%95%9C-%EB%B9%84%EA%B2%B0/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/1017-GLM-5-744B-오픈소스-모델이-Claude-Opus에-근접한-비결/img.png)
+![](/images/1017-GLM-5-744B-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%9D%B4-Claude-Opus%EC%97%90-%EA%B7%BC%EC%A0%91%ED%95%9C-%EB%B9%84%EA%B2%B0/img.png)
 
 "Open source models can never catch up to closed ones." Until just a year ago, this was accepted wisdom.
 

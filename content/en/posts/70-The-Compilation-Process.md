@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev Concepts"]
 tags: ["Theory Notes"]
 cover:
-  image: "/images/70-The-Compilation-Process/img.png"
+  image: "images/70-The-Compilation-Process/img.png"
   relative: false
   hidden: false
 ---

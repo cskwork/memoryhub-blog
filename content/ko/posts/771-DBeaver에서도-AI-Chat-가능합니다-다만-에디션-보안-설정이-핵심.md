@@ -8,14 +8,14 @@ draft: false
 categories: ["생활"]
 tags: ["트렌드"]
 cover:
-  image: "/images/771-DBeaver에서도-AI-Chat-가능합니다-다만-에디션-보안-설정이-핵심/img.png"
+  image: "images/771-DBeaver%EC%97%90%EC%84%9C%EB%8F%84-AI-Chat-%EA%B0%80%EB%8A%A5%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%8B%A4%EB%A7%8C-%EC%97%90%EB%94%94%EC%85%98-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95%EC%9D%B4-%ED%95%B5%EC%8B%AC/img.png"
   relative: false
   hidden: false
 ---
 
 안녕하세요. DBeaver에 AI를 붙여 **자연어→SQL 생성, 쿼리 설명/리팩터링**까지 할 수 있습니다. OpenAI·Azure OpenAI·Google Gemini·GitHub Copilot·Ollama(로컬 LLM) 등 여러 모델을 연결할 수 있어요. 
 
-![](/images/771-DBeaver에서도-AI-Chat-가능합니다-다만-에디션-보안-설정이-핵심/img.png)
+![](/images/771-DBeaver%EC%97%90%EC%84%9C%EB%8F%84-AI-Chat-%EA%B0%80%EB%8A%A5%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%8B%A4%EB%A7%8C-%EC%97%90%EB%94%94%EC%85%98-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95%EC%9D%B4-%ED%95%B5%EC%8B%AC/img.png)
 
 ---
 
@@ -40,7 +40,7 @@ cover:
 - **Community**는 “AI Smart Completion” 중심이며, **프로 에디션**(Lite/Enterprise/Ultimate/Team)에서 **AI Chat**과 샘플데이터 전송 기능이 열립니다.
 - 2025.07 이후 **Community 설치본에 AI 통합이 동봉**되었지만, 환경에 따라 **AI 확장 설치**가 필요할 수 있습니다(뉴스/릴리스 노트 기준).
 
-![](/images/771-DBeaver에서도-AI-Chat-가능합니다-다만-에디션-보안-설정이-핵심/img_1.png)
+![](/images/771-DBeaver%EC%97%90%EC%84%9C%EB%8F%84-AI-Chat-%EA%B0%80%EB%8A%A5%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%8B%A4%EB%A7%8C-%EC%97%90%EB%94%94%EC%85%98-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95%EC%9D%B4-%ED%95%B5%EC%8B%AC/img_1.png)
 
 ---
 
@@ -112,7 +112,7 @@ DBeaver는 정확도를 높이기 위해 \*\*메타데이터(테이블/컬럼명
 
 *“DBeaver의 AI는 강력하지만,* ***에디션·스코프·전송 항목****만 잘 다루면 안전하고 효율적으로 쓸 수 있습니다!”*
 
-![](/images/771-DBeaver에서도-AI-Chat-가능합니다-다만-에디션-보안-설정이-핵심/img_2.png)
+![](/images/771-DBeaver%EC%97%90%EC%84%9C%EB%8F%84-AI-Chat-%EA%B0%80%EB%8A%A5%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%8B%A4%EB%A7%8C-%EC%97%90%EB%94%94%EC%85%98-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95%EC%9D%B4-%ED%95%B5%EC%8B%AC/img_2.png)
 
 ## 참고
 

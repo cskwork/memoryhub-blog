@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev Framework"]
 tags: ["Spring Batch"]
 cover:
-  image: "/images/51-Quartz-And-Spring-Batch-ERD-설명/img.png"
+  image: "images/51-Quartz-And-Spring-Batch-ERD-%EC%84%A4%EB%AA%85/img.png"
   relative: false
   hidden: false
 ---
@@ -52,7 +52,7 @@ A computer cluster is a collection of computers connected through a network to *
 
 ### 2.2 Quartz's Main Tables (ERD Concept Overview)
 
-![](/images/51-Quartz-And-Spring-Batch-ERD-설명/img.png)
+![](/images/51-Quartz-And-Spring-Batch-ERD-%EC%84%A4%EB%AA%85/img.png)
 
 Quartz uses the following tables to store schedule information in a database (distinguished by `QRTZ_` prefix):
 
@@ -164,7 +164,7 @@ public Trigger jobTrigger() {
 
 ## **3. Spring Batch's Basic Table Structure 📋**
 
-![](/images/51-Quartz-And-Spring-Batch-ERD-설명/img_1.png)
+![](/images/51-Quartz-And-Spring-Batch-ERD-%EC%84%A4%EB%AA%85/img_1.png)
 
 Spring Batch uses its own metadata tables to track Job and Step execution history:
 

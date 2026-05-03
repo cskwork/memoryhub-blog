@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev Concepts"]
 tags: ["Mathematics"]
 cover:
-  image: "/images/220-Linear-Algebra-Introduced/img.png"
+  image: "images/220-Linear-Algebra-Introduced/img.png"
   relative: false
   hidden: false
 ---

@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev Library"]
 tags: ["jQuery"]
 cover:
-  image: "/images/41-jQuery-Ajax/2.PNG"
+  image: "images/41-jQuery-Ajax/2.PNG"
   relative: false
   hidden: false
 ---

@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev Library"]
 tags: ["jQuery"]
 cover:
-  image: "/images/42-jQuery-Traversing-요소-이동하기/5.png"
+  image: "images/42-jQuery-Traversing-%EC%9A%94%EC%86%8C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/5.png"
   relative: false
   hidden: false
 ---
@@ -17,7 +17,7 @@ cover:
 
 : HTML has a DOM tree structure, so you need to find tags within the context of their relationships with other elements.
 
-![](/images/42-jQuery-Traversing-요소-이동하기/5.png)
+![](/images/42-jQuery-Traversing-%EC%9A%94%EC%86%8C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/5.png)
 
 1 div : parent of ul, ancestor of all tags below
 
@@ -81,7 +81,7 @@ $(document).ready(function(){
 
 Result:
 
-![](/images/42-jQuery-Traversing-요소-이동하기/11.PNG)
+![](/images/42-jQuery-Traversing-%EC%9A%94%EC%86%8C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/11.PNG)
 
 ---
 
@@ -128,7 +128,7 @@ $(document).ready(function(){
 
   Result:
 
-![](/images/42-jQuery-Traversing-요소-이동하기/111.PNG)
+![](/images/42-jQuery-Traversing-%EC%9A%94%EC%86%8C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/111.PNG)
 
 ---
 
@@ -164,4 +164,4 @@ $(document).ready(function(){
 
 Result:
 
-![](/images/42-jQuery-Traversing-요소-이동하기/22.PNG)
+![](/images/42-jQuery-Traversing-%EC%9A%94%EC%86%8C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/22.PNG)

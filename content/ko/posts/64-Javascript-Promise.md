@@ -8,7 +8,7 @@ draft: false
 categories: ["데브 언어"]
 tags: ["Javascript"]
 cover:
-  image: "/images/64-Javascript-Promise/img.png"
+  image: "images/64-Javascript-Promise/img.png"
   relative: false
   hidden: false
 ---

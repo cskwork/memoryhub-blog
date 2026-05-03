@@ -8,12 +8,12 @@ draft: false
 categories: ["데브 컨셉"]
 tags: ["Tech News"]
 cover:
-  image: "/images/766-나노바나나-Gemini-2-5-Flash-Image/img.png"
+  image: "images/766-%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98-Gemini-2-5-Flash-Image/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/766-나노바나나-Gemini-2-5-Flash-Image/img.png)
+![](/images/766-%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98-Gemini-2-5-Flash-Image/img.png)
 
 오늘(한국시간 8월 27일) 공개된 **Gemini 2.5 Flash Image(일명 ‘나노바나나’)** 는 이미지 **생성+편집**을 한 번에 처리하고, **캐릭터 일관성·부분 편집·다중 이미지 합성**을 강화한 구글의 최신 모델입니다. 개발자는 **AI Studio/Vertex/ Gemini API**에서 즉시 쓸 수 있고, **이미지 1장 ≈ $0.039** 입니다. 
 
@@ -34,7 +34,7 @@ cover:
 - **가격**: **출력 100만 토큰당 $30 → 이미지 1장당 약 1,290 토큰 ≈ $0.039**. (대략 $1로 약 25장 수준)
 - **워터마킹**: 생성/편집된 모든 이미지에 **SynthID** 보이지 않는 워터마크 삽입.
 
-![](/images/766-나노바나나-Gemini-2-5-Flash-Image/blob.jpg)
+![](/images/766-%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98-Gemini-2-5-Flash-Image/blob.jpg)
 
 ---
 
@@ -105,7 +105,7 @@ A. 구글 개발자 블로그 게시(현지 8/26) 및 공식 릴리즈 노트(8/
 
 > **결론:** *나노바나나는 ‘빠르고 정확한 이미지 생성·편집’을 한 덩어리로 묶은 실전형 모델—오늘부터 바로 써먹자!* ?
 
-![](/images/766-나노바나나-Gemini-2-5-Flash-Image/Image.jpeg)
+![](/images/766-%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98-Gemini-2-5-Flash-Image/Image.jpeg)
 
 <https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/>
 

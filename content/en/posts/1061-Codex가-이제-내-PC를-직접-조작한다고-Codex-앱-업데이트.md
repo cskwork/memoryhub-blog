@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1061"
 tistory_id: 1061
 draft: false
 cover:
-  image: "/images/1061-Codex가-이제-내-PC를-직접-조작한다고-Codex-앱-업데이트/img.png"
+  image: "images/1061-Codex%EA%B0%80-%EC%9D%B4%EC%A0%9C-%EB%82%B4-PC%EB%A5%BC-%EC%A7%81%EC%A0%91-%EC%A1%B0%EC%9E%91%ED%95%9C%EB%8B%A4%EA%B3%A0-Codex-%EC%95%B1-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/1061-Codex가-이제-내-PC를-직접-조작한다고-Codex-앱-업데이트/img.png)
+![](/images/1061-Codex%EA%B0%80-%EC%9D%B4%EC%A0%9C-%EB%82%B4-PC%EB%A5%BC-%EC%A7%81%EC%A0%91-%EC%A1%B0%EC%9E%91%ED%95%9C%EB%8B%A4%EA%B3%A0-Codex-%EC%95%B1-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/img.png)
 
 How many times a day do you bounce between JIRA, Slack, code, and Notion? I watched this morning disappear switching between browser, terminal, and docs. But this Codex update came with a promise: "An agent that clicks windows, types, and works alongside you."
 

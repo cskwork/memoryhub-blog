@@ -8,12 +8,12 @@ draft: false
 categories: ["데브 컨셉"]
 tags: ["Tech News"]
 cover:
-  image: "/images/866-ChatGPT-Atlas-출시/img.png"
+  image: "images/866-ChatGPT-Atlas-%EC%B6%9C%EC%8B%9C/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/866-ChatGPT-Atlas-출시/img.png)
+![](/images/866-ChatGPT-Atlas-%EC%B6%9C%EC%8B%9C/img.png)
 
 오늘 ChatGPT를 핵심으로 구축한 새로운 웹 브라우저 **ChatGPT Atlas**를 소개합니다.
 

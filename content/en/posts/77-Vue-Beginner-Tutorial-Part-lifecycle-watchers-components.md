@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev Framework"]
 tags: ["VueJS"]
 cover:
-  image: "/images/77-Vue-Beginner-Tutorial-Part-lifecycle-watchers-components/img.png"
+  image: "images/77-Vue-Beginner-Tutorial-Part-lifecycle-watchers-components/img.png"
   relative: false
   hidden: false
 ---

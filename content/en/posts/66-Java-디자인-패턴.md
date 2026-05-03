@@ -8,12 +8,12 @@ draft: false
 categories: ["Dev Concepts"]
 tags: ["Info Processing Cert"]
 cover:
-  image: "/images/66-Java-디자인-패턴/img.png"
+  image: "images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/66-Java-디자인-패턴/img.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img.png)
 
 ## Summary
 
@@ -46,7 +46,7 @@ Recognize state changes, integrate operations/requests
 
 ## Abstract Factory Pattern (Object)
 
-![](/images/66-Java-디자인-패턴/img_1.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_1.png)
 
 ### Definition
 
@@ -330,7 +330,7 @@ CarModel - LUXURY located in INDIA
 
 ## Builder Pattern
 
-![](/images/66-Java-디자인-패턴/img_2.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_2.png)
 
 ### Definition
 
@@ -563,11 +563,11 @@ Builder constructed: House@6d06d69c
 - If a singleton instance does too many things alone or shares too much data, coupling between other classes increases, violating the Open-Closed Principle
 - In multi-threaded environments when synchronization isn't handled, two instances can be created
 
-![](/images/66-Java-디자인-패턴/img_3.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_3.png)
 
 VS
 
-![](/images/66-Java-디자인-패턴/img_4.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_4.png)
 
 ### Code Application
 
@@ -661,9 +661,9 @@ public class SuperRobotFactory extends RobotFactory {
 
 - Convert incompatible interfaces with adapter to make them compatible.
 
-![](/images/66-Java-디자인-패턴/img_5.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_5.png)
 
-![](/images/66-Java-디자인-패턴/img_6.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_6.png)
 
 ### Code Application
 
@@ -789,7 +789,7 @@ public class DuckTest {
 
 - Calling children management function from Leaf class causes runtime exception
 
-![](/images/66-Java-디자인-패턴/img_7.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_7.png)
 
 "Client" class references common interface "Component" rather than directly referencing "Leaf" and "Composite" classes.
 
@@ -797,7 +797,7 @@ public class DuckTest {
 
 "Composite" class maintains "Component" child objects and passes requests like operation() to children.
 
-![](/images/66-Java-디자인-패턴/img_8.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_8.png)
 
 ### Code Application
 
@@ -932,7 +932,7 @@ public class Company
 
 - Provide an integrated and simplified interface to subsystems for easy access/use. All for One
 
-![](/images/66-Java-디자인-패턴/img_9.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_9.png)
 
 ### Advantages
 
@@ -1085,15 +1085,15 @@ fun main() {
 }
 ```
 
-![](/images/66-Java-디자인-패턴/img_10.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_10.png)
 
-![](/images/66-Java-디자인-패턴/img_11.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_11.png)
 
 ## Strategy Pattern (Strategy Pattern)
 
 - Manage logic independently, declare classes containing behavior, and manage by connecting to interfaces
 - Enables efficient change when adding or modifying new logic  
-  ![](/images/66-Java-디자인-패턴/img.png)
+  ![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img.png)
 
 ### References
 

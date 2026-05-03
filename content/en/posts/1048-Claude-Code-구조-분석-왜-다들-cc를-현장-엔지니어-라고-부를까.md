@@ -6,13 +6,13 @@ original_url: "https://memoryhub.tistory.com/1048"
 tistory_id: 1048
 draft: false
 cover:
-  image: "/images/1048-Claude-Code-구조-분석-왜-다들-cc를-현장-엔지니어-라고-부를까/OIP-a4f2bc3b.png"
+  image: "images/1048-Claude-Code-%EA%B5%AC%EC%A1%B0-%EB%B6%84%EC%84%9D-%EC%99%9C-%EB%8B%A4%EB%93%A4-cc%EB%A5%BC-%ED%98%84%EC%9E%A5-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EB%9D%BC%EA%B3%A0-%EB%B6%80%EB%A5%BC%EA%B9%8C/OIP-a4f2bc3b.png"
   alt: "Enabling Claude Code to work more autonomously \\ Anthropic"
   relative: false
   hidden: false
 ---
 
-[![Enabling Claude Code to work more autonomously \ Anthropic](/images/1048-Claude-Code-구조-분석-왜-다들-cc를-현장-엔지니어-라고-부를까/OIP-a4f2bc3b.png)](https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously?utm_source=chatgpt.com)
+[![Enabling Claude Code to work more autonomously \ Anthropic](/images/1048-Claude-Code-%EA%B5%AC%EC%A1%B0-%EB%B6%84%EC%84%9D-%EC%99%9C-%EB%8B%A4%EB%93%A4-cc%EB%A5%BC-%ED%98%84%EC%9E%A5-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EB%9D%BC%EA%B3%A0-%EB%B6%80%EB%A5%BC%EA%B9%8C/OIP-a4f2bc3b.png)](https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously?utm_source=chatgpt.com)
 
 ## Introduction
 

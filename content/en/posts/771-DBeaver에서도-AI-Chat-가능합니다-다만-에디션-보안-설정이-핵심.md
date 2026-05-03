@@ -8,14 +8,14 @@ draft: false
 categories: ["Life"]
 tags: ["Trends"]
 cover:
-  image: "/images/771-DBeaver에서도-AI-Chat-가능합니다-다만-에디션-보안-설정이-핵심/img.png"
+  image: "images/771-DBeaver%EC%97%90%EC%84%9C%EB%8F%84-AI-Chat-%EA%B0%80%EB%8A%A5%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%8B%A4%EB%A7%8C-%EC%97%90%EB%94%94%EC%85%98-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95%EC%9D%B4-%ED%95%B5%EC%8B%AC/img.png"
   relative: false
   hidden: false
 ---
 
 Hello. You can attach AI to DBeaver to perform **natural language to SQL generation, query explanation/refactoring** and more. You can connect various models including OpenAI, Azure OpenAI, Google Gemini, GitHub Copilot, and Ollama (local LLM).
 
-![](/images/771-DBeaver에서도-AI-Chat-가능합니다-다만-에디션-보안-설정이-핵심/img.png)
+![](/images/771-DBeaver%EC%97%90%EC%84%9C%EB%8F%84-AI-Chat-%EA%B0%80%EB%8A%A5%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%8B%A4%EB%A7%8C-%EC%97%90%EB%94%94%EC%85%98-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95%EC%9D%B4-%ED%95%B5%EC%8B%AC/img.png)
 
 ---
 
@@ -40,7 +40,7 @@ Edition | AI Smart Completion (Natural Language→SQL popup) | AI Chat (Conversa
 - **Community** focuses on "AI Smart Completion", while **pro editions** (Lite/Enterprise/Ultimate/Team) unlock **AI Chat** and sample data send features.
 - From 2025.07 onward, **Community installations come with AI integration bundled**, but depending on environment, **AI extension installation** may be needed (based on release notes).
 
-![](/images/771-DBeaver에서도-AI-Chat-가능합니다-다만-에디션-보안-설정이-핵심/img_1.png)
+![](/images/771-DBeaver%EC%97%90%EC%84%9C%EB%8F%84-AI-Chat-%EA%B0%80%EB%8A%A5%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%8B%A4%EB%A7%8C-%EC%97%90%EB%94%94%EC%85%98-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95%EC%9D%B4-%ED%95%B5%EC%8B%AC/img_1.png)
 
 ---
 
@@ -112,7 +112,7 @@ DBeaver can send **metadata (table/column names, data types, foreign keys, etc.)
 
 *"DBeaver's AI is powerful, but if you just master* ***edition, scope, and transmission items***, you can use it safely and efficiently!"*
 
-![](/images/771-DBeaver에서도-AI-Chat-가능합니다-다만-에디션-보안-설정이-핵심/img_2.png)
+![](/images/771-DBeaver%EC%97%90%EC%84%9C%EB%8F%84-AI-Chat-%EA%B0%80%EB%8A%A5%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%8B%A4%EB%A7%8C-%EC%97%90%EB%94%94%EC%85%98-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95%EC%9D%B4-%ED%95%B5%EC%8B%AC/img_2.png)
 
 ## Reference
 

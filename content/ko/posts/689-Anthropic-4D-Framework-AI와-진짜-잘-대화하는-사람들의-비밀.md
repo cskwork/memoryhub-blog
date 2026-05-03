@@ -8,12 +8,12 @@ draft: false
 categories: ["데브 라이브러리"]
 tags: ["Claude"]
 cover:
-  image: "/images/689-Anthropic-4D-Framework-AI와-진짜-잘-대화하는-사람들의-비밀/img.jpg"
+  image: "images/689-Anthropic-4D-Framework-AI%EC%99%80-%EC%A7%84%EC%A7%9C-%EC%9E%98-%EB%8C%80%ED%99%94%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%EB%B9%84%EB%B0%80/img.jpg"
   relative: false
   hidden: false
 ---
 
-![](/images/689-Anthropic-4D-Framework-AI와-진짜-잘-대화하는-사람들의-비밀/img.jpg)
+![](/images/689-Anthropic-4D-Framework-AI%EC%99%80-%EC%A7%84%EC%A7%9C-%EC%9E%98-%EB%8C%80%ED%99%94%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%EB%B9%84%EB%B0%80/img.jpg)
 
 ```
     ?

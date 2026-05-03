@@ -8,7 +8,7 @@ draft: false
 categories: ["데브 라이브러리"]
 tags: ["Claude"]
 cover:
-  image: "/images/542-MCP-Model-Context-Protocol-똑똑한-AI-세상과-통하게-하는-비밀-열쇠/img.png"
+  image: "images/542-MCP-Model-Context-Protocol-%EB%98%91%EB%98%91%ED%95%9C-AI-%EC%84%B8%EC%83%81%EA%B3%BC-%ED%86%B5%ED%95%98%EA%B2%8C-%ED%95%98%EB%8A%94-%EB%B9%84%EB%B0%80-%EC%97%B4%EC%87%A0/img.png"
   relative: false
   hidden: false
 ---
@@ -43,7 +43,7 @@ MCP는 마치 도서관 사서와 이용자처럼 역할을 나눠서 작동해�
 
 [클라이언트-서버 상호작용]
 
-![](/images/542-MCP-Model-Context-Protocol-똑똑한-AI-세상과-통하게-하는-비밀-열쇠/img.png)
+![](/images/542-MCP-Model-Context-Protocol-%EB%98%91%EB%98%91%ED%95%9C-AI-%EC%84%B8%EC%83%81%EA%B3%BC-%ED%86%B5%ED%95%98%EA%B2%8C-%ED%95%98%EB%8A%94-%EB%B9%84%EB%B0%80-%EC%97%B4%EC%87%A0/img.png)
 
 ### 2. 서비스 메뉴판: 도구, 리소스, 프롬프트 ?
 

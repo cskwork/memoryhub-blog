@@ -8,12 +8,12 @@ draft: false
 categories: ["데브 옵스"]
 tags: ["Git"]
 cover:
-  image: "/images/95-Git-소개-및-가이드/002.png"
+  image: "images/95-Git-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EA%B0%80%EC%9D%B4%EB%93%9C/002.png"
   relative: false
   hidden: false
 ---
 
-![](/images/95-Git-소개-및-가이드/002.png)
+![](/images/95-Git-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EA%B0%80%EC%9D%B4%EB%93%9C/002.png)
 
 오늘은 **버전 관리 시스템의 대표주자 Git**에 대해 알아보겠습니다! Git은 개발자라면 꼭 알아두어야 할 필수 기술이자, 팀 협업의 핵심 도구입니다. 이번 글에서는 Git의 개념부터 실제 사용 방법까지, 단계별로 자세히 알아보겠습니다.
 

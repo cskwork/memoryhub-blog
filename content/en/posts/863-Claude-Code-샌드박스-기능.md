@@ -8,12 +8,12 @@ draft: false
 categories: ["Dev Library"]
 tags: ["Claude"]
 cover:
-  image: "/images/863-Claude-Code-샌드박스-기능/claude_code_sandboxing.gif"
+  image: "images/863-Claude-Code-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4-%EA%B8%B0%EB%8A%A5/claude_code_sandboxing.gif"
   relative: false
   hidden: false
 ---
 
-![](/images/863-Claude-Code-샌드박스-기능/claude_code_sandboxing.gif)
+![](/images/863-Claude-Code-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4-%EA%B8%B0%EB%8A%A5/claude_code_sandboxing.gif)
 
 Claude Code's new sandboxing features, bash tools, and web-based Claude Code reduce permission prompts and enhance user safety through two critical boundaries: filesystem and network isolation.
 
@@ -63,7 +63,7 @@ This sandbox applies both:
 
 Both components are configurable. You can easily allow or block specific file paths or domains.
 
-![](/images/863-Claude-Code-샌드박스-기능/img.webp)
+![](/images/863-Claude-Code-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4-%EA%B8%B0%EB%8A%A5/img.webp)
 
 Claude Code's sandboxing architecture isolates code execution through filesystem and network controls, automatically allowing safe operations, blocking malicious ones, and requesting permissions only when necessary.
 
@@ -79,7 +79,7 @@ Today we're launching web-based Claude Code. You can run Claude Code in isolated
 
 Web-based Claude Code uses a custom proxy service to transparently handle all git interactions. Inside the sandbox, the git client authenticates to this service with carefully scoped credentials. The proxy verifies these credentials and the content of git interactions (for example, ensuring pushes only go to configured branches), then attaches the correct authentication token before sending requests to GitHub.
 
-![](/images/863-Claude-Code-샌드박스-기능/img_1.webp)
+![](/images/863-Claude-Code-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4-%EA%B8%B0%EB%8A%A5/img_1.webp)
 
 Claude Code's Git integration routes commands through a security proxy that validates authentication tokens, branch names, and repository destinations, preventing unauthorized pushes while providing secure version control workflows.
 

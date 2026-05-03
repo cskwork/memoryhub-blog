@@ -8,16 +8,16 @@ draft: false
 categories: ["Dev Library"]
 tags: ["Claude"]
 cover:
-  image: "/images/749-Claude-Code-Output-Styles-Statusline-가이드/img.png"
+  image: "images/749-Claude-Code-Output-Styles-Statusline-%EA%B0%80%EC%9D%B4%EB%93%9C/img.png"
   relative: false
   hidden: false
 ---
 
 Hello! Today I'll walk through **Claude Code Output Styles** and **Statusline** features that many developers ask about.
 
-![](/images/749-Claude-Code-Output-Styles-Statusline-가이드/img.png)
+![](/images/749-Claude-Code-Output-Styles-Statusline-%EA%B0%80%EC%9D%B4%EB%93%9C/img.png)
 
-![](/images/749-Claude-Code-Output-Styles-Statusline-가이드/img_1.png)
+![](/images/749-Claude-Code-Output-Styles-Statusline-%EA%B0%80%EC%9D%B4%EB%93%9C/img_1.png)
 
 Claude Code isn't just an AI code generator—it's a major advantage that you can customize as a **developer-centric tool**.
 

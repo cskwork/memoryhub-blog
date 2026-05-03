@@ -8,12 +8,12 @@ draft: false
 categories: ["데브 컨셉"]
 tags: ["정보처리기사"]
 cover:
-  image: "/images/66-Java-디자인-패턴/img.png"
+  image: "images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/66-Java-디자인-패턴/img.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img.png)
 
 ## 요약
 
@@ -46,7 +46,7 @@ cover:
 
 ## 추상 팩토리 패턴 (오브젝트)
 
-![](/images/66-Java-디자인-패턴/img_1.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_1.png)
 
 ### 정의
 
@@ -330,7 +330,7 @@ CarModel - LUXURY located in INDIA
 
 ## 빌더 패턴
 
-![](/images/66-Java-디자인-패턴/img_2.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_2.png)
 
 ### 정의
 
@@ -563,11 +563,11 @@ Builder constructed: House@6d06d69c
 - 싱글톤 인스턴스가 혼자 너무 많은 일을 하거나, 많은 데이터를 공유시키면 다른 클래스들 간의 결합도가 높아지게 되는데, 이때 개방-폐쇄 원칙이 위배
 - 멀티 스레드 환경에서 동기화 처리를 하지 않았을 때, 인스턴스가 2개가 생성되는 문제
 
-![](/images/66-Java-디자인-패턴/img_3.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_3.png)
 
 VS
 
-![](/images/66-Java-디자인-패턴/img_4.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_4.png)
 
 ### 코드 응용
 
@@ -661,9 +661,9 @@ public class SuperRobotFactory extends RobotFactory {
 
 - 호환되지 않는 인터페이스를 어뎁터로 변환해서 호환되게끔 사용.
 
-![](/images/66-Java-디자인-패턴/img_5.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_5.png)
 
-![](/images/66-Java-디자인-패턴/img_6.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_6.png)
 
 ### 코드 응용
 
@@ -789,7 +789,7 @@ public class DuckTest {
 
 - Leaf 클래스가 children 관리 함수 호출 시 runtime에서 exception 발생
 
-![](/images/66-Java-디자인-패턴/img_7.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_7.png)
 
 "Client" 클래스는 "Leaf" 와 "Composite" 클래스를 직접 참조하지 않고, 공통 인터페이스 "Component" 를 참조한다.
 
@@ -797,7 +797,7 @@ public class DuckTest {
 
 "Composite" 클래스는 "Component" 객체 자식들을 유지하고, operation() 과 같은 요청을 통해 자식들에게 전달한다.
 
-![](/images/66-Java-디자인-패턴/img_8.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_8.png)
 
 ### 코드 응용
 
@@ -932,7 +932,7 @@ public class Company
 
 - 브시스템들에 대한 통합된 단순화된 인터페이스로 서브시스템에 쉽게 접근/사용. All for One
 
-![](/images/66-Java-디자인-패턴/img_9.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_9.png)
 
 ### 장점
 
@@ -1085,15 +1085,15 @@ fun main() {
 }
 ```
 
-![](/images/66-Java-디자인-패턴/img_10.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_10.png)
 
-![](/images/66-Java-디자인-패턴/img_11.png)
+![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img_11.png)
 
 ## 전략 패턴 (Strategy Pattern)
 
 - 로직을 독립적으로 관리하고, 안에 행동을 담은 클래스를 선언하고, 인터페이스와 연결해서 관리하는 방식
 - 새로운 로직을 추가하거나 변경할 때, 한번에 효율적으로 변경이 가능  
-  ![](/images/66-Java-디자인-패턴/img.png)
+  ![](/images/66-Java-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/img.png)
 
 ### 출처
 

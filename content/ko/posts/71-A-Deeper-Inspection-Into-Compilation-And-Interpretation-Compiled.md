@@ -6,7 +6,7 @@ original_url: "https://memoryhub.tistory.com/71"
 tistory_id: 71
 draft: false
 cover:
-  image: "/images/71-A-Deeper-Inspection-Into-Compilation-And-Interpretation-Compiled/img.png"
+  image: "images/71-A-Deeper-Inspection-Into-Compilation-And-Interpretation-Compiled/img.png"
   relative: false
   hidden: false
 ---

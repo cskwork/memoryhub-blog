@@ -25,7 +25,7 @@ IntelliJ Community Edition에서 Gradle bootRun 실행 시 application.yml 파�
 1. 메인 클래스를 선택하고 오른쪽 클릭
 2. **Edit Configurations...** 선택
 
-![Run Configuration 메뉴](이미지 예시)
+![Run Configuration 메뉴](%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%98%88%EC%8B%9C)
 
 ### 2. 환경 변수 추가
 
@@ -33,7 +33,7 @@ IntelliJ Community Edition에서 Gradle bootRun 실행 시 application.yml 파�
 2. 다음 값 입력: `SPRING_PROFILES_ACTIVE=dev`
 3. **Apply** 및 **OK** 클릭
 
-![환경 변수 설정](이미지 예시)
+![환경 변수 설정](%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%98%88%EC%8B%9C)
 
 ### 3. 애플리케이션 실행
 

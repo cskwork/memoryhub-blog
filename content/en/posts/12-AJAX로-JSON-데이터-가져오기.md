@@ -8,14 +8,14 @@ draft: false
 categories: ["Dev Util"]
 tags: ["JavaScript Play"]
 cover:
-  image: "/images/12-AJAX로-JSON-데이터-가져오기/JsonAjax.jpg"
+  image: "images/12-AJAX%EB%A1%9C-JSON-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/JsonAjax.jpg"
   relative: false
   hidden: false
 ---
 
 > Source code for fetching JSON data using AJAX
 
-![](/images/12-AJAX로-JSON-데이터-가져오기/JsonAjax.jpg)
+![](/images/12-AJAX%EB%A1%9C-JSON-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/JsonAjax.jpg)
 
 **AJAX.js (Backend - Logic Processing)**
 

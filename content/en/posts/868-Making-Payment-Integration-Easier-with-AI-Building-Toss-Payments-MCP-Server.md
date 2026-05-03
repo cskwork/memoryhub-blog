@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev Concepts"]
 tags: ["Tech News"]
 cover:
-  image: "/images/868-Making-Payment-Integration-Easier-with-AI-Building-Toss-Payments-MCP-Server/img.png"
+  image: "images/868-Making-Payment-Integration-Easier-with-AI-Building-Toss-Payments-MCP-Server/img.png"
   relative: false
   hidden: false
 ---

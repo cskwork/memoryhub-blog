@@ -8,12 +8,12 @@ draft: false
 categories: ["Dev Library"]
 tags: ["Claude"]
 cover:
-  image: "/images/858-MCP보다-더-중요할-수도-있는-Claude-Skills-어떻게-시작할까/img.png"
+  image: "images/858-MCP%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%A4%91%EC%9A%94%ED%95%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8A%94-Claude-Skills-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%A0%EA%B9%8C/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/858-MCP보다-더-중요할-수도-있는-Claude-Skills-어떻게-시작할까/img.png)
+![](/images/858-MCP%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%A4%91%EC%9A%94%ED%95%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8A%94-Claude-Skills-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%A0%EA%B9%8C/img.png)
 
 When I heard Claude Skills launched, I immediately found the official documentation. After reading it, my first thought? "This looks interesting... but how am I actually supposed to use it?"
 

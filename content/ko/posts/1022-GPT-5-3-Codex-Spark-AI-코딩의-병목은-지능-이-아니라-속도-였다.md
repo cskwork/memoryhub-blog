@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1022"
 tistory_id: 1022
 draft: false
 cover:
-  image: "/images/1022-GPT-5-3-Codex-Spark-AI-코딩의-병목은-지능-이-아니라-속도-였다/img.png"
+  image: "images/1022-GPT-5-3-Codex-Spark-AI-%EC%BD%94%EB%94%A9%EC%9D%98-%EB%B3%91%EB%AA%A9%EC%9D%80-%EC%A7%80%EB%8A%A5-%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%86%8D%EB%8F%84-%EC%98%80%EB%8B%A4/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/1022-GPT-5-3-Codex-Spark-AI-코딩의-병목은-지능-이-아니라-속도-였다/img.png)
+![](/images/1022-GPT-5-3-Codex-Spark-AI-%EC%BD%94%EB%94%A9%EC%9D%98-%EB%B3%91%EB%AA%A9%EC%9D%80-%EC%A7%80%EB%8A%A5-%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%86%8D%EB%8F%84-%EC%98%80%EB%8B%A4/img.png)
 
 AI 코딩 도구를 써보신 분이라면 한 번쯤 이런 경험이 있을 겁니다. 코드 수정을 요청하고 빈 화면을 멍하니 바라보며 기다리는 시간. 그 몇 초가 집중력을 끊고, 작업 흐름을 망가뜨립니다. OpenAI가 2026년 2월 12일 공개한 Codex-Spark는 바로 이 문제를 정면으로 겨냥합니다.
 

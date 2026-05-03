@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/860"
 tistory_id: 860
 draft: false
 cover:
-  image: "/images/860-Claude-Agent-Skills로-실전-에이전트-구축하기/img.webp"
+  image: "images/860-Claude-Agent-Skills%EB%A1%9C-%EC%8B%A4%EC%A0%84-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/img.webp"
   relative: false
   hidden: false
 ---
 
-![](/images/860-Claude-Agent-Skills로-실전-에이전트-구축하기/img.webp)
+![](/images/860-Claude-Agent-Skills%EB%A1%9C-%EC%8B%A4%EC%A0%84-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/img.webp)
 
 Claude is powerful, but real work requires procedural knowledge and organizational context. Now introducing a new way to build specialized agents: Agent Skills, using files and folders.
 
@@ -33,7 +33,7 @@ In its simplest form, a skill is a directory containing a SKILL.md file. This fi
 
 This metadata is the first level of progressive disclosure. Claude gets enough information to know when each skill is relevant without loading all content into context. The actual body of this file is the second detail level. When Claude determines a skill is relevant to the current task, it reads the entire SKILL.md into context and loads the skill.
 
-![](/images/860-Claude-Agent-Skills로-실전-에이전트-구축하기/img_1.webp)
+![](/images/860-Claude-Agent-Skills%EB%A1%9C-%EC%8B%A4%EC%A0%84-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/img_1.webp)
 
 *SKILL.md file structure - includes relevant metadata: name, description, and context related to the specific tasks the skill should perform*
 
@@ -41,7 +41,7 @@ This metadata is the first level of progressive disclosure. Claude gets enough i
 
 As skill complexity grows, a single SKILL.md might contain too much context, or some context might only apply to specific scenarios. In these cases, a skill can include additional files within the skill directory and reference them by name in SKILL.md. These additional connected files are the third detail level (and beyond), which Claude can explore and discover as needed.
 
-![](/images/860-Claude-Agent-Skills로-실전-에이전트-구축하기/img_2.webp)
+![](/images/860-Claude-Agent-Skills%EB%A1%9C-%EC%8B%A4%EC%A0%84-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/img_2.webp)
 
 In the PDF skill below, SKILL.md references two additional files (reference.md and forms.md) that the skill author chose to bundle with the core SKILL.md. By moving form-filling guidelines to a separate file (forms.md), the skill author keeps the main skill concise, while Claude will read forms.md only when writing forms.
 
@@ -51,7 +51,7 @@ In the PDF skill below, SKILL.md references two additional files (reference.md a
 
 **Progressive Disclosure** is the core design principle that makes Agent Skills flexible and scalable. Like a well-organized manual starting with a table of contents, then specific chapters, and finally detailed appendices, skills let Claude load only the information it needs.
 
-![](/images/860-Claude-Agent-Skills로-실전-에이전트-구축하기/img_3.webp)
+![](/images/860-Claude-Agent-Skills%EB%A1%9C-%EC%8B%A4%EC%A0%84-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/img_3.webp)
 
 *Image showing progressive context disclosure in skills*
 
@@ -61,7 +61,7 @@ With a file system and code execution tools, agents don't need to load entire sk
 
 The following diagram shows how the context window changes when a skill is triggered by a user message:
 
-![](/images/860-Claude-Agent-Skills로-실전-에이전트-구축하기/img_4.webp)
+![](/images/860-Claude-Agent-Skills%EB%A1%9C-%EC%8B%A4%EC%A0%84-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/img_4.webp)
 
 *Image showing how skills trigger within the context window*  
 *Skills are triggered through the system prompt in the context window.*
@@ -81,7 +81,7 @@ Large language models excel at many tasks, but some are better suited to traditi
 
 In our example, the PDF skill includes a pre-written Python script that reads PDFs and extracts all form fields. Claude can run this script without loading the script or PDF into context. Because the code is deterministic, this workflow is consistent and repeatable.
 
-![](/images/860-Claude-Agent-Skills로-실전-에이전트-구축하기/img_5.webp)
+![](/images/860-Claude-Agent-Skills%EB%A1%9C-%EC%8B%A4%EC%A0%84-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/img_5.webp)
 
 *Image showing code execution through skills*
 

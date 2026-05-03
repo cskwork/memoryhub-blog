@@ -8,16 +8,16 @@ draft: false
 categories: ["데브 라이브러리"]
 tags: ["Claude"]
 cover:
-  image: "/images/749-Claude-Code-Output-Styles-Statusline-가이드/img.png"
+  image: "images/749-Claude-Code-Output-Styles-Statusline-%EA%B0%80%EC%9D%B4%EB%93%9C/img.png"
   relative: false
   hidden: false
 ---
 
 안녕하세요! 오늘은 많은 개발자분들이 궁금해하는 **Claude Code Output Styles(출력 스타일)** 과 **Statusline(상태 표시줄)** 기능에 대해 정리해 보겠습니다.
 
-![](/images/749-Claude-Code-Output-Styles-Statusline-가이드/img.png)
+![](/images/749-Claude-Code-Output-Styles-Statusline-%EA%B0%80%EC%9D%B4%EB%93%9C/img.png)
 
-![](/images/749-Claude-Code-Output-Styles-Statusline-가이드/img_1.png)
+![](/images/749-Claude-Code-Output-Styles-Statusline-%EA%B0%80%EC%9D%B4%EB%93%9C/img_1.png)
 
 Claude Code는 단순히 코드를 생성하는 AI가 아니라, **개발자 맞춤형 도구**로 커스터마이징할 수 있다는 점이 큰 장점입니다.
 

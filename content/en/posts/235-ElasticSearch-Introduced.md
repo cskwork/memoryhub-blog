@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev AWS"]
 tags: ["ElasticSearch"]
 cover:
-  image: "/images/235-ElasticSearch-Introduced/img.png"
+  image: "images/235-ElasticSearch-Introduced/img.png"
   relative: false
   hidden: false
 ---

@@ -25,7 +25,7 @@ IntelliJ Community Edition fails to read the application.yml file when running G
 1. Select your main class and right-click
 2. Select **Edit Configurations...**
 
-![Run Configuration menu](image example)
+![Run Configuration menu](image%20example)
 
 ### 2. Add Environment Variables
 
@@ -33,7 +33,7 @@ IntelliJ Community Edition fails to read the application.yml file when running G
 2. Enter the following value: `SPRING_PROFILES_ACTIVE=dev`
 3. Click **Apply** and **OK**
 
-![Environment variable configuration](image example)
+![Environment variable configuration](image%20example)
 
 ### 3. Run Application
 

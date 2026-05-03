@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1035"
 tistory_id: 1035
 draft: false
 cover:
-  image: "/images/1035-Google-Lyria-3-Gemini-앱에서-텍스트와-사진으로-음악을-만든다/img.jpg"
+  image: "images/1035-Google-Lyria-3-Gemini-%EC%95%B1%EC%97%90%EC%84%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80-%EC%82%AC%EC%A7%84%EC%9C%BC%EB%A1%9C-%EC%9D%8C%EC%95%85%EC%9D%84-%EB%A7%8C%EB%93%A0%EB%8B%A4/img.jpg"
   relative: false
   hidden: false
 ---
 
-![](/images/1035-Google-Lyria-3-Gemini-앱에서-텍스트와-사진으로-음악을-만든다/img.jpg)
+![](/images/1035-Google-Lyria-3-Gemini-%EC%95%B1%EC%97%90%EC%84%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80-%EC%82%AC%EC%A7%84%EC%9C%BC%EB%A1%9C-%EC%9D%8C%EC%95%85%EC%9D%84-%EB%A7%8C%EB%93%A0%EB%8B%A4/img.jpg)
 
 "AI로 그림도 그리고, 영상도 만들고, 이제 음악까지?"라고 생각했다면 정확하다. 2026년 2월 18일,
 

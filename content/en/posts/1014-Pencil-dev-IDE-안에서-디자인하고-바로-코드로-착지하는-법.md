@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1014"
 tistory_id: 1014
 draft: false
 cover:
-  image: "/images/1014-Pencil-dev-IDE-안에서-디자인하고-바로-코드로-착지하는-법/img.png"
+  image: "images/1014-Pencil-dev-IDE-%EC%95%88%EC%97%90%EC%84%9C-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EA%B3%A0-%EB%B0%94%EB%A1%9C-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%B0%A9%EC%A7%80%ED%95%98%EB%8A%94-%EB%B2%95/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/1014-Pencil-dev-IDE-안에서-디자인하고-바로-코드로-착지하는-법/img.png)
+![](/images/1014-Pencil-dev-IDE-%EC%95%88%EC%97%90%EC%84%9C-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EA%B3%A0-%EB%B0%94%EB%A1%9C-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%B0%A9%EC%A7%80%ED%95%98%EB%8A%94-%EB%B2%95/img.png)
 
 What happens when a designer hands off a completed mockup from Figma to a developer? Style mismatches, asset extraction headaches, endless confirmation messages. According to McKinsey's 2024 software development efficiency research,
 

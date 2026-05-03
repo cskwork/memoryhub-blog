@@ -8,7 +8,7 @@ draft: false
 categories: ["데브 유틸"]
 tags: ["자바스크립트 놀기"]
 cover:
-  image: "/images/44-JS-TO-DO-LIST/img.jpg"
+  image: "images/44-JS-TO-DO-LIST/img.jpg"
   relative: false
   hidden: false
 ---

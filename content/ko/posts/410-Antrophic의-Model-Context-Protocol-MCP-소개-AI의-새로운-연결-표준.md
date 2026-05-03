@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/410"
 tistory_id: 410
 draft: false
 cover:
-  image: "/images/410-Antrophic의-Model-Context-Protocol-MCP-소개-AI의-새로운-연결-표준/img.png"
+  image: "images/410-Antrophic%EC%9D%98-Model-Context-Protocol-MCP-%EC%86%8C%EA%B0%9C-AI%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%97%B0%EA%B2%B0-%ED%91%9C%EC%A4%80/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/410-Antrophic의-Model-Context-Protocol-MCP-소개-AI의-새로운-연결-표준/img.png)
+![](/images/410-Antrophic%EC%9D%98-Model-Context-Protocol-MCP-%EC%86%8C%EA%B0%9C-AI%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%97%B0%EA%B2%B0-%ED%91%9C%EC%A4%80/img.png)
 
 안녕하세요! 오늘은 정말 흥미진진한 기술 혁신을 소개해드리려고 해요. AI 어시스턴트들이 실제 데이터와 더 효과적으로 소통할 수 있게 해주는 새로운 표준, Model Context Protocol(MCP)에 대해 자세히 알아보겠습니다!
 

@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1063"
 tistory_id: 1063
 draft: false
 cover:
-  image: "/images/1063-GPT-5-5-출시-왜-이번엔-Codex가-스스로-일한다-고-말할까/img.png"
+  image: "images/1063-GPT-5-5-%EC%B6%9C%EC%8B%9C-%EC%99%9C-%EC%9D%B4%EB%B2%88%EC%97%94-Codex%EA%B0%80-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EC%9D%BC%ED%95%9C%EB%8B%A4-%EA%B3%A0-%EB%A7%90%ED%95%A0%EA%B9%8C/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/1063-GPT-5-5-출시-왜-이번엔-Codex가-스스로-일한다-고-말할까/img.png)
+![](/images/1063-GPT-5-5-%EC%B6%9C%EC%8B%9C-%EC%99%9C-%EC%9D%B4%EB%B2%88%EC%97%94-Codex%EA%B0%80-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EC%9D%BC%ED%95%9C%EB%8B%A4-%EA%B3%A0-%EB%A7%90%ED%95%A0%EA%B9%8C/img.png)
 
 GPT-5.4 나온 지 겨우 6주 만에 GPT-5.5가 올라왔습니다. 저도 처음엔 "또 소소한 업데이트 아닌가" 했는데, 벤치마크 수치만 보고 넘길 글이 아니더라고요. Terminal-Bench 2.0에서 82.7%, GDPval에서 84.9%,
 

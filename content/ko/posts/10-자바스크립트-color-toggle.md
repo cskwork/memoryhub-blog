@@ -8,14 +8,14 @@ draft: false
 categories: ["데브 유틸"]
 tags: ["자바스크립트 놀기"]
 cover:
-  image: "/images/10-자바스크립트-color-toggle/colortoggle.jpg"
+  image: "images/10-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-color-toggle/colortoggle.jpg"
   relative: false
   hidden: false
 ---
 
 > 백그라운드 색깔 변경하기--> 나중에 더 이미지 또는 css 배경 바꾸는데 응용할 수 있다.
 
-![](/images/10-자바스크립트-color-toggle/colortoggle.jpg)
+![](/images/10-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-color-toggle/colortoggle.jpg)
 
 **color\_toggle.html**
 

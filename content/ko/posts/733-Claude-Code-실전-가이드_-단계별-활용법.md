@@ -8,12 +8,12 @@ draft: false
 categories: ["데브 라이브러리"]
 tags: ["Claude"]
 cover:
-  image: "/images/733-Claude-Code-실전-가이드_-단계별-활용법/img.jpg"
+  image: "images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img.jpg"
   relative: false
   hidden: false
 ---
 
-![](/images/733-Claude-Code-실전-가이드_-단계별-활용법/img.jpg)
+![](/images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img.jpg)
 
 Claude Code는 터미널 기반 AI 코딩 도우미입니다. 코드베이스를 분석하고 개발 작업을 지원합니다.  
 이 가이드는 초보자부터 고급 사용자까지의 실용적인 활용법을 다룹니다.
@@ -65,7 +65,7 @@ Claude Code는 터미널 기반 AI 코딩 도우미입니다. 코드베이스를
 
 **효과**: Claude가 자동으로 이 지침을 따라서 일관된 작업 수행 / 프로젝트에 대한 context/맥락 정보를 파악하여 정확도 향상. 비즈니스 환경에서 기존 코드 작업이 필요한 경우 원하는 코딩 형식/스타일 등 세부적인 정의가 있어야 원하는 결과물 도출 가능. (아무것도 모르는 주니어 개발자에게 명확한 지시를 주는 것과 유사함)
 
-![](/images/733-Claude-Code-실전-가이드_-단계별-활용법/img.png)
+![](/images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img.png)
 
 ### 3. Plan 모드 사용법
 
@@ -73,7 +73,7 @@ Claude Code는 터미널 기반 AI 코딩 도우미입니다. 코드베이스를
 - **용도**: 읽기 전용으로 안전하게 분석
 - **활용**: "Research the best approach"로 계획 수립 후 실행
 
-![](/images/733-Claude-Code-실전-가이드_-단계별-활용법/img_1.png)
+![](/images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img_1.png)
 
 ---
 
@@ -145,7 +145,7 @@ Prepare to enhance, debug, or refactor the system as needed according to user fe
 
 **사용법**: `/review-feature` 입력으로 즉시 호출
 
-![](/images/733-Claude-Code-실전-가이드_-단계별-활용법/img_2.png)
+![](/images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img_2.png)
 
 ### 3. MCP (Model Context Protocol) 연동
 
@@ -186,7 +186,7 @@ claude --dangerously-skip-permissions
 
 **효과**: 메인 컨텍스트 오염 방지, 전문 분석
 
-![](/images/733-Claude-Code-실전-가이드_-단계별-활용법/img_3.png)
+![](/images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img_3.png)
 
 ### 2. Ultra-think 모드 → 깊이 있는 설계·성능 전략 도출
 
@@ -262,9 +262,9 @@ claude --dangerously-skip-permissions
 
 - <https://docs.anthropic.com/ko/docs/claude-code/common-workflows>
 
-![](/images/733-Claude-Code-실전-가이드_-단계별-활용법/img_4.png)
+![](/images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img_4.png)
 
-![](/images/733-Claude-Code-실전-가이드_-단계별-활용법/img_5.png)
+![](/images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img_5.png)
 
 ## 쿠키
 

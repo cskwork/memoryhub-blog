@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev Ops"]
 tags: ["Server Monitoring"]
 cover:
-  image: "/images/590-Pinpoint-완벽-가이드-대규모-분산-시스템을-위한-API-모니터링-도구/img.png"
+  image: "images/590-Pinpoint-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EB%B6%84%EC%82%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EC%9C%84%ED%95%9C-API-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%8F%84%EA%B5%AC/img.png"
   relative: false
   hidden: false
 ---
@@ -31,7 +31,7 @@ Key problems Pinpoint addresses:
 
 Pinpoint consists of three core components:
 
-![](/images/590-Pinpoint-완벽-가이드-대규모-분산-시스템을-위한-API-모니터링-도구/img.png)
+![](/images/590-Pinpoint-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EB%B6%84%EC%82%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EC%9C%84%ED%95%9C-API-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%8F%84%EA%B5%AC/img.png)
 
 1. **Pinpoint Agent**: Installed in the application to collect performance data. By using Java's `javaagent` capability for bytecode instrumentation, it monitors without requiring code changes.
 2. **Pinpoint Collector**: Receives data from agents and writes it to storage.

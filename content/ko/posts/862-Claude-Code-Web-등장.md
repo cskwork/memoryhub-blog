@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/862"
 tistory_id: 862
 draft: false
 cover:
-  image: "/images/862-Claude-Code-Web-등장/img.png"
+  image: "images/862-Claude-Code-Web-%EB%93%B1%EC%9E%A5/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/862-Claude-Code-Web-등장/img.png)
+![](/images/862-Claude-Code-Web-%EB%93%B1%EC%9E%A5/img.png)
 
 웹 기반 Claude Code를 사용하면 터미널을 열지 않고도 코딩 세션을 시작할 수 있습니다. GitHub 저장소를 연결하고 필요한 작업을 설명하면 Claude가 구현을 처리합니다.
 

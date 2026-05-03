@@ -8,12 +8,12 @@ draft: false
 categories: ["데브 언어"]
 tags: ["Vibe Coding"]
 cover:
-  image: "/images/646-Claude-Code-by-Anthropic-터미널에서-만나는-AI-코딩-어시스턴트/img.png"
+  image: "images/646-Claude-Code-by-Anthropic-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-%EB%A7%8C%EB%82%98%EB%8A%94-AI-%EC%BD%94%EB%94%A9-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/646-Claude-Code-by-Anthropic-터미널에서-만나는-AI-코딩-어시스턴트/img.png)
+![](/images/646-Claude-Code-by-Anthropic-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-%EB%A7%8C%EB%82%98%EB%8A%94-AI-%EC%BD%94%EB%94%A9-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8/img.png)
 
 여러분, 코딩하다가 "아, 이 함수가 뭐하는 거였지?" 하면서 파일 이리저리 뒤적이신 적 있으신가요? 아니면 GitHub 이슈 하나 해결하는데 터미널, IDE, 브라우저 창을 번갈아가며 열어둔 채로 작업하신 적은요? 오늘은 이런 고민을 한 방에 해결해주는 Anthropic의 Claude Code에 대해 알아보겠습니다!
 

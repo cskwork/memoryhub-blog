@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1011"
 tistory_id: 1011
 draft: false
 cover:
-  image: "/images/1011-NanoClaw-500줄로-만든-개인-AI-비서가-OpenClaw의-대안이-된-이유/img.png"
+  image: "images/1011-NanoClaw-500%EC%A4%84%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EA%B0%9C%EC%9D%B8-AI-%EB%B9%84%EC%84%9C%EA%B0%80-OpenClaw%EC%9D%98-%EB%8C%80%EC%95%88%EC%9D%B4-%EB%90%9C-%EC%9D%B4%EC%9C%A0/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/1011-NanoClaw-500줄로-만든-개인-AI-비서가-OpenClaw의-대안이-된-이유/img.png)
+![](/images/1011-NanoClaw-500%EC%A4%84%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EA%B0%9C%EC%9D%B8-AI-%EB%B9%84%EC%84%9C%EA%B0%80-OpenClaw%EC%9D%98-%EB%8C%80%EC%95%88%EC%9D%B4-%EB%90%9C-%EC%9D%B4%EC%9C%A0/img.png)
 
 OpenClaw (formerly Clawdbot/Moltbot) has surpassed 140,000 GitHub stars and sparked a "personal AI assistant" craze. Yet one developer said, "I can't sleep without understanding the software accessing my life."
 

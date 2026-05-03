@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev Util"]
 tags: ["Agentic Coding"]
 cover:
-  image: "/images/792-Codex-CLI-사용량-한계-실시간-확인하기-왜-개발자들이-열광할까/img.png"
+  image: "images/792-Codex-CLI-%EC%82%AC%EC%9A%A9%EB%9F%89-%ED%95%9C%EA%B3%84-%EC%8B%A4%EC%8B%9C%EA%B0%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%EC%99%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%97%B4%EA%B4%91%ED%95%A0%EA%B9%8C/img.png"
   relative: false
   hidden: false
 ---
@@ -69,7 +69,7 @@ codex
 /status
 ```
 
-![](/images/792-Codex-CLI-사용량-한계-실시간-확인하기-왜-개발자들이-열광할까/img.png)
+![](/images/792-Codex-CLI-%EC%82%AC%EC%9A%A9%EB%9F%89-%ED%95%9C%EA%B3%84-%EC%8B%A4%EC%8B%9C%EA%B0%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%EC%99%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%97%B4%EA%B4%91%ED%95%A0%EA%B9%8C/img.png)
 
 ### ③ Information Displayed When Limit is Reached
 
@@ -93,7 +93,7 @@ In real projects, the key is to periodically check the /status command and plan 
 
 The official VS Code plugin also displays rate limits!
 
-![](/images/792-Codex-CLI-사용량-한계-실시간-확인하기-왜-개발자들이-열광할까/img_1.png)
+![](/images/792-Codex-CLI-%EC%82%AC%EC%9A%A9%EB%9F%89-%ED%95%9C%EA%B3%84-%EC%8B%A4%EC%8B%9C%EA%B0%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%EC%99%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%97%B4%EA%B4%91%ED%95%A0%EA%B9%8C/img_1.png)
 
 ⸻
 

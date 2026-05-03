@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1032"
 tistory_id: 1032
 draft: false
 cover:
-  image: "/images/1032-Qwen-3-5-출시-알리바바가-GPT-5-2와-Claude를-넘었을까/img.png"
+  image: "images/1032-Qwen-3-5-%EC%B6%9C%EC%8B%9C-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EA%B0%80-GPT-5-2%EC%99%80-Claude%EB%A5%BC-%EB%84%98%EC%97%88%EC%9D%84%EA%B9%8C/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/1032-Qwen-3-5-출시-알리바바가-GPT-5-2와-Claude를-넘었을까/img.png)
+![](/images/1032-Qwen-3-5-%EC%B6%9C%EC%8B%9C-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EA%B0%80-GPT-5-2%EC%99%80-Claude%EB%A5%BC-%EB%84%98%EC%97%88%EC%9D%84%EA%B9%8C/img.png)
 
 When people think of Chinese AI models, many still think of them as "open-source alternatives." Yet just before the 2026 Lunar New Year, Alibaba's Qwen 3.5 aims to overturn that perception completely. 60% cost reduction, 8x processing efficiency improvement, and even "visual agentic" capabilities to manipulate apps independently.
 

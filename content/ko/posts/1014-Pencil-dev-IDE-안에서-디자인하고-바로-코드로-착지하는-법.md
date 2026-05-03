@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1014"
 tistory_id: 1014
 draft: false
 cover:
-  image: "/images/1014-Pencil-dev-IDE-안에서-디자인하고-바로-코드로-착지하는-법/img.png"
+  image: "images/1014-Pencil-dev-IDE-%EC%95%88%EC%97%90%EC%84%9C-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EA%B3%A0-%EB%B0%94%EB%A1%9C-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%B0%A9%EC%A7%80%ED%95%98%EB%8A%94-%EB%B2%95/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/1014-Pencil-dev-IDE-안에서-디자인하고-바로-코드로-착지하는-법/img.png)
+![](/images/1014-Pencil-dev-IDE-%EC%95%88%EC%97%90%EC%84%9C-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EA%B3%A0-%EB%B0%94%EB%A1%9C-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%B0%A9%EC%A7%80%ED%95%98%EB%8A%94-%EB%B2%95/img.png)
 
 디자이너가 Figma에서 완성한 시안을 개발자에게 넘기면 무슨 일이 벌어지는가. 스타일 불일치, 에셋 추출 삽질, 끝없는 확인 메시지. McKinsey의 2024년 소프트웨어 개발 효율성 연구에 따르면,
 

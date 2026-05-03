@@ -6,14 +6,14 @@ original_url: "https://memoryhub.tistory.com/1055"
 tistory_id: 1055
 draft: false
 cover:
-  image: "/images/1055-Karpathy의-고찰이-담긴-CLAUDE-md-왜-별-4만-8천-개를-찍었을까/ChatGPT Image 2026년 4월 26일 오후 01_54_04.png"
+  image: "images/1055-Karpathy%EC%9D%98-%EA%B3%A0%EC%B0%B0%EC%9D%B4-%EB%8B%B4%EA%B8%B4-CLAUDE-md-%EC%99%9C-%EB%B3%84-4%EB%A7%8C-8%EC%B2%9C-%EA%B0%9C%EB%A5%BC-%EC%B0%8D%EC%97%88%EC%9D%84%EA%B9%8C/ChatGPT%20Image%202026%EB%85%84%204%EC%9B%94%2026%EC%9D%BC%20%EC%98%A4%ED%9B%84%2001_54_04.png"
   relative: false
   hidden: false
 ---
 
 # 
 
-![](/images/1055-Karpathy의-고찰이-담긴-CLAUDE-md-왜-별-4만-8천-개를-찍었을까/ChatGPT Image 2026년 4월 26일 오후 01_54_04.png)
+![](/images/1055-Karpathy%EC%9D%98-%EA%B3%A0%EC%B0%B0%EC%9D%B4-%EB%8B%B4%EA%B8%B4-CLAUDE-md-%EC%99%9C-%EB%B3%84-4%EB%A7%8C-8%EC%B2%9C-%EA%B0%9C%EB%A5%BC-%EC%B0%8D%EC%97%88%EC%9D%84%EA%B9%8C/ChatGPT%20Image%202026%EB%85%84%204%EC%9B%94%2026%EC%9D%BC%20%EC%98%A4%ED%9B%84%2001_54_04.png)
 
 You've probably experienced this at some point: asking Claude Code to "just fix one function," only to have five entire files get rewritten.
 

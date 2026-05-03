@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1034"
 tistory_id: 1034
 draft: false
 cover:
-  image: "/images/1034-Claude-Code-to-Figma-코드와-디자인-사이의-일방통행이-끝났다/img.png"
+  image: "images/1034-Claude-Code-to-Figma-%EC%BD%94%EB%93%9C%EC%99%80-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%82%AC%EC%9D%B4%EC%9D%98-%EC%9D%BC%EB%B0%A9%ED%86%B5%ED%96%89%EC%9D%B4-%EB%81%9D%EB%82%AC%EB%8B%A4/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/1034-Claude-Code-to-Figma-코드와-디자인-사이의-일방통행이-끝났다/img.png)
+![](/images/1034-Claude-Code-to-Figma-%EC%BD%94%EB%93%9C%EC%99%80-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%82%AC%EC%9D%B4%EC%9D%98-%EC%9D%BC%EB%B0%A9%ED%86%B5%ED%96%89%EC%9D%B4-%EB%81%9D%EB%82%AC%EB%8B%A4/img.png)
 
 AI로 UI를 만드는 건 이제 누구나 할 수 있습니다. Claude Code에 "대시보드 만들어줘"라고 프롬프트 하나만 던지면 몇 분 안에 작동하는 인터페이스가 나옵니다. 그런데 그다음이 문제입니다. 이걸 팀원들과 어떻게 함께 다듬고, 비교하고, 방향을 정할 수 있을까요?
 

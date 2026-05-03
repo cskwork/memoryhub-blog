@@ -8,12 +8,12 @@ draft: false
 categories: ["Dev Library"]
 tags: ["Claude"]
 cover:
-  image: "/images/733-Claude-Code-실전-가이드_-단계별-활용법/img.jpg"
+  image: "images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img.jpg"
   relative: false
   hidden: false
 ---
 
-![](/images/733-Claude-Code-실전-가이드_-단계별-활용법/img.jpg)
+![](/images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img.jpg)
 
 Claude Code is a terminal-based AI coding assistant. It analyzes codebases and supports development work.
 This guide covers practical usage from beginners to advanced users.
@@ -65,7 +65,7 @@ If you want Claude to create project context, run the following command: ->   /i
 
 **Effect**: Claude automatically follows these guidelines for consistent work / improves accuracy by understanding context/contextual information about the project. In business environments where existing code work is needed, detailed definitions of desired coding format/style etc. are necessary for desired results. (Similar to giving clear instructions to a junior developer who knows nothing)
 
-![](/images/733-Claude-Code-실전-가이드_-단계별-활용법/img.png)
+![](/images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img.png)
 
 ### 3. Using Plan Mode
 
@@ -73,7 +73,7 @@ If you want Claude to create project context, run the following command: ->   /i
 - **Purpose**: Safely analyze in read-only mode
 - **Usage**: Establish plan with "Research the best approach" then execute
 
-![](/images/733-Claude-Code-실전-가이드_-단계별-활용법/img_1.png)
+![](/images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img_1.png)
 
 ---
 
@@ -145,7 +145,7 @@ Prepare to enhance, debug, or refactor the system as needed according to user fe
 
 **Usage**: Type `/review-feature` to invoke immediately
 
-![](/images/733-Claude-Code-실전-가이드_-단계별-활용법/img_2.png)
+![](/images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img_2.png)
 
 ### 3. MCP (Model Context Protocol) Integration
 
@@ -186,7 +186,7 @@ Delegate work to specialized AI agents → Keep main context clean (shorter):
 
 **Effect**: Prevent main context pollution, specialized analysis
 
-![](/images/733-Claude-Code-실전-가이드_-단계별-활용법/img_3.png)
+![](/images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img_3.png)
 
 ### 2. Ultra-think Mode → Derive Deep Design and Performance Strategy
 
@@ -262,9 +262,9 @@ Follow this guide step-by-step and safely leverage the powerful features of Clau
 
 - <https://docs.anthropic.com/en/docs/claude-code/common-workflows>
 
-![](/images/733-Claude-Code-실전-가이드_-단계별-활용법/img_4.png)
+![](/images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img_4.png)
 
-![](/images/733-Claude-Code-실전-가이드_-단계별-활용법/img_5.png)
+![](/images/733-Claude-Code-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C_-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%99%9C%EC%9A%A9%EB%B2%95/img_5.png)
 
 ## Cookies
 

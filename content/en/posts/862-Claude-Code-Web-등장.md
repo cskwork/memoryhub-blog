@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/862"
 tistory_id: 862
 draft: false
 cover:
-  image: "/images/862-Claude-Code-Web-등장/img.png"
+  image: "images/862-Claude-Code-Web-%EB%93%B1%EC%9E%A5/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/862-Claude-Code-Web-등장/img.png)
+![](/images/862-Claude-Code-Web-%EB%93%B1%EC%9E%A5/img.png)
 
 With web-based Claude Code, you can start coding sessions without opening a terminal. Simply connect your GitHub repository and describe the task you need done—Claude handles the implementation.
 

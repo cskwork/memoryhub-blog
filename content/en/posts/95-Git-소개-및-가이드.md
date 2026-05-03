@@ -8,12 +8,12 @@ draft: false
 categories: ["Dev Ops"]
 tags: ["Git"]
 cover:
-  image: "/images/95-Git-소개-및-가이드/002.png"
+  image: "images/95-Git-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EA%B0%80%EC%9D%B4%EB%93%9C/002.png"
   relative: false
   hidden: false
 ---
 
-![](/images/95-Git-소개-및-가이드/002.png)
+![](/images/95-Git-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EA%B0%80%EC%9D%B4%EB%93%9C/002.png)
 
 Today, let's learn about **Git, the representative version control system**! Git is an essential technology that every developer must know and a core tool for team collaboration. In this article, we'll explore Git from its basic concepts to practical usage step by step.
 

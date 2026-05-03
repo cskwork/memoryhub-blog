@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1017"
 tistory_id: 1017
 draft: false
 cover:
-  image: "/images/1017-GLM-5-744B-오픈소스-모델이-Claude-Opus에-근접한-비결/img.png"
+  image: "images/1017-GLM-5-744B-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%9D%B4-Claude-Opus%EC%97%90-%EA%B7%BC%EC%A0%91%ED%95%9C-%EB%B9%84%EA%B2%B0/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/1017-GLM-5-744B-오픈소스-모델이-Claude-Opus에-근접한-비결/img.png)
+![](/images/1017-GLM-5-744B-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%9D%B4-Claude-Opus%EC%97%90-%EA%B7%BC%EC%A0%91%ED%95%9C-%EB%B9%84%EA%B2%B0/img.png)
 
 "오픈소스 모델은 클로즈드 모델을 절대 못 따라간다." 불과 1년 전까지만 해도 이 말은 상식처럼 통했습니다.  
 그런데 2026년 2월 11일, 중국 AI 스타트업 즈푸AI(Zhipu AI, Z.ai)가 공개한 GLM-5는 이 상식에 정면으로 도전합니다. SWE-bench 코딩 벤치마크에서 Claude Opus 4.5와 3.1%p 차이,  

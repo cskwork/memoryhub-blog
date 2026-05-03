@@ -8,7 +8,7 @@ draft: false
 categories: ["데브 프레임워크"]
 tags: ["Spring Security"]
 cover:
-  image: "/images/544-Spring-Boot-JWT-Spring-Security-안전한-인증과-파일-업로드-완전-정복/img.png"
+  image: "images/544-Spring-Boot-JWT-Spring-Security-%EC%95%88%EC%A0%84%ED%95%9C-%EC%9D%B8%EC%A6%9D%EA%B3%BC-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5/img.png"
   relative: false
   hidden: false
 ---
@@ -147,7 +147,7 @@ app:
 
 ## **전체 프로세스 다이어그램**
 
-![](/images/544-Spring-Boot-JWT-Spring-Security-안전한-인증과-파일-업로드-완전-정복/img.png)
+![](/images/544-Spring-Boot-JWT-Spring-Security-%EC%95%88%EC%A0%84%ED%95%9C-%EC%9D%B8%EC%A6%9D%EA%B3%BC-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5/img.png)
 
 ---
 

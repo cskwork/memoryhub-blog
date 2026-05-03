@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1033"
 tistory_id: 1033
 draft: false
 cover:
-  image: "/images/1033-Claude-Sonnet-4-6-Opus급-성능을-1-5-가격에-쓸-수-있게-됐다/img.webp"
+  image: "images/1033-Claude-Sonnet-4-6-Opus%EA%B8%89-%EC%84%B1%EB%8A%A5%EC%9D%84-1-5-%EA%B0%80%EA%B2%A9%EC%97%90-%EC%93%B8-%EC%88%98-%EC%9E%88%EA%B2%8C-%EB%90%90%EB%8B%A4/img.webp"
   relative: false
   hidden: false
 ---
 
-![](/images/1033-Claude-Sonnet-4-6-Opus급-성능을-1-5-가격에-쓸-수-있게-됐다/img.webp)
+![](/images/1033-Claude-Sonnet-4-6-Opus%EA%B8%89-%EC%84%B1%EB%8A%A5%EC%9D%84-1-5-%EA%B0%80%EA%B2%A9%EC%97%90-%EC%93%B8-%EC%88%98-%EC%9E%88%EA%B2%8C-%EB%90%90%EB%8B%A4/img.webp)
 
 "You need an expensive model to get good results." Anyone who's used AI for work has probably thought this.
 

@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1032"
 tistory_id: 1032
 draft: false
 cover:
-  image: "/images/1032-Qwen-3-5-출시-알리바바가-GPT-5-2와-Claude를-넘었을까/img.png"
+  image: "images/1032-Qwen-3-5-%EC%B6%9C%EC%8B%9C-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EA%B0%80-GPT-5-2%EC%99%80-Claude%EB%A5%BC-%EB%84%98%EC%97%88%EC%9D%84%EA%B9%8C/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/1032-Qwen-3-5-출시-알리바바가-GPT-5-2와-Claude를-넘었을까/img.png)
+![](/images/1032-Qwen-3-5-%EC%B6%9C%EC%8B%9C-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EA%B0%80-GPT-5-2%EC%99%80-Claude%EB%A5%BC-%EB%84%98%EC%97%88%EC%9D%84%EA%B9%8C/img.png)
 
 중국 AI 모델이라고 하면 여전히 "오픈소스 대안" 정도로 생각하는 분이 많습니다. 그런데 2026년 설 연휴 직전, 알리바바가 공개한 Qwen 3.5는 그 인식을 정면으로 뒤집으려 합니다. 전작 대비 비용 60% 절감, 처리 효율 8배 향상, 그리고 스스로 앱을 조작하는 "비주얼 에이전틱" 능력까지 갖췄다고 합니다.
 

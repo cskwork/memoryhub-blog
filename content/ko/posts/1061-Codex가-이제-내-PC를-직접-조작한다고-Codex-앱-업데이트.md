@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1061"
 tistory_id: 1061
 draft: false
 cover:
-  image: "/images/1061-Codex가-이제-내-PC를-직접-조작한다고-Codex-앱-업데이트/img.png"
+  image: "images/1061-Codex%EA%B0%80-%EC%9D%B4%EC%A0%9C-%EB%82%B4-PC%EB%A5%BC-%EC%A7%81%EC%A0%91-%EC%A1%B0%EC%9E%91%ED%95%9C%EB%8B%A4%EA%B3%A0-Codex-%EC%95%B1-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/1061-Codex가-이제-내-PC를-직접-조작한다고-Codex-앱-업데이트/img.png)
+![](/images/1061-Codex%EA%B0%80-%EC%9D%B4%EC%A0%9C-%EB%82%B4-PC%EB%A5%BC-%EC%A7%81%EC%A0%91-%EC%A1%B0%EC%9E%91%ED%95%9C%EB%8B%A4%EA%B3%A0-Codex-%EC%95%B1-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/img.png)
 
 JIRA 보고 Slack 답하다 또 코드로 돌아오는 그 왕복, 하루에 몇 번 하시나요. 저는 오늘도 브라우저·터미널·Notion을 번갈아 열다 오전이 녹아 버렸습니다. 그런데 이번 Codex 업데이트는 '에이전트가 창을 직접 클릭하고 타이핑하며 같이 일한다'는 약속을 들고 나왔습니다.
 

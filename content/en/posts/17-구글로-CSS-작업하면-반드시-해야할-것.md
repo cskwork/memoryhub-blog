@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev Util"]
 tags: ["Settings"]
 cover:
-  image: "/images/17-구글로-CSS-작업하면-반드시-해야할-것/nocache.PNG"
+  image: "images/17-%EA%B5%AC%EA%B8%80%EB%A1%9C-CSS-%EC%9E%91%EC%97%85%ED%95%98%EB%A9%B4-%EB%B0%98%EB%93%9C%EC%8B%9C-%ED%95%B4%EC%95%BC%ED%95%A0-%EA%B2%83/nocache.PNG"
   relative: false
   hidden: false
 ---
@@ -19,6 +19,6 @@ This happens because CSS files are being cached in your browser (the browser sav
 
 Just refer to the image below!
 
-![](/images/17-구글로-CSS-작업하면-반드시-해야할-것/nocache.PNG)
+![](/images/17-%EA%B5%AC%EA%B8%80%EB%A1%9C-CSS-%EC%9E%91%EC%97%85%ED%95%98%EB%A9%B4-%EB%B0%98%EB%93%9C%EC%8B%9C-%ED%95%B4%EC%95%BC%ED%95%A0-%EA%B2%83/nocache.PNG)
 
 Reference: https://stackoverflow.com/questions/5690269/disabling-chrome-cache-for-website-development

@@ -8,12 +8,12 @@ draft: false
 categories: ["Dev Concepts"]
 tags: ["Tech News"]
 cover:
-  image: "/images/732-Comet_-새로운-패러다임의-웹-브라우저/img.png"
+  image: "images/732-Comet_-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%EC%9D%98-%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/732-Comet_-새로운-패러다임의-웹-브라우저/img.png)
+![](/images/732-Comet_-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%EC%9D%98-%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80/img.png)
 
 Screen showing reading papers using Comet Assistant
 

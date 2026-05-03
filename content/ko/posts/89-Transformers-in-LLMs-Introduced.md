@@ -8,7 +8,7 @@ draft: false
 categories: ["데브 라이브러리"]
 tags: ["Machine Learning"]
 cover:
-  image: "/images/89-Transformers-in-LLMs-Introduced/img.png"
+  image: "images/89-Transformers-in-LLMs-Introduced/img.png"
   relative: false
   hidden: false
 ---

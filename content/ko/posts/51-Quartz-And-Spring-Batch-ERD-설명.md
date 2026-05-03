@@ -8,7 +8,7 @@ draft: false
 categories: ["데브 프레임워크"]
 tags: ["Spring Batch"]
 cover:
-  image: "/images/51-Quartz-And-Spring-Batch-ERD-설명/img.png"
+  image: "images/51-Quartz-And-Spring-Batch-ERD-%EC%84%A4%EB%AA%85/img.png"
   relative: false
   hidden: false
 ---
@@ -53,7 +53,7 @@ cover:
 
 ### 2.2 Quartz의 주요 테이블 (ERD 개념 정리)
 
-![](/images/51-Quartz-And-Spring-Batch-ERD-설명/img.png)
+![](/images/51-Quartz-And-Spring-Batch-ERD-%EC%84%A4%EB%AA%85/img.png)
 
 Quartz는 **스케줄 정보를 DB에 저장**하기 위해 기본적으로 다음과 같은 테이블들을 사용합니다(접두사 `QRTZ_`로 구분):
 
@@ -165,7 +165,7 @@ public Trigger jobTrigger() {
 
 ## **3. Spring Batch의 기본 테이블 구조 ?**
 
-![](/images/51-Quartz-And-Spring-Batch-ERD-설명/img_1.png)
+![](/images/51-Quartz-And-Spring-Batch-ERD-%EC%84%A4%EB%AA%85/img_1.png)
 
 Spring Batch는 Job과 Step의 실행 이력을 추적하기 위해 자체적인 메타데이터 테이블을 사용합니다:
 

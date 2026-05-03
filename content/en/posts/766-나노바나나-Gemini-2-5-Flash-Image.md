@@ -8,12 +8,12 @@ draft: false
 categories: ["Dev Concepts"]
 tags: ["Tech News"]
 cover:
-  image: "/images/766-나노바나나-Gemini-2-5-Flash-Image/img.png"
+  image: "images/766-%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98-Gemini-2-5-Flash-Image/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/766-나노바나나-Gemini-2-5-Flash-Image/img.png)
+![](/images/766-%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98-Gemini-2-5-Flash-Image/img.png)
 
 Released today (August 27 Korea time), **Gemini 2.5 Flash Image (nickname 'Nano-Banana')** is Google's latest model that handles image **generation and editing** in one go, with enhanced **character consistency, selective editing, and multi-image composition**. Developers can use it immediately through **AI Studio/Vertex/Gemini API**, with **approximately $0.039 per image**.
 
@@ -34,7 +34,7 @@ Released today (August 27 Korea time), **Gemini 2.5 Flash Image (nickname 'Nano-
 - **Pricing**: **$30 per 1 million output tokens → approximately 1,290 tokens per image ≈ $0.039** (roughly 25 images for $1).
 - **Watermarking**: All generated/edited images automatically include **SynthID** invisible watermark.
 
-![](/images/766-나노바나나-Gemini-2-5-Flash-Image/blob.jpg)
+![](/images/766-%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98-Gemini-2-5-Flash-Image/blob.jpg)
 
 ---
 
@@ -103,7 +103,7 @@ A. Google Developer Blog post (local 8/26) and official release notes (8/26) are
 
 > **Conclusion:** *Nano-Banana is a practical model that bundles "fast and accurate image generation and editing" into one—start using it today!* 🎨
 
-![](/images/766-나노바나나-Gemini-2-5-Flash-Image/Image.jpeg)
+![](/images/766-%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98-Gemini-2-5-Flash-Image/Image.jpeg)
 
 <https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/>
 

@@ -8,7 +8,7 @@ draft: false
 categories: ["데브 라이브러리"]
 tags: ["Machine Learning"]
 cover:
-  image: "/images/734-논문-_Attention-Is-All-You-Need_/img.png"
+  image: "images/734-%EB%85%BC%EB%AC%B8-_Attention-Is-All-You-Need_/img.png"
   relative: false
   hidden: false
 ---
@@ -33,7 +33,7 @@ cover:
 
 ·       논문에서는 빠르고 메모리 효율적인 **점곱** **어텐션**을 사용하며, 값이 너무 커져 소프트맥스의 기울기가 사라지는 문제를 막기 위해
 
-![](/images/734-논문-_Attention-Is-All-You-Need_/img.png)
+![](/images/734-%EB%85%BC%EB%AC%B8-_Attention-Is-All-You-Need_/img.png)
 
  로 나누어 스케일링한다[[6]](https://arxiv.org/html/1706.03762v7#:~:text=We%20call%20our%20particular%20attention,the%20weights%20on%20the%20values).
 

@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/1040"
 tistory_id: 1040
 draft: false
 cover:
-  image: "/images/1040-AI를-잘-쓴다는-것의-정체-Anthropic이-9-830개-대화를-분석해-발견한-것/img.webp"
+  image: "images/1040-AI%EB%A5%BC-%EC%9E%98-%EC%93%B4%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%98-%EC%A0%95%EC%B2%B4-Anthropic%EC%9D%B4-9-830%EA%B0%9C-%EB%8C%80%ED%99%94%EB%A5%BC-%EB%B6%84%EC%84%9D%ED%95%B4-%EB%B0%9C%EA%B2%AC%ED%95%9C-%EA%B2%83/img.webp"
   relative: false
   hidden: false
 ---
 
-![](/images/1040-AI를-잘-쓴다는-것의-정체-Anthropic이-9-830개-대화를-분석해-발견한-것/img.webp)
+![](/images/1040-AI%EB%A5%BC-%EC%9E%98-%EC%93%B4%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%98-%EC%A0%95%EC%B2%B4-Anthropic%EC%9D%B4-9-830%EA%B0%9C-%EB%8C%80%ED%99%94%EB%A5%BC-%EB%B6%84%EC%84%9D%ED%95%B4-%EB%B0%9C%EA%B2%AC%ED%95%9C-%EA%B2%83/img.webp)
 
 AI를 매일 사용하는 사람은 늘고 있지만, 정작 "잘 쓰고 있느냐"고 물으면 대부분 자신 없어한다. 더 큰 문제가 있다.
 

@@ -8,7 +8,7 @@ draft: false
 categories: ["데브 유틸"]
 tags: ["Flask활용한 todo리스트 구현"]
 cover:
-  image: "/images/38-Flask-기본-게시판-mongodb-연동-AWS-사용-Web-Scraping/img.png"
+  image: "images/38-Flask-%EA%B8%B0%EB%B3%B8-%EA%B2%8C%EC%8B%9C%ED%8C%90-mongodb-%EC%97%B0%EB%8F%99-AWS-%EC%82%AC%EC%9A%A9-Web-Scraping/img.png"
   relative: false
   hidden: false
 ---
@@ -27,7 +27,7 @@ cover:
 
 : app.py - 백앤드 로직 보관
 
-![](/images/38-Flask-기본-게시판-mongodb-연동-AWS-사용-Web-Scraping/img.png)
+![](/images/38-Flask-%EA%B8%B0%EB%B3%B8-%EA%B2%8C%EC%8B%9C%ED%8C%90-mongodb-%EC%97%B0%EB%8F%99-AWS-%EC%82%AC%EC%9A%A9-Web-Scraping/img.png)
 
 2 필요한 패키지
 

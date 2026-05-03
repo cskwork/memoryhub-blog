@@ -8,7 +8,7 @@ draft: false
 categories: ["데브 라이브러리"]
 tags: ["jQuery"]
 cover:
-  image: "/images/42-jQuery-Traversing-요소-이동하기/5.png"
+  image: "images/42-jQuery-Traversing-%EC%9A%94%EC%86%8C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/5.png"
   relative: false
   hidden: false
 ---
@@ -17,7 +17,7 @@ cover:
 
  : HTML은 DOM tree 구조여서 다른 element와의 관계 속에서 태그를 찾아야 한다.
 
-![](/images/42-jQuery-Traversing-요소-이동하기/5.png)
+![](/images/42-jQuery-Traversing-%EC%9A%94%EC%86%8C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/5.png)
 
 1 div : ul의 parent, 하위 모든 태그 ancestor
 
@@ -81,7 +81,7 @@ $(document).ready(function(){
 
 결과:
 
-![](/images/42-jQuery-Traversing-요소-이동하기/11.PNG)
+![](/images/42-jQuery-Traversing-%EC%9A%94%EC%86%8C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/11.PNG)
 
 ---
 
@@ -128,7 +128,7 @@ $(document).ready(function(){
 
   결과:
 
-![](/images/42-jQuery-Traversing-요소-이동하기/111.PNG)
+![](/images/42-jQuery-Traversing-%EC%9A%94%EC%86%8C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/111.PNG)
 
 ---
 
@@ -164,4 +164,4 @@ $(document).ready(function(){
 
 결과:
 
-![](/images/42-jQuery-Traversing-요소-이동하기/22.PNG)
+![](/images/42-jQuery-Traversing-%EC%9A%94%EC%86%8C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/22.PNG)

@@ -8,7 +8,7 @@ draft: false
 categories: ["데브 컨셉"]
 tags: ["정보처리기사"]
 cover:
-  image: "/images/68-컴퓨터-CPU-프로세서-작업-프로세스/img.png"
+  image: "images/68-%EC%BB%B4%ED%93%A8%ED%84%B0-CPU-%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-%EC%9E%91%EC%97%85-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/img.png"
   relative: false
   hidden: false
 ---
@@ -26,11 +26,11 @@ cover:
 
 - HAS address, state, time, id
 
-![](/images/68-컴퓨터-CPU-프로세서-작업-프로세스/img.png)
+![](/images/68-%EC%BB%B4%ED%93%A8%ED%84%B0-CPU-%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-%EC%9E%91%EC%97%85-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/img.png)
 
 ### 프로세스 상태 전이
 
-![](/images/68-컴퓨터-CPU-프로세서-작업-프로세스/img_1.png)
+![](/images/68-%EC%BB%B4%ED%93%A8%ED%84%B0-CPU-%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-%EC%9E%91%EC%97%85-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/img_1.png)
 
 - 제출 : 작업이 시스템에 제출된 상태
 - 접수 : 제출된 작업이 디스크에 저장된 상태

@@ -6,12 +6,12 @@ original_url: "https://memoryhub.tistory.com/860"
 tistory_id: 860
 draft: false
 cover:
-  image: "/images/860-Claude-Agent-Skills로-실전-에이전트-구축하기/img.webp"
+  image: "images/860-Claude-Agent-Skills%EB%A1%9C-%EC%8B%A4%EC%A0%84-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/img.webp"
   relative: false
   hidden: false
 ---
 
-![](/images/860-Claude-Agent-Skills로-실전-에이전트-구축하기/img.webp)
+![](/images/860-Claude-Agent-Skills%EB%A1%9C-%EC%8B%A4%EC%A0%84-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/img.webp)
 
 Claude는 강력하지만, 실제 업무에는 절차적 지식과 조직의 맥락이 필요합니다. 이제 파일과 폴더를 활용해 특화된 에이전트를 만드는 새로운 방식, Agent Skills를 소개합니다.
 
@@ -33,7 +33,7 @@ Skills의 실제 작동 방식을 보기 위해, 실제 예시를 살펴보겠�
 
 이 메타데이터가 점진적 공개의 첫 번째 단계입니다. 모든 내용을 컨텍스트에 로드하지 않고도 Claude가 각 스킬을 언제 사용해야 하는지 알 수 있을 만큼의 정보만 제공합니다. 이 파일의 실제 본문이 두 번째 세부 수준입니다. Claude가 스킬이 현재 작업과 관련이 있다고 판단하면, 전체 SKILL.md를 컨텍스트에 읽어들여 스킬을 로드합니다.
 
-![](/images/860-Claude-Agent-Skills로-실전-에이전트-구축하기/img_1.webp)
+![](/images/860-Claude-Agent-Skills%EB%A1%9C-%EC%8B%A4%EC%A0%84-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/img_1.webp)
 
 *SKILL.md 파일의 구조 - 관련 메타데이터 포함: 이름, 설명, 그리고 스킬이 수행해야 하는 특정 작업과 관련된 컨텍스트*
 
@@ -41,7 +41,7 @@ Skills의 실제 작동 방식을 보기 위해, 실제 예시를 살펴보겠�
 
 스킬의 복잡성이 증가하면, 단일 SKILL.md에 담기에는 컨텍스트가 너무 많거나, 특정 시나리오에만 관련된 컨텍스트가 있을 수 있습니다. 이러한 경우, 스킬은 스킬 디렉토리 내에 추가 파일을 포함하고 SKILL.md에서 이름으로 참조할 수 있습니다. 이러한 추가 연결 파일은 세 번째 세부 수준(그 이상)으로, Claude가 필요에 따라서만 탐색하고 발견할 수 있습니다.
 
-![](/images/860-Claude-Agent-Skills로-실전-에이전트-구축하기/img_2.webp)
+![](/images/860-Claude-Agent-Skills%EB%A1%9C-%EC%8B%A4%EC%A0%84-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/img_2.webp)
 
 아래 PDF 스킬에서 SKILL.md는 스킬 작성자가 핵심 SKILL.md와 함께 묶기로 선택한 두 개의 추가 파일(reference.md와 forms.md)을 참조합니다. 양식 작성 지침을 별도 파일(forms.md)로 이동함으로써, 스킬 작성자는 스킬의 핵심을 간결하게 유지할 수 있으며, Claude가 양식을 작성할 때만 forms.md를 읽을 것이라고 신뢰할 수 있습니다.
 
@@ -51,7 +51,7 @@ Skills의 실제 작동 방식을 보기 위해, 실제 예시를 살펴보겠�
 
 **점진적 공개**는 Agent Skills를 유연하고 확장 가능하게 만드는 핵심 설계 원칙입니다. 목차로 시작하여 특정 챕터, 그리고 마지막으로 상세한 부록으로 이어지는 잘 정리된 매뉴얼처럼, 스킬은 Claude가 필요한 만큼만 정보를 로드할 수 있게 합니다.
 
-![](/images/860-Claude-Agent-Skills로-실전-에이전트-구축하기/img_3.webp)
+![](/images/860-Claude-Agent-Skills%EB%A1%9C-%EC%8B%A4%EC%A0%84-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/img_3.webp)
 
 *스킬의 점진적 컨텍스트 공개를 보여주는 이미지*
 
@@ -61,7 +61,7 @@ Skills의 실제 작동 방식을 보기 위해, 실제 예시를 살펴보겠�
 
 다음 다이어그램은 사용자의 메시지에 의해 스킬이 트리거될 때 컨텍스트 윈도우가 어떻게 변화하는지 보여줍니다.
 
-![](/images/860-Claude-Agent-Skills로-실전-에이전트-구축하기/img_4.webp)
+![](/images/860-Claude-Agent-Skills%EB%A1%9C-%EC%8B%A4%EC%A0%84-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/img_4.webp)
 
 *컨텍스트 윈도우에서 스킬이 트리거되는 방식을 보여주는 이미지*  
 *스킬은 시스템 프롬프트를 통해 컨텍스트 윈도우에서 트리거됩니다.*
@@ -81,7 +81,7 @@ Skills의 실제 작동 방식을 보기 위해, 실제 예시를 살펴보겠�
 
 우리 예시에서 PDF 스킬에는 PDF를 읽고 모든 양식 필드를 추출하는 사전 작성된 Python 스크립트가 포함되어 있습니다. Claude는 스크립트나 PDF를 컨텍스트에 로드하지 않고도 이 스크립트를 실행할 수 있습니다. 그리고 코드가 결정론적이기 때문에, 이 워크플로우는 일관되고 반복 가능합니다.
 
-![](/images/860-Claude-Agent-Skills로-실전-에이전트-구축하기/img_5.webp)
+![](/images/860-Claude-Agent-Skills%EB%A1%9C-%EC%8B%A4%EC%A0%84-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/img_5.webp)
 
 *스킬을 통한 코드 실행 방식을 보여주는 이미지*
 

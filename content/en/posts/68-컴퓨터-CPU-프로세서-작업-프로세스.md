@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev Concepts"]
 tags: ["Info Processing Cert"]
 cover:
-  image: "/images/68-컴퓨터-CPU-프로세서-작업-프로세스/img.png"
+  image: "images/68-%EC%BB%B4%ED%93%A8%ED%84%B0-CPU-%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-%EC%9E%91%EC%97%85-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/img.png"
   relative: false
   hidden: false
 ---
@@ -26,11 +26,11 @@ The state change that occurs while a process is in the system.
 
 - HAS address, state, time, id
 
-![](/images/68-컴퓨터-CPU-프로세서-작업-프로세스/img.png)
+![](/images/68-%EC%BB%B4%ED%93%A8%ED%84%B0-CPU-%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-%EC%9E%91%EC%97%85-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/img.png)
 
 ### Process State Transition
 
-![](/images/68-컴퓨터-CPU-프로세서-작업-프로세스/img_1.png)
+![](/images/68-%EC%BB%B4%ED%93%A8%ED%84%B0-CPU-%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-%EC%9E%91%EC%97%85-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/img_1.png)
 
 - Submitted: State where a job is submitted to the system
 - Accepted: State where a submitted job is stored on disk

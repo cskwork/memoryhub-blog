@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev Util"]
 tags: ["JavaScript Play"]
 cover:
-  image: "/images/44-JS-TO-DO-LIST/img.jpg"
+  image: "images/44-JS-TO-DO-LIST/img.jpg"
   relative: false
   hidden: false
 ---

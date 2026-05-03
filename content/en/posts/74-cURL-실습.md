@@ -8,12 +8,12 @@ draft: false
 categories: ["Dev Ops"]
 tags: ["Curl"]
 cover:
-  image: "/images/74-cURL-실습/img.png"
+  image: "images/74-cURL-%EC%8B%A4%EC%8A%B5/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/74-cURL-실습/img.png)
+![](/images/74-cURL-%EC%8B%A4%EC%8A%B5/img.png)
 
 ### Network Check
 
@@ -100,7 +100,7 @@ unix2dos myfile.txt
 
 ### Result
 
-![](/images/74-cURL-実習/img_1.png)
+![](/images/74-cURL-%E5%AE%9F%E7%BF%92/img_1.png)
 
 ### REF
 

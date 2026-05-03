@@ -8,14 +8,14 @@ draft: false
 categories: ["Dev Util"]
 tags: ["JavaScript Play"]
 cover:
-  image: "/images/10-자바스크립트-color-toggle/colortoggle.jpg"
+  image: "images/10-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-color-toggle/colortoggle.jpg"
   relative: false
   hidden: false
 ---
 
 > Changing background color --> Later this can be applied to changing images or CSS backgrounds.
 
-![](/images/10-자바스크립트-color-toggle/colortoggle.jpg)
+![](/images/10-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-color-toggle/colortoggle.jpg)
 
 **color_toggle.html**
 

@@ -8,14 +8,14 @@ draft: false
 categories: ["데브 유틸"]
 tags: ["자바스크립트 놀기"]
 cover:
-  image: "/images/12-AJAX로-JSON-데이터-가져오기/JsonAjax.jpg"
+  image: "images/12-AJAX%EB%A1%9C-JSON-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/JsonAjax.jpg"
   relative: false
   hidden: false
 ---
 
 > AJAX 사용해서 JSON 데이터 가져오는 소스
 
-![](/images/12-AJAX로-JSON-데이터-가져오기/JsonAjax.jpg)
+![](/images/12-AJAX%EB%A1%9C-JSON-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/JsonAjax.jpg)
 
 **AJAX.js (백앤드-논리처리)**
 

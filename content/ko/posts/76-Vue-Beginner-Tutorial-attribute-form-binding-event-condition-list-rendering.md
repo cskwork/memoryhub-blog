@@ -8,7 +8,7 @@ draft: false
 categories: ["데브 프레임워크"]
 tags: ["VueJS"]
 cover:
-  image: "/images/76-Vue-Beginner-Tutorial-attribute-form-binding-event-condition-list-rendering/img.png"
+  image: "images/76-Vue-Beginner-Tutorial-attribute-form-binding-event-condition-list-rendering/img.png"
   relative: false
   hidden: false
 ---

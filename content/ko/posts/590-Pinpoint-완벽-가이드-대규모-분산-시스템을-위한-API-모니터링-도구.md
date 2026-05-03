@@ -8,7 +8,7 @@ draft: false
 categories: ["데브 옵스"]
 tags: ["Server Monitoring"]
 cover:
-  image: "/images/590-Pinpoint-완벽-가이드-대규모-분산-시스템을-위한-API-모니터링-도구/img.png"
+  image: "images/590-Pinpoint-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EB%B6%84%EC%82%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EC%9C%84%ED%95%9C-API-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%8F%84%EA%B5%AC/img.png"
   relative: false
   hidden: false
 ---
@@ -31,7 +31,7 @@ Pinpoint가 해결하는 주요 문제점:
 
 Pinpoint의 작동 방식은 크게 세 가지 핵심 컴포넌트로 구성됩니다:
 
-![](/images/590-Pinpoint-완벽-가이드-대규모-분산-시스템을-위한-API-모니터링-도구/img.png)
+![](/images/590-Pinpoint-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EB%B6%84%EC%82%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EC%9C%84%ED%95%9C-API-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%8F%84%EA%B5%AC/img.png)
 
 1. **Pinpoint Agent**: 애플리케이션에 설치되어 성능 데이터를 수집하는 컴포넌트입니다. Java의 javaagent 기능을 활용해 바이트코드 조작(instrumentation)을 통해 코드 수정 없이 모니터링이 가능합니다.
 2. **Pinpoint Collector**: Agent로부터 수집된 데이터를 받아 저장소에 저장하는 역할을 합니다.

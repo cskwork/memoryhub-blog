@@ -8,7 +8,7 @@ draft: false
 categories: ["Dev Library"]
 tags: ["Machine Learning"]
 cover:
-  image: "/images/89-Transformers-in-LLMs-Introduced/img.png"
+  image: "images/89-Transformers-in-LLMs-Introduced/img.png"
   relative: false
   hidden: false
 ---

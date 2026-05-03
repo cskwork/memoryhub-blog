@@ -8,12 +8,12 @@ draft: false
 categories: ["데브 라이브러리"]
 tags: ["GPT"]
 cover:
-  image: "/images/317-고양이-html-sonnet3-5-구현/img.png"
+  image: "images/317-%EA%B3%A0%EC%96%91%EC%9D%B4-html-sonnet3-5-%EA%B5%AC%ED%98%84/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/317-고양이-html-sonnet3-5-구현/img.png)
+![](/images/317-%EA%B3%A0%EC%96%91%EC%9D%B4-html-sonnet3-5-%EA%B5%AC%ED%98%84/img.png)
 
 ```
 <!DOCTYPE html>

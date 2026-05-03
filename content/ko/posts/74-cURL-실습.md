@@ -8,12 +8,12 @@ draft: false
 categories: ["데브 옵스"]
 tags: ["Curl"]
 cover:
-  image: "/images/74-cURL-실습/img.png"
+  image: "images/74-cURL-%EC%8B%A4%EC%8A%B5/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/74-cURL-실습/img.png)
+![](/images/74-cURL-%EC%8B%A4%EC%8A%B5/img.png)
 
 ### 네트워크 확인
 
@@ -100,7 +100,7 @@ unix2dos myfile.txt
 
 ### 결과
 
-![](/images/74-cURL-실습/img_1.png)
+![](/images/74-cURL-%EC%8B%A4%EC%8A%B5/img_1.png)
 
 ### REF
 

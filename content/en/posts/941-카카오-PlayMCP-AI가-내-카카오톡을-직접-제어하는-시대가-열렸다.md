@@ -8,12 +8,12 @@ draft: false
 categories: ["Dev Library"]
 tags: ["MCP"]
 cover:
-  image: "/images/941-카카오-PlayMCP-AI가-내-카카오톡을-직접-제어하는-시대가-열렸다/img.png"
+  image: "images/941-%EC%B9%B4%EC%B9%B4%EC%98%A4-PlayMCP-AI%EA%B0%80-%EB%82%B4-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%EC%9D%84-%EC%A7%81%EC%A0%91-%EC%A0%9C%EC%96%B4%ED%95%98%EB%8A%94-%EC%8B%9C%EB%8C%80%EA%B0%80-%EC%97%B4%EB%A0%B8%EB%8B%A4/img.png"
   relative: false
   hidden: false
 ---
 
-![](/images/941-카카오-PlayMCP-AI가-내-카카오톡을-직접-제어하는-시대가-열렸다/img.png)
+![](/images/941-%EC%B9%B4%EC%B9%B4%EC%98%A4-PlayMCP-AI%EA%B0%80-%EB%82%B4-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%EC%9D%84-%EC%A7%81%EC%A0%91-%EC%A0%9C%EC%96%B4%ED%95%98%EB%8A%94-%EC%8B%9C%EB%8C%80%EA%B0%80-%EC%97%B4%EB%A0%B8%EB%8B%A4/img.png)
 
 "I asked AI to tell me today's schedule, and it told me to open the calendar app myself." Many have experienced this. No matter how smart an AI is, if it cannot access my calendar, my messages, or my music app, it cannot be a true 'assistant'. **Kakao's PlayMCP is Korea's first attempt to break down this wall.**
 
