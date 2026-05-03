@@ -33,10 +33,13 @@
       {{- $entry := . -}}
       {{- $catPage := site.GetPage (printf "/categories/%s" $entry.name) -}}
       <article class="wiki-card">
+        {{- if $catPage }}
+        <a class="wiki-card-overlay" href="{{ $catPage.Permalink }}" aria-label="{{ $entry.name }}{{ if eq $lang `ko` }} 카테고리{{ else }} category{{ end }}"></a>
+        {{- end }}
         <header>
           <h3>
             {{- if $catPage -}}
-              <a href="{{ $catPage.Permalink }}">{{ $entry.name }}</a>
+              <a href="{{ $catPage.Permalink }}" tabindex="-1" aria-hidden="true">{{ $entry.name }}</a>
             {{- else -}}
               {{ $entry.name }}
             {{- end -}}
