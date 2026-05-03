@@ -1,9 +1,30 @@
 /* Wiki nav + knowledge graph styles for the home page. */
 
+/* Break the wiki + graph blocks out of PaperMod's centered 720px column
+   so they fill the viewport while the post list keeps its readable
+   narrow column. The full-bleed technique works at every screen size:
+   on phones the section is exactly viewport-wide with edge padding;
+   on desktop it expands up to a sane max width. */
+.home-wide {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  width: 100vw;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  padding-inline: clamp(16px, 4vw, 80px);
+  box-sizing: border-box;
+}
+
+.home-wide > section {
+  max-width: 1400px;
+  margin-inline: auto;
+}
+
 .wiki-nav,
 .graph-section,
 .post-list-section {
-  margin: 32px 0 48px;
+  margin-block: clamp(24px, 4vw, 48px);
 }
 
 .wiki-nav-header,
@@ -29,8 +50,8 @@
 
 .wiki-cards {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(auto-fill, minmax(min(280px, 100%), 1fr));
+  gap: clamp(12px, 2vw, 20px);
 }
 
 .wiki-card {
@@ -152,12 +173,13 @@
 
 #graph {
   width: 100%;
-  height: 540px;
+  height: clamp(360px, 60vh, 680px);
   background: var(--entry);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   position: relative;
   overflow: hidden;
+  touch-action: pan-x pan-y pinch-zoom;
 }
 
 #graph .graph-loading {
@@ -174,7 +196,27 @@
   background: #1f1f23;
 }
 
-@media (max-width: 720px) {
-  #graph { height: 420px; }
-  .wiki-cards { grid-template-columns: 1fr; }
+/* Tablet: show 2-column wiki grid even when the auto-fill thinks otherwise. */
+@media (max-width: 1024px) {
+  .home-wide { padding-inline: clamp(12px, 3vw, 32px); }
+  .wiki-cards { grid-template-columns: repeat(auto-fill, minmax(min(260px, 100%), 1fr)); }
+}
+
+/* Mobile: stack everything; tighten paddings; drop legend below header. */
+@media (max-width: 640px) {
+  .home-wide { padding-inline: 12px; }
+  .wiki-nav-header h2,
+  .graph-section-header h2,
+  .post-list-header h2 { font-size: 20px; }
+  .wiki-card { padding: 14px; }
+  .wiki-card h3 { font-size: 15px; }
+  .wiki-card ul li { font-size: 12px; }
+  .wiki-card ul li a { white-space: normal; }
+  .graph-section-header { flex-direction: column; align-items: flex-start; }
+  .graph-legend { flex-wrap: wrap; }
+  #graph { height: clamp(320px, 55vh, 460px); }
+}
+
+@media (max-width: 380px) {
+  .wiki-card-count { font-size: 11px; padding: 1px 6px; }
 }

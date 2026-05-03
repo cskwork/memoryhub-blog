@@ -33,10 +33,11 @@
   }
 
   function render(root, payload) {
+    var isSmall = window.matchMedia('(max-width: 640px)').matches;
     var groupStyles = {
-      category: { color: { background: '#3b82f6', border: '#1d4ed8' }, font: { color: '#ffffff', size: 16 }, shape: 'dot' },
-      tag:      { color: { background: '#14b8a6', border: '#0f766e' }, font: { color: '#ffffff', size: 12 }, shape: 'dot' },
-      post:     { color: { background: '#a78bfa', border: '#7c3aed' }, font: { color: '#1f2937', size: 11 }, shape: 'dot' }
+      category: { color: { background: '#3b82f6', border: '#1d4ed8' }, font: { color: '#ffffff', size: isSmall ? 13 : 16 }, shape: 'dot' },
+      tag:      { color: { background: '#14b8a6', border: '#0f766e' }, font: { color: '#ffffff', size: isSmall ? 10 : 12 }, shape: 'dot' },
+      post:     { color: { background: '#a78bfa', border: '#7c3aed' }, font: { color: '#1f2937', size: isSmall ? 0 : 11 }, shape: 'dot' }
     };
 
     var nodes = payload.nodes.map(function (n) {
@@ -62,14 +63,22 @@
     };
 
     var options = {
-      nodes: { borderWidth: 1, scaling: { min: 6, max: 32 } },
+      nodes: { borderWidth: 1, scaling: { min: isSmall ? 4 : 6, max: isSmall ? 22 : 32 } },
       edges: { smooth: { type: 'continuous' } },
       physics: {
         solver: 'forceAtlas2Based',
-        forceAtlas2Based: { gravitationalConstant: -45, springLength: 90, springConstant: 0.04, avoidOverlap: 0.4 },
-        stabilization: { iterations: 220, fit: true }
+        forceAtlas2Based: { gravitationalConstant: isSmall ? -35 : -45, springLength: isSmall ? 70 : 90, springConstant: 0.04, avoidOverlap: 0.4 },
+        stabilization: { iterations: isSmall ? 160 : 220, fit: true }
       },
-      interaction: { hover: true, tooltipDelay: 120, hideEdgesOnDrag: true },
+      interaction: {
+        hover: true,
+        tooltipDelay: 120,
+        hideEdgesOnDrag: true,
+        zoomView: true,
+        dragView: true,
+        multiselect: false,
+        navigationButtons: !isSmall
+      },
       layout: { improvedLayout: false }
     };
 

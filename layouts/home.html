@@ -10,6 +10,7 @@
 {{- partial "home_info.html" . }}
 {{- end }}
 
+<div class="home-wide">
 <section class="wiki-nav">
   <header class="wiki-nav-header">
     <h2>{{ if eq $lang "ko" }}주제별 둘러보기{{ else }}Browse by topic{{ end }}</h2>
@@ -76,6 +77,7 @@
     <p>{{ if eq $lang "ko" }}그래프는 JavaScript가 필요합니다.{{ else }}The graph requires JavaScript.{{ end }}</p>
   </noscript>
 </section>
+</div>
 
 <section class="post-list-section">
   <header class="post-list-header">
