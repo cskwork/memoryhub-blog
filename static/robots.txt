@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cskwork.github.io/sitemap.xml
+Sitemap: https://cskwork.github.io/memoryhub-blog/sitemap.xml
