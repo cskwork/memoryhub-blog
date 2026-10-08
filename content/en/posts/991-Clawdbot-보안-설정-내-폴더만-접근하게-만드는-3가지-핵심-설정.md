@@ -116,8 +116,8 @@ Skill files automatically mirror to this space, no extra setup needed.
         "docker": {
           "network": "bridge",
           "binds": [
-            "/Users/danny/Documents/PARA/Resource/art-assets:rw",
-            "/Users/danny/Documents/PARA/Resource/EduFlix:rw"
+            "/Users/<user>/Documents/PARA/Resource/art-assets:rw",
+            "/Users/<user>/Documents/PARA/Resource/EduFlix:rw"
           ]
         }
       }

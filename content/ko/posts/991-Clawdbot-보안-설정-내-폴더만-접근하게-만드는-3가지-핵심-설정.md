@@ -116,8 +116,8 @@ Sandbox mode는 도구가 **어디서** 실행되는지를 결정합니다.
         "docker": {
           "network": "bridge",
           "binds": [
-            "/Users/danny/Documents/PARA/Resource/art-assets:rw",
-            "/Users/danny/Documents/PARA/Resource/EduFlix:rw"
+            "/Users/<user>/Documents/PARA/Resource/art-assets:rw",
+            "/Users/<user>/Documents/PARA/Resource/EduFlix:rw"
           ]
         }
       }
